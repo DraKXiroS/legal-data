@@ -1,0 +1,15 @@
+CÓDIGO CIVIL - CONTENIDO DE PRUEBA
+
+Este archivo contiene texto mínimo de prueba para validar la descarga, el parser y la búsqueda offline de la aplicación. No constituye una publicación oficial ni debe utilizarse como fuente jurídica.
+
+LIBRO PRIMERO
+DE LAS PERSONAS
+
+TÍTULO I
+DE LAS PERSONAS INDIVIDUALES
+
+Artículo 1. Personalidad.
+La personalidad civil comienza con el nacimiento y termina con la muerte; sin embargo, al que está por nacer se le considera nacido para todo lo que le favorece, siempre que nazca en las condiciones que establece la ley.
+
+Artículo 2. Capacidad.
+Este artículo de prueba permite comprobar la indexación de contenido con caracteres especiales y la búsqueda por número de artículo.

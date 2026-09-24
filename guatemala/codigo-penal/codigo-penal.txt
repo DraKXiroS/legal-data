@@ -1,0 +1,15 @@
+CÓDIGO PENAL - CONTENIDO DE PRUEBA
+
+Este archivo contiene texto mínimo de prueba para validar la descarga, el parser y la búsqueda offline de la aplicación. No constituye una publicación oficial ni debe utilizarse como fuente jurídica.
+
+LIBRO PRIMERO
+PARTE GENERAL
+
+TÍTULO I
+DE LA LEY PENAL
+
+Artículo 1. Principio de legalidad.
+Nadie podrá ser penado por hechos que no estén expresamente calificados como delitos o faltas por una ley anterior a su perpetración.
+
+Artículo 2. Aplicación de la ley.
+La aplicación de este contenido de prueba debe limitarse a la validación técnica del lector y del índice de búsqueda.

@@ -1,0 +1,12 @@
+{
+  "id": "gt.codigo_civil",
+  "name": "Código Civil",
+  "country": "GT",
+  "language": "es",
+  "version": "2026.1-test",
+  "format": "txt",
+  "encoding": "UTF-8",
+  "content": "codigo-civil.txt",
+  "isTestData": true,
+  "source": "Contenido mínimo de prueba; verificar fuente oficial antes de uso jurídico."
+}

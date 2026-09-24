@@ -1,0 +1,12 @@
+{
+  "id": "gt.codigo_penal",
+  "name": "Código Penal",
+  "country": "GT",
+  "language": "es",
+  "version": "2026.1-test",
+  "format": "txt",
+  "encoding": "UTF-8",
+  "content": "codigo-penal.txt",
+  "isTestData": true,
+  "source": "Contenido mínimo de prueba; verificar fuente oficial antes de uso jurídico."
+}

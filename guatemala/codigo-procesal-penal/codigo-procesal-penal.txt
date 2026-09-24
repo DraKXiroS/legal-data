@@ -1,0 +1,15 @@
+CÓDIGO PROCESAL PENAL - CONTENIDO DE PRUEBA
+
+Este archivo contiene texto mínimo de prueba para validar la descarga, el parser y la búsqueda offline de la aplicación. No constituye una publicación oficial ni debe utilizarse como fuente jurídica.
+
+LIBRO PRIMERO
+DISPOSICIONES GENERALES
+
+TÍTULO I
+PRINCIPIOS BÁSICOS
+
+Artículo 1. Garantías procesales.
+Nadie podrá ser condenado sin un proceso previo, tramitado conforme a las garantías y formalidades establecidas por la ley.
+
+Artículo 2. Independencia del proceso.
+Este contenido de prueba sirve únicamente para comprobar la importación de varios paquetes legales en la aplicación.
