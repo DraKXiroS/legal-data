@@ -2,23 +2,24 @@
   "version": 1,
   "country": "GT",
   "language": "es",
+  "updatedAt": "2026-09-25",
   "packages": [
     {
       "id": "gt.codigo_penal",
       "name": "Código Penal",
-      "version": "2026.1-test",
+      "version": "2026.1",
       "manifest": "guatemala/codigo-penal/manifest.json"
     },
     {
       "id": "gt.codigo_civil",
       "name": "Código Civil",
-      "version": "2026.1-test",
+      "version": "2026.1",
       "manifest": "guatemala/codigo-civil/manifest.json"
     },
     {
       "id": "gt.codigo_procesal_penal",
       "name": "Código Procesal Penal",
-      "version": "2026.1-test",
+      "version": "2026.1",
       "manifest": "guatemala/codigo-procesal-penal/manifest.json"
     }
   ]

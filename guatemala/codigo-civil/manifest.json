@@ -3,10 +3,11 @@
   "name": "Código Civil",
   "country": "GT",
   "language": "es",
-  "version": "2026.1-v1",
+  "version": "2026.1",
   "format": "txt",
   "encoding": "UTF-8",
   "content": "codigo-civil.txt",
+  "updatedAt": "2026-09-25",
   "isTestData": true,
   "source": "Contenido mínimo de prueba; verificar fuente oficial antes de uso jurídico."
 }

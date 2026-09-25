@@ -3,10 +3,11 @@
   "name": "Código Procesal Penal",
   "country": "GT",
   "language": "es",
-  "version": "2026.1-test",
+  "version": "2026.1",
   "format": "txt",
   "encoding": "UTF-8",
   "content": "codigo-procesal-penal.txt",
+  "updatedAt": "2026-09-25",
   "isTestData": true,
   "source": "Contenido mínimo de prueba; verificar fuente oficial antes de uso jurídico."
 }
