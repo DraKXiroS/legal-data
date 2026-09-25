@@ -1,1 +1,13 @@
-
+{
+  "id": "gt.constitucion_politica",
+  "name": "Constitucion Politica",
+  "country": "GT",
+  "language": "es",
+  "version": "2026.1",
+  "format": "txt",
+  "encoding": "UTF-8",
+  "content": "constitucion-politica.txt",
+  "updatedAt": "2026-09-25",
+  "isTestData": true,
+  "source": "Contenido mínimo de prueba; verificar fuente oficial antes de uso jurídico."
+}
