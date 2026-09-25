@@ -21,6 +21,12 @@
       "name": "Código Procesal Penal",
       "version": "2026.1",
       "manifest": "guatemala/codigo-procesal-penal/manifest.json"
+    },
+    {
+      "id": "gt.constitucion_politica",
+      "name": "Constitucion Politica De Guatemala",
+      "version": "2026.1",
+      "manifest": "guatemala/constitucion-politica/manifest.json"
     }
   ]
 }
