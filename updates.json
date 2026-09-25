@@ -1,5 +1,16 @@
 {
-  "version": 1.1.0,
+  "version": "1.1.0",
   "updatedAt": "2026-09-25",
-  "notifications": []
+  "notifications": [
+    {
+      "title": "Reforma al Código Penal",
+      "body": "Se actualizó la redacción oficial del Artículo 123.",
+      "date": "2026-09-25"
+    },
+    {
+      "title": "Nuevo Código Civil v2026.2",
+      "body": "Ya está disponible el nuevo catálogo de leyes para descargar offline.",
+      "date": "2026-09-24"
+    }
+  ]
 }
