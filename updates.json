@@ -1,10 +1,10 @@
 {
-  "version": "1.2",
+  "version": "1.3",
   "updatedAt": "2026-09-25",
   "notifications": [
     {
-      "title": "mejoras implementadas en la app",
-      "body": "se implemento mejoras en modo lectura de articulos, se implemento tambien mejoras en fluidez y ajustes nuevos",
+      "title": "mejoras implementadas en la app dentro de nodos, sistema de lectura etc...",
+      "body": "se implemento mejoras",
       "date": "2026-09-25"
     },
     {
