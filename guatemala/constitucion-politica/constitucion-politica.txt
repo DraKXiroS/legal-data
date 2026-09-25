@@ -1,0 +1,56 @@
+CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE GUATEMALA - CONTENIDO DE PRUEBA
+
+Este archivo contiene texto mínimo de prueba para validar la descarga, el parser y la búsqueda offline de la aplicación. No constituye una publicación oficial ni debe utilizarse como fuente jurídica.
+
+LIBRO PRIMERO
+PREÁMBULO
+
+Nosotros, el pueblo de Guatemala, en uso de nuestra soberanía, por medio de nuestros representantes, reconociendo la necesidad de fortalecer la unidad nacional y realizar los ideales de justicia, libertad y paz, decretamos la presente Constitución Política de la República de Guatemala.
+
+TÍTULO I
+DERECHOS Y DEBERES FUNDAMENTALES
+
+CAPÍTULO I
+DERECHOS INDIVIDUALES
+
+Artículo 1. Protección de la persona.
+El Estado de Guatemala se organiza para proteger a la persona y a la familia; su finalidad fundamental es la realización del bien común.
+
+Artículo 2. Deberes del Estado.
+Es deber del Estado garantizador y productor del bien común, tutelar la legalidad y la seguridad social.
+
+Artículo 3. Derecho a la vida.
+El derecho a la vida es inherente a la persona humana. Todas las leyes y autoridades protegerán y respetarán la vida.
+
+Artículo 4. Libertad de acción.
+Toda persona es libre para actuar sin restricción que no esté establecida por la ley, por razones de orden público o de interés social.
+
+CAPÍTULO II
+DERECHOS POLÍTICOS
+
+Artículo 5. Libertad de conciencia y religión.
+Todo acto discriminatorio contra personas por razón de su religión, nacimiento, posición económica, condición social o política, es punible.
+
+TÍTULO II
+SISTEMA DE GOBIERNO
+
+CAPÍTULO I
+PODER EJECUTIVO
+
+Artículo 6. Poder Ejecutivo.
+El Poder Ejecutivo se ejerce por el Presidente de la República, quien es el Jefe del Estado y responsable del cumplimiento y ejecución de las leyes.
+
+Artículo 7. Presidente de la República.
+El Presidente de la República es el funcionario superior del Poder Ejecutivo y responsable ante la Nación por sus actos.
+
+CAPÍTULO II
+PODER LEGISLATIVO
+
+Artículo 8. Poder Legislativo.
+El Poder Legislativo es ejercido por el Congreso de la República, compuesto por diputados elegidos directamente por el pueblo.
+
+CAPÍTULO III
+PODER JUDICIAL
+
+Artículo 9. Poder Judicial.
+El Poder Judicial es independiente del Ejecutivo y del Legislativo. Su finalidad es garantizar la administración de justicia conforme a la Constitución y las leyes.
