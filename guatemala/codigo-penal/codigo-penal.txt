@@ -55,7 +55,7 @@ dispuesto en el artículo 2.
 toda persona que cometa delito o falta en el territorio de la República o en lugares o
 vehículos sometidos a su jurisdicción.
 
- EXTRATERRITORIALIDAD DE LA LEY PENAL
+*//EXTRATERRITORIALIDAD DE LA LEY PENAL
 
  ARTICULO 5. Este Código también se aplicará:
 
@@ -80,7 +80,7 @@ constitucional, la integridad de su territorio, así como falsificación de la f
 Presidente de la República, falsificación de moneda o de billetes de banco, de curso legal,
 bonos y demás títulos y documentos de crédito.
 
- SENTENCIA EXTRANJERA
+  *//SENTENCIA EXTRANJERA
 
  ARTICULO 6. En los casos de los incisos 1o. y 6o. del artículo anterior, el imputado será
 juzgado según la ley guatemalteca, aun cuando haya sido absuelto o condenado en el
@@ -90,12 +90,12 @@ estado detenido, se abandonará al procesado.
  En los demás casos, si hubiere condena, se aplicará la ley más benigna. La sentencia
 extranjera producirá cosa juzgada.
 
- EXCLUSIÓN DE LA ANALOGÍA
+  *//EXCLUSIÓN DE LA ANALOGÍA
 
  ARTICULO 7. Por analogía, los jueces no podrán crear figuras delictivas ni aplicar
 sanciones.
 
- EXTRADICIÓN
+  *//EXTRADICIÓN
 
  ARTICULO 8. La extradición sólo podrá intentarse u otorgarse por delitos comunes.
 Cuando se trate de extradición comprendida en tratados internacionales, sólo podrá
@@ -104,7 +104,7 @@ otorgarse si existe reciprocidad.
  En ningún caso podrá intentarse ni otorgarse la extradición por delitos políticos, ni por
 delitos comunes conexos con aquéllos.
 
- LEYES ESPECIALES
+  *//LEYES ESPECIALES
 
  ARTICULO 9. Las disposiciones de este Código se aplicarán a todas las materias de
 naturaleza penal, reguladas por otras leyes, en cuanto éstas, implícita o expresamente, no
@@ -113,7 +113,7 @@ dispusieren lo contrario.
  TITULO II
  DEL DELITO
 
- RELACIÓN DE CAUSALIDAD
+  *//RELACIÓN DE CAUSALIDAD
 
  ARTICULO 10. Los hechos previstos en las figuras delictivas serán atribuidos al
 imputado, cuando fueren consecuencia de una acción u omisión normalmente idónea
@@ -121,42 +121,42 @@ para producirlos, conforme a la naturaleza del respectivo delito y a las circuns
 concretas del caso o cuando la ley expresamente lo establece como consecuencia de
 determinada conducta.
 
- DELITO DOLOSO
+  *//DELITO DOLOSO
 
  ARTICULO 11. El delito es doloso, cuando el resultado ha sido previsto o cuando, sin
 perseguir ese resultado, el autor se lo representa como posible y ejecuta el acto.
 
- VDELITO CULPOSO
+  *//VDELITO CULPOSO
 
  ARTICULO 12. El delito es culposo cuando con ocasión de acciones u omisiones lícitas,
 se causa un mal por imprudencia, negligencia o impericia.
 
  Los hechos culposos son punibles en los casos expresamente determinados por la ley.
 
- DELITO CONSUMADO
+  *//DELITO CONSUMADO
 
  ARTICULO 13. El delito es consumado, cuando concurren todos los elementos de su
 tipificación.
 
- TENTATIVA
+  *//TENTATIVA
 
  ARTICULO 14. Hay tentativa, cuando con el fin de cometer un delito, se comienza su
 ejecución por actos exteriores, idóneos y no se consuma por causas independientes de la
 voluntad del agente.
 
- TENTATIVA IMPOSIBLE
+  *//TENTATIVA IMPOSIBLE
 
  ARTICULO 15. Si la tentativa se efectuare con medios normalmente inadecuados o sobre
 un objeto de tal naturaleza, que la consumación del hecho resulta absolutamente
 imposible, el autor solamente quedará sujeto a medidas de seguridad.
 
- DESISTIMIENTO
+  *//DESISTIMIENTO
 
  ARTICULO 16. Cuando comenzada la ejecución de un delito, el autor desiste
 voluntariamente de realizar todos los actos necesarios para consumarlo, sólo se le
 aplicará sanción por los actos ejecutados, si éstos constituyen delito por sí mismos.
 
- CONSPIRACIÓN Y PROPOSICIÓN
+  *//CONSPIRACIÓN Y PROPOSICIÓN
 
  ARTICULO 17. Hay conspiración, cuando dos o más personas se conciertan para
 cometer un delito y resuelven ejecutarlo.
@@ -167,29 +167,29 @@ personas a ejecutarlo.
  La conspiración, la proposición, la provocación, la instigación y la inducción para cometer
 un delito, sólo son punibles en los casos en que la ley lo determine expresamente.
 
- COMISIÓN POR OMISIÓN
+  *//COMISIÓN POR OMISIÓN
 
  ARTICULO 18. Quien, omita impedir un resultado que tiene el deber jurídico de evitar,
 responderá como si lo hubiere producido.
 
- TIEMPO DE COMISIÓN DEL DELITO
+  *//TIEMPO DE COMISIÓN DEL DELITO
 
  ARTICULO 19. El delito se considera realizado en el momento en que se ha ejecutado la
 acción. En los delitos de omisión en el momento en que debió realizarse la acción omitida.
 
- LUGAR DEL DELITO
+  *//LUGAR DEL DELITO
 
  ARTICULO 20. El delito se considera realizado: en el lugar donde se ejecutó la acción, en
 todo o en parte; en el lugar donde se produjo o debió producirse el resultado y en los
 delitos de omisión, en el lugar donde debió cumplirse la acción omitida.
 
- ERROR EN PERSONA
+  *//ERROR EN PERSONA
 
  ARTICULO 21. Quien comete un delito será responsable de él, aunque su acción recaiga
 en persona distinta de aquélla a quien se proponía ofender o el mal causado sea distinto
 del que se proponía ejecutar.
 
- CASO FORTUITO
+  *//CASO FORTUITO
 
  ARTICULO 22. No incurre en responsabilidad penal, quien con ocasión de acciones u
 omisiones lícitas, poniendo en ellas la debida diligencia, produzca un resultado dañoso
@@ -199,7 +199,7 @@ por mero accidente.
  DE LAS CAUSAS QUE EXIMEN DE RESPONSABILIDAD PENAL
 
  CAPITULO I
- CAUSAS DE INIMPUTABILIDAD
+  *//CAUSAS DE INIMPUTABILIDAD
 
  ARTICULO 23. No es imputable:
 
@@ -212,11 +212,11 @@ esa comprensión, salvo que el trastorno mental transitorio, haya sido buscado d
 propósito por el agente.
 
  CAPITULO II
- CAUSAS DE JUSTIFICACION
+  *//CAUSAS DE JUSTIFICACION
 
  ARTICULO 24. Son causas de justificación:
 
- LEGÍTIMA DEFENSA
+  *//LEGÍTIMA DEFENSA
 
  1o. Quien obra en defensa de su persona, bienes o derechos, o en defensa de la
 persona, bienes o derechos de otra, siempre que concurran la circunstancias siguientes:
@@ -257,7 +257,7 @@ público que desempeña, de la profesión a que se dedica, de la autoridad que e
 la ayuda que preste a la justicia.
 
  CAPITULO III
- CAUSAS DE INCULPABILIDAD
+  *//CAUSAS DE INCULPABILIDAD
 
  ARTICULO 25. Son causas de inculpabilidad:
 
@@ -298,7 +298,7 @@ insuperable.
  DE LAS CIRCUNSTANCIAS QUE MODIFICAN LA RESPONSABILIDAD PENAL
 
  CAPITULO I
- CIRCUNSTANCIAS ATENUANTES
+  *//CIRCUNSTANCIAS ATENUANTES
 
  ARTICULO 26. Son circunstancias atenuantes:
 
@@ -374,7 +374,7 @@ excluir de responsabilidad en los respectivos casos.
  14. Cualquiera otra circunstancia de igual entidad y análoga a las interiores.
 
  CAPITULO II
- CIRCUNSTANCIAS AGRAVANTES
+  *//CIRCUNSTANCIAS AGRAVANTES
 
  ARTICULO 27. Son circunstancias agravantes:
 
@@ -521,7 +521,7 @@ cumplido las penas.
  CAPITULO III
  DE LAS DISPOSICIONES COMUNES
 
- AGRAVANTE ESPECIAL DE APLICACIÓN RELATIVA
+  *//AGRAVANTE ESPECIAL DE APLICACIÓN RELATIVA
 
  ARTICULO 28. Los jefes o agentes encargados del orden público, que cometieren
 cualquier delito contra las personas o sus bienes siempre que se pruebe que en la
@@ -529,14 +529,14 @@ realización del mismo, se produjo grave abuso de autoridad y de la confianza qu
 Estado les ha otorgado, se les impondrá la pena correspondiente al delito cometido
 aumentada en una cuarta parte.
 
- EXCLUSIÓN DE AGRAVANTES
+  *//EXCLUSIÓN DE AGRAVANTES
 
  ARTICULO 29. No se apreciarán como circunstancias agravantes, las que por sí mismas
 constituyen un delito especialmente previsto por la ley, ni las que ésta haya expresado al
 tipificarlo, o sean de tal manera inherentes al delito que, sin la concurrencia de ellas, no
 pudiere cometerse.
 
- CIRCUNSTANCIAS INCOMUNICABLES
+  *//CIRCUNSTANCIAS INCOMUNICABLES
 
  ARTICULO 30. Las circunstancias atenuantes o agravantes que consistan en factores o
 caracteres meramente personales del delincuente, o que resulten de sus relaciones
@@ -547,7 +547,7 @@ hecho delictuoso o de los medios empleados para realizarlo, sólo se apreciarán
 de aquellos partícipes que de ellas tuvieren conocimiento antes o en el momento de la
 acción.
 
- CIRCUNSTANCIAS MIXTAS
+  *//CIRCUNSTANCIAS MIXTAS
 
  ARTICULO 31. Podrán ser apreciadas como circunstancias atenuantes o agravantes,
 según la naturaleza, los móviles o los afectos del delito: Ser el agraviado cónyuge o
@@ -560,7 +560,7 @@ agravantes que provengan de la naturaleza del ofendido o de vínculos con éste.
 circunstancias atenuantes concurrentes si el delito lo hubiere cometido en la persona,
 contra quien se lo había propuesto, se apreciarán en favor del responsable.
 
- LIMITACIONES A LA REINCIDENCIA Y A LA HABITUALIDAD
+  *//LIMITACIONES A LA REINCIDENCIA Y A LA HABITUALIDAD
 
  ARTICULO 32. No existe reincidencia ni habitualidad entre delitos dolosos y culposos,
 entre delitos comunes y puramente militares, entre delitos comunes y políticos, entre
@@ -568,12 +568,12 @@ delitos y faltas. En cuanto a delitos políticos, es facultativo de los jueces a
 reincidencia, atendidas las condiciones personales del responsable y las circunstancias
 especiales en que se cometió el hecho.
 
- CONSECUENCIAS DE LA HABITUALIDAD
+ *// CONSECUENCIAS DE LA HABITUALIDAD
 
  ARTICULO 33. Además de aplicarle la pena respectiva, el delincuente habitual quedará
 sujeto a medidas de seguridad.
 
- PRESCRIPCIÓN
+  *//PRESCRIPCIÓN
 
  ARTICULO 34. Transcurridos diez años entre la perpetración de uno y otro delito, no se
 tomará en cuenta la condena anterior.
@@ -586,13 +586,13 @@ de libertad por detención preventiva o por la pena.
  CAPITULO I
  DE LA PARTICIPACION EN EL DELITO
 
- RESPONSABLES
+  *//RESPONSABLES
 
  ARTICULO 35. Son responsables penalmente del delito: Los autores y los cómplices.
 
  De las faltas sólo son responsables los autores.
 
- AUTORES
+  *//AUTORES
 
  ARTICULO 36. Son autores:
 
@@ -606,7 +606,7 @@ ejecución, con un acto sin el cual no se hubiere podido cometer.
  4o. Quienes habiéndose concertado con otro u otros para la ejecución de un delito, están
 presentes en el momento de su consumación.
 
- CÓMPLICES
+ *// CÓMPLICES
 
  ARTICULO 37. Son cómplices:
 
@@ -620,7 +620,7 @@ delito.
  4o. Quienes sirvieron de enlace o actuaren como intermediarios entre los partícipes para
 obtener la concurrencia de éstos en el delito.
 
- RESPONSABILIDAD PENAL DE PERSONAS JURÍDICAS
+  *//RESPONSABILIDAD PENAL DE PERSONAS JURÍDICAS
 
  ARTICULO 38. En lo relativo a personas jurídicas se tendrá como responsables de los
 delitos respectivos a directores, gerentes, ejecutivos, representantes, administradores,
@@ -628,7 +628,7 @@ funcionarios o empleados de ellas, que hubieren intervenido en el hecho y sin cu
 participación no se hubiere realizado éste y serán sancionados con las mismas penas
 señaladas en este Código para las personas individuales.
 
- DELITO DE MUCHEDUMBRE
+  *//DELITO DE MUCHEDUMBRE
 
  ARTICULO 39. Cuando se trate de delitos cometidos por una muchedumbre, se aplicarán
 las disposiciones siguientes:
@@ -648,7 +648,7 @@ hechos delictivos.
  Esta última exención no alcanza a la reunión en sí misma, cuando estuviere prevista en
 la ley, como delito.
 
- RESPONSABILIDAD POR DELITOS DISTINTOS DE LOS CONCERTADOS
+  *//RESPONSABILIDAD POR DELITOS DISTINTOS DE LOS CONCERTADOS
 
  ARTICULO 40. Si el delito cometido fuere más grave que el concertado o de igual
 gravedad, pero de distinta naturaleza o complicado por otros delitos, los partícipes
@@ -663,18 +663,18 @@ primero.
  DE LAS PENAS
 
  CAPITULO I
- PENAS PRINCIPALES
+  *//PENAS PRINCIPALES
 
  ARTICULO 41. Son penas principales: La de muerte, la de prisión, el arresto y la multa.
 
- PENAS ACCESORIAS
+  *//PENAS ACCESORIAS
 
  ARTICULO 42. Son penas accesorias: Inhabilitación absoluta; inhabilitación especial;
 comiso y pérdida de los objetos o instrumentos del delito; expulsión de extranjeros del
 territorio nacional; pago de costas y gastos procesales; publicación de la sentencia y
 todas aquéllas que otras leyes señalen.
 
- PENA DE MUERTE
+  *//PENA DE MUERTE
 
  ARTICULO 43. La pena de muerte, tiene carácter extraordinario y sólo podrá aplicarse en
 los casos expresamente consignados en la ley y no se ejecutará, sino después de
@@ -695,7 +695,7 @@ agotarse todos los recursos legales.
  En estos casos y siempre que la pena de muerte fuere conmutada por la de privación de
 libertad, se le aplicará prisión en su límite máximo.
 
- PENA DE PRISION
+  *//PENA DE PRISION
 
  ARTICULO 44. La pena de prisión consiste en la privación de la libertad personal y
 deberá cumplirse en los centros penales destinados para el efecto. Su duración se
@@ -710,13 +710,13 @@ pena y la que corresponda al nuevo delito cometido.
 conducta, cometiere nuevo delito o infringiere gravemente los reglamentos del centro
 penal en que cumpla su condena.
 
- PENA DE ARRESTO
+ *// PENA DE ARRESTO
 
  ARTICULO 45. La pena de arresto consiste en la privación de libertad personal hasta por
 sesenta días. Se aplicará a los responsables de faltas y se ejecutará en lugares distintos a
 los destinados al cumplimiento de la pena de prisión.
 
- LA PRIVACIÓN DE LIBERTAD EN LA MUJER
+  *//LA PRIVACIÓN DE LIBERTAD EN LA MUJER
 
  ARTICULO 46. Las mujeres cumplirán las penas privativas de libertad en
 establecimientos especiales. Cuando éstos no tuvieren las condiciones necesarias para
@@ -724,7 +724,7 @@ atender aquéllas que se hallaren en estado de gravidez o dentro de los cuarenta
 siguientes al parto, se les remitirá a un centro adecuado de salud, bajo custodia, por el
 tiempo estrictamente necesario.
 
- PRODUCTO DE TRABAJO
+  *//PRODUCTO DE TRABAJO
 
  ARTICULO 47. El trabajo de los reclusos es obligatorio y debe ser remunerado. El
 producto de la remuneración será inembargable y se aplicará:
@@ -738,14 +738,14 @@ medios productivos que, como fuente de trabajo, beneficien al recluso.
 
  4o. A formar un fondo propio que se le entregará al ser liberado.
 
- DETERMINACIÓN DEL TRABAJO
+  *//DETERMINACIÓN DEL TRABAJO
 
  ARTICULO 48. El trabajo deberá ser compatible con el sexo, edad, capacidad y
 condición física del recluso. No están obligados a trabajar los reclusos mayores de
 sesenta años de edad, los que tuvieren impedimento físico y los que padecieren de
 enfermedad que les haga imposible o peligroso el trabajo.
 
- ENFERMEDAD SOBREVINIENTE
+  *//ENFERMEDAD SOBREVINIENTE
 
  ARTICULO 49. Si el encausado o el reo padeciere enfermedad que requiera
 internamiento especial, deberá ordenarse su traslado a un establecimiento adecuado, en
@@ -755,7 +755,7 @@ disposición no se aplicará si el centro contare con establecimiento adecuado.
  El tiempo de internamiento se computará para el cumplimiento de la pena, salvo
 simulación o fraude para lograr o prolongar el internamiento.
 
- CONMUTACIÓN DE LAS PENAS PRIVATIVAS DE LIBERTAD
+  *//CONMUTACIÓN DE LAS PENAS PRIVATIVAS DE LIBERTAD
 
  ARTICULO 50. Son conmutables:
 
@@ -765,7 +765,7 @@ circunstancias del hecho y a las condiciones económicas del penado.
 
  2o. El arresto.
 
- INCONMUTABLES
+  *//INCONMUTABLES
 
  ARTICULO 51. La conmutación no se otorgará:
 
@@ -779,19 +779,19 @@ circunstancias del hecho y a las condiciones económicas del penado.
 conducta y las circunstancias del hecho, se establezca, a juicio del juez, su peligrosidad
 social.
 
- MULTA
+  *//MULTA
 
  ARTICULO 52. La pena de multa consiste en el pago de una cantidad de dinero que el
 juez fijará, dentro de los límites legales.
 
- DETERMINACIÓN DEL MONTO DE LA MULTA
+  *//DETERMINACIÓN DEL MONTO DE LA MULTA
 
  ARTICULO 53. La multa tiene carácter personal y será determinada de acuerdo con la
 capacidad económica del reo; su salario, su sueldo o renta que perciba; su aptitud para el
 trabajo, o capacidad de producción; cargas familiares debidamente comprobadas y las
 demás circunstancias que indiquen su situación económica.
 
- FORMADE EJECUCIÓN DE LA MULTA
+  *//FORMADE EJECUCIÓN DE LA MULTA
 
  ARTICULO 54. La multa deberá ser pagada por el condenado dentro de un plazo no
 mayor de tres días, a contar de la fecha en que la sentencia quedó ejecutoriada.
@@ -802,7 +802,7 @@ pago señalará el juzgador teniendo en cuenta las condiciones económicas del o
 en ningún caso excederá de un año el término en que deberán hacerse los pagos de las
 amortizaciones.
 
- CONVERSIÓN
+  *//CONVERSIÓN
 
  ARTICULO 55. Los penados con multa, que no la hicieren efectiva en el término legal, o
 que no cumplieren con efectuar las amortizaciones para su debido pago, o fueren
@@ -810,7 +810,7 @@ insolventes, cumplirán su condena con privación de libertad, regulándose el t
 la naturaleza del hecho y las condiciones personales del penado entre cinco quetzales y
 cien quetzales por cada día.
 
- INHABILITACIÓN ABSOLUTA
+  *//INHABILITACIÓN ABSOLUTA
 
  ARTICULO 56. La inhabilitación absoluta comprende:
 
@@ -825,7 +825,7 @@ elección popular.
 
  5o. La incapacidad de ejercer la patria potestad y de ser tutor o protutor.
 
- INHABILITACIÓN ESPECIAL
+  *//INHABILITACIÓN ESPECIAL
 
  ARTICULO 57. La inhabilitación especial consistirá, según el caso:
 
@@ -835,19 +835,19 @@ distintos incisos del artículo que antecede.
  2o. En la prohibición de ejercer una profesión o actividad cuyo ejercicio dependa de una
 autorización, licencia o habilitación.
 
- APLICACIÓN DE INHABILITACIÓN ESPECIAL
+  *//APLICACIÓN DE INHABILITACIÓN ESPECIAL
 
  ARTICULO 58. Conjuntamente con la pena principal, se impondrá la de inhabilitación
 especial, cuando el hecho delictuoso se cometiere con abuso del ejercicio o con infracción
 de los deberes inherentes a una profesión o actividad.
 
- SUSPENSIÓN DE DERECHOS POLÍTICOS
+  *//SUSPENSIÓN DE DERECHOS POLÍTICOS
 
  ARTICULO 59. La pena de prisión lleva consigo la suspensión de los derechos políticos,
 durante el tiempo de la condena, aunque ésta se conmute, salvo que obtenga su
 rehabilitación.
 
- COMISO
+  *//COMISO
 
  ARTICULO 60. El comiso consiste en la pérdida, a favor del Estado, de los objetos que
 provengan de un delito o falta, y de los instrumentos con que se hubieren cometido, a no
@@ -858,7 +858,7 @@ llegue a declararse la existencia del delito o la culpabilidad del imputado.
  Los objetos decomisados de lícito comercio, se venderán y el producto de la venta
 incrementará los fondos privativos del Organismo Judicial.
 
- PUBLICACIÓN DE LA SENTENCIA
+  *//PUBLICACIÓN DE LA SENTENCIA
 
  ARTICULO 61. La publicación de la sentencia es pena accesoria a la principal que se
 imponga por los delitos contra el honor.
@@ -874,23 +874,23 @@ o a terceros.
  CAPITULO II
  DE LA APLICACION DE LAS PENAS
 
- AL AUTOR DEL DELITO CONSUMADO
+  *//AL AUTOR DEL DELITO CONSUMADO
 
  ARTICULO 62. Salvo determinación especial, toda pena señalada en la ley para un
 delito, se entenderá que debe imponerse al autor del delito consumado.
 
- AL AUTOR DE TENTATIVA Y AL CÓMPLICE DEL DELITO CONSUMADO
+ *// AL AUTOR DE TENTATIVA Y AL CÓMPLICE DEL DELITO CONSUMADO
 
  ARTICULO 63. Al autor de tentativa y al cómplice de delito consumado, se les impondrá
 la pena señalada en la ley para los autores del delito consumado, rebajada en una tercera
 parte.
 
- AL CÓMPLICE DE TENTATIVA
+ *// AL CÓMPLICE DE TENTATIVA
 
  ARTICULO 64. A los cómplices de tentativa, se les impondrá la pena que la ley señala
 para los autores del delito consumado, rebajada en dos terceras partes.
 
- FIJACIÓN DE LA PENA
+  *//FIJACIÓN DE LA PENA
 
  ARTICULO 65. El juez o tribunal determinará, en la sentencia, la pena que corresponda,
 dentro del máximo y el mínimo señalado por la ley, para cada delito, teniendo en cuenta la
@@ -901,7 +901,7 @@ como por su entidad o importancia. El juez o tribunal deberá consignar, expresa
 extremos a que se refiere el párrafo que antecede y que ha considerado determinantes
 para regular la pena.
 
- AUMENTO Y DISMINUCIÓN DE LÍMITES
+  *//AUMENTO Y DISMINUCIÓN DE LÍMITES
 
  ARTICULO 66. Cuando la ley disponga que se aumente o disminuya una pena en una
 cuota o fracción determinada, se aumentará el máximo y el mínimo en la proporción
@@ -909,7 +909,7 @@ correspondiente, o se disminuirá en su caso, quedando así fijada la nueva pena
 de cuyos límites se graduará su aplicación conforme a lo dispuesto en el artículo que
 antecede.
 
- ENFERMEDAD MENTAL DEL DETENIDO
+ *// ENFERMEDAD MENTAL DEL DETENIDO
 
  ARTICULO 67. Si el delincuente enfermare mentalmente después de pronunciada
 sentencia, se suspenderá su ejecución, en cuanto a la pena personal. Al recobrar el
@@ -918,7 +918,7 @@ penado su salud mental cumplirá su pena.
  En igual forma se procederá cuando la enfermedad mental sobreviniere hallándose el
 penado cumpliendo condena.
 
- CÓMPUTO DE LA PENA
+ *// CÓMPUTO DE LA PENA
 
  ARTICULO 68. La condena se computará desde la fecha en que el reo hubiere sido
 detenido, salvo que haya sido excarcelado.
@@ -926,7 +926,7 @@ detenido, salvo que haya sido excarcelado.
  CAPITULO III
  DEL CONCURSO DE DELITOS
 
- CONCURSO REAL
+  *//CONCURSO REAL
 
  ARTICULO 69. Al responsable de dos o más delitos, se le impondrán todas las penas
 correspondientes a las infracciones que haya cometido a fin de que las cumpla
@@ -940,7 +940,7 @@ duración no podrán exceder del triple de la pena.
 
  2. A doscientos mil quetzales de multa.
 
- CONCURSO IDEAL
+  *//CONCURSO IDEAL
 
  ARTICULO 70. En caso de que un solo hecho constituya dos o más delitos, o cuando
 uno de ellos sea medio necesario de cometer el otro, únicamente se impondrá la pena
@@ -955,7 +955,7 @@ sancionados con prisión y multa o de delitos sancionados sólo con multa, el ju
 prudente arbitrio y bajo su responsabilidad, aplicará las sanciones respectivas en la forma
 que resulte más favorable al reo.
 
- DELITO CONTINUADO
+  *//DELITO CONTINUADO
 
  ARTICULO 71. Se entenderá que hay delito continuado cuando varias acciones u
 omisiones se cometan en las circunstancias siguientes:
@@ -977,7 +977,7 @@ parte.
  CAPITULO IV
  DE LA SUSPENSION CONDICIONAL DE LA PENA
 
- SUSPENSIÓN CONDICIONAL
+  *//SUSPENSIÓN CONDICIONAL
 
  ARTICULO 72. Al dictar sentencia, podrán los tribunales suspender condicionalmente la
 ejecución de la pena, suspensión que podrán conceder, por un tiempo no menor de dos
@@ -993,24 +993,24 @@ conducta y hubiere sido un trabajador constante.
  4o. Que la naturaleza del delito cometido, sus móviles y circunstancias, no revelen
 peligrosidad en el agente y pueda presumirse que no volverá a delinquir.
 
- REO SOMETIDO A MEDIDAS DE SEGURIDAD
+  *//REO SOMETIDO A MEDIDAS DE SEGURIDAD
 
  ARTICULO 73. No se otorgará el beneficio establecido en el artículo que antecede,
 cuando en la sentencia se imponga, además de la pena personal, una medida de
 seguridad, excepto en caso de libertad vigilada.
 
- RESPONSABILIDADES CIVILES
+  *//RESPONSABILIDADES CIVILES
 
  ARTICULO 74. La suspensión condicional de la pena podrá hacerse extensiva a las
 penas accesorias, pero no eximirá de las obligaciones civiles derivadas del delito.
 
- ADVERTENCIAS
+ *// ADVERTENCIAS
 
  ARTICULO 75. El juez o tribunal de la causa deberá hacer advertencia personal al reo,
 en relación de la naturaleza del beneficio que se le otorga y de los motivos que puedan
 producir su revocación, lo que se hará constar por acta en el expediente.
 
- REVOCACIÓN DEL BENEFICIO
+  *//REVOCACIÓN DEL BENEFICIO
 
  ARTICULO 76. Si durante el período de suspensión de la ejecución de la pena, el
 beneficiado cometiera un nuevo delito se revocará el beneficio otorgado y se ejecutará la
@@ -1018,7 +1018,7 @@ pena suspendida más la que le correspondiere por el nuevo cometido. Si durante 
 suspensión de la condena se descubriese que el penado tiene antecedentes por haber
 cometido un delito doloso, sufrirá la pena que le hubiere sido impuesta.
 
- EXTINCIÓN DE LA PENA
+  *//EXTINCIÓN DE LA PENA
 
  ARTICULO 77. Transcurrido el período fijado, sin que el penado haya dado motivo para
 revocar la suspensión, se tendrá por extinguida la pena.
@@ -1026,19 +1026,19 @@ revocar la suspensión, se tendrá por extinguida la pena.
  CAPITULO V
  DE LA LIBERTAD CONDICIONAL
 
- AUTORIDAD COMPETENTE PARA DECRETARLA
+  *//AUTORIDAD COMPETENTE PARA DECRETARLA
 
  ARTICULO 78. La Corte Suprema de Justicia tiene la facultad de acordar la libertad
 condicional, previa información que al afecto se tramitará ante el Patronato de Cárceles y
 Liberados o la institución que haga sus veces.
 
- CONDICIONES
+  *//CONDICIONES
 
  ARTICULO 79. La libertad condicional será acordada en resolución que expresará las
 condiciones que se imponen al favorecido consistentes en la sujeción a alguna o algunas
 medidas de seguridad.
 
- RÉGIMEN DE LIBERTAD CONDICIONAL
+  *//RÉGIMEN DE LIBERTAD CONDICIONAL
 
  ARTICULO 80. Podrá concederse la libertad condicional al reo que haya cumplido más
 de la mitad de la pena de prisión que exceda de tres años y no pase de doce; o que haya
@@ -1055,7 +1055,7 @@ positivos que demuestren que ha adquirido hábitos de trabajo, orden y moralidad
 en los demás delitos, que haya satisfecho, en lo posible, la responsabilidad civil a criterio
 de la Corte Suprema de Justicia.
 
- DURACIÓN Y REVOCACIÓN DEL RÉGIMEN DE LIBERTAD CONDICIONAL
+ *// DURACIÓN Y REVOCACIÓN DEL RÉGIMEN DE LIBERTAD CONDICIONAL
 
  ARTICULO 81. El régimen a que estará sujeto quien obtenga su libertad condicional,
 durará todo el tiempo que le falte para cumplir la pena impuesta.
@@ -1065,7 +1065,7 @@ impuestas, se revocará la libertad condicional y se hará efectiva la parte de 
 haya dejado de cumplir, sin computar en la misma, el tiempo que haya permanecido en
 libertad.
 
- EXTINCIÓN DE LA PENA
+  *//EXTINCIÓN DE LA PENA
 
  ARTICULO 82. Transcurrido el período de libertad bajo régimen condicional, sin que el
 beneficiado haya dado motivo a la revocación, se tendrá por extinguida la pena.
@@ -1073,7 +1073,7 @@ beneficiado haya dado motivo a la revocación, se tendrá por extinguida la pena
  CAPITULO VI
  DEL PERDON JUDICIAL
 
- CONDICIONES PARA OTORGARLO
+  *//CONDICIONES PARA OTORGARLO
 
  ARTICULO 83. Los jueces tienen facultad para otorgar, en sentencia, perdón judicial,
 siempre que, a su juicio, las circunstancias en que el delito se cometió lo amerite y se
@@ -1095,17 +1095,17 @@ intachable y la hubiere conservado durante su prisión.
  CAPITULO I
  DE LA APLICACION DE LAS MEDIDAS DE SEGURIDAD
 
- PRINCIPIO DE LEGALIDAD
+  *//PRINCIPIO DE LEGALIDAD
 
  ARTICULO 84. No se decretarán medidas de seguridad sin disposición legal que las
 establezca expresamente, ni fuera de los casos previstos en la ley.
 
- INDETERMINACIÓN EN EL TIEMPO
+  *//INDETERMINACIÓN EN EL TIEMPO
 
  ARTICULO 85. Las medidas de seguridad se aplicarán por tiempo indeterminado, salvo
 disposición expresa de la ley en contrario.
 
- APLICACIÓN JURISDICCIONAL
+  *//APLICACIÓN JURISDICCIONAL
 
  ARTICULO 86. Las medidas de seguridad previstas en este título, sólo podrán decretarse
 por los tribunales de justicia en sentencia condenatoria o absolutoria por delito o falta.
@@ -1114,7 +1114,7 @@ por los tribunales de justicia en sentencia condenatoria o absolutoria por delit
 respecto, si se modifica o cesa el estado de peligrosidad del sujeto. Los tribunales podrán
 decretar la aplicación simultánea de medidas de seguridad compatibles.
 
- ESTADO PELIGROSO
+  *//ESTADO PELIGROSO
 
  ARTICULO 87. Se consideran índices de peligrosidad:
 
@@ -1140,7 +1140,7 @@ mendicidad, o sin medios de subsistencia conocidos.
 
  9o. La explotación o el ejercicio de la prostitución.
 
- MEDIDAS DE SEGURIDAD
+  *//MEDIDAS DE SEGURIDAD
 
  ARTICULO 88. Las medidas de seguridad aplicables son las siguientes:
 
@@ -1158,7 +1158,7 @@ mendicidad, o sin medios de subsistencia conocidos.
 
  7o. Caución de buena conducta.
 
- INTERNAMIENTO ESPECIAL
+  *//INTERNAMIENTO ESPECIAL
 
  ARTICULO 89. Cuando un inimputable de los comprendidos en el inciso 2o. del Artículo
 23, cometa un hecho que la ley califique de delito, se ordenará su internación en un
@@ -1169,13 +1169,13 @@ peligro del sujeto.
  Lo dispuesto en este artículo se aplicará también, en el caso comprendido en el inciso 2o.
 del artículo 87.
 
- MEDIDAS CURATIVAS
+  *//MEDIDAS CURATIVAS
 
  ARTICULO 90. Los tribunales podrán ordenar, después de cumplida la pena, si lo
 estimare peligroso, que el comprendido en el caso previsto en el inciso 1o. del artículo 26,
 sea internado en un establecimiento educativo o de tratamiento especial.
 
- RÉGIMEN DE TRABAJO
+  *//RÉGIMEN DE TRABAJO
 
  ARTICULO 91. Los declarados delincuentes habituales serán sometidos, según el grado
 de peligrosidad que demuestren, al régimen de trabajo en granja agrícola, en centro
@@ -1183,19 +1183,19 @@ industrial o centro análogo. Esta internación se decretará cuando, cumplida l
 impuesta, se estime que ésta ha sido ineficaz en lo relativo a la readaptación del
 delincuente.
 
- PELIGROSIDAD POR TENTATIVA IMPOSIBLE
+  *//PELIGROSIDAD POR TENTATIVA IMPOSIBLE
 
  ARTICULO 92. En los casos del Artículo 15, se someterá el sujeto, según su grado de
 peligrosidad, a régimen especial de trabajo en alguna de las instituciones mencionadas en
 el inciso 3o. del artículo 88.
 
- PELIGROSIDAD POR VAGANCIA
+  *//PELIGROSIDAD POR VAGANCIA
 
  ARTICULO 93. Los vagos que hayan cometido delito, así como los sancionados por
 vagancia, serán sometidos al régimen de trabajo en granja agrícola, centro industrial u
 otro análogo, por un término no menor de un año ni mayor de tres.
 
- INTERNAMIENTO DE EBRIOS HABITUALES Y TOXICÓMANOS
+  *//INTERNAMIENTO DE EBRIOS HABITUALES Y TOXICÓMANOS
 
  ARTICULO 94. Al condenar por delito cometido bajo la influencia del alcohol o de drogas
 tóxicas o estupefacientes y en todo caso, en que se compruebe que el delincuente es
@@ -1205,19 +1205,19 @@ si fuere pecuniaria, el sujeto sea internado en un establecimiento de tratamient
 hasta que se demuestre, previo dictamen médico, que puede ser sometido a otro régimen,
 como los previstos en los incisos 4o., 5o. y 6o. del Artículo 88.
 
- SUSTITUCIÓN DE ESTABLECIMIENTO
+  *//SUSTITUCIÓN DE ESTABLECIMIENTO
 
  ARTICULO 95. Donde no haya establecimiento adecuado, la medida de internamiento,
 según su naturaleza, se cumplirá en anexo o sección especial de otro establecimiento.
 
- MODIFICACIÓN DE MEDIDAS
+  *//MODIFICACIÓN DE MEDIDAS
 
  ARTICULO 96. Las medidas de internamiento en establecimiento psiquiátrico o en
 establecimiento educativo o de tratamiento especial, cesarán por resolución judicial,
 dictada con base en dictámenes médico y criminológico, que demuestren que el sujeto
 puede ser sometido a libertad vigilada.
 
- LIBERTAD VIGILADA
+  *//LIBERTAD VIGILADA
 
  ARTICULO 97. La libertad vigilada no tendrá carácter de custodia, sino de protección y
 consiste, para los enfermos mentales, toxicómanos o ebrios habituales, en confiarlos al
@@ -1232,20 +1232,20 @@ demás casos, durará el tiempo que señale el tribunal, sin que pueda ser menor
  Al aplicar esta medida, el tribunal que corresponda prescribirá las reglas de
 comportamiento destinadas a evitar nuevas infracciones.
 
- PROHIBICIÓN DE RESIDIR EN DETERMINADOS LUGARES
+  *//PROHIBICIÓN DE RESIDIR EN DETERMINADOS LUGARES
 
  ARTICULO 98. Los tribunales, a su prudente arbitrio y cuando lo exijan las
 circunstancias, podrán imponer al sujeto que haya cumplido una pena o una medida de
 seguridad, la prohibición de residir en determinados lugares durante un año, como
 mínimo.
 
- PROHIBICIÓN DE CONCURRIR A DETERMINADOS LUGARES
+  *//PROHIBICIÓN DE CONCURRIR A DETERMINADOS LUGARES
 
  ARTICULO 99. Cuando un delito haya sido motivado por hábito vicioso de su autor o por
 sus costumbres disolutas o cuando el caso lo requiera, el tribunal podrá imponer, además
 de la pena, la prohibición de concurrir a determinados lugares.
 
- CAUCIÓN DE BUENA CONDUCTA
+  *//CAUCIÓN DE BUENA CONDUCTA
 
  ARTICULO 100. La caución de buena conducta consiste en la garantía personal,
 hipotecaria, prendaria o depósito de una cantidad de dinero, prestada a satisfacción del
@@ -1262,7 +1262,7 @@ depositada a la cancelación de la garantía.
  TITULO VIII
  DE LA EXTINCION DE LA RESPONSABILIDAD PENAL Y DE LA PENA
 
- EXTINCIÓN DE LA RESPONSABILIDAD PENAL
+  *//EXTINCIÓN DE LA RESPONSABILIDAD PENAL
 
  ARTICULO 101. La responsabilidad penal se extingue:
 
@@ -1292,21 +1292,21 @@ depositada a la cancelación de la garantía.
 
  6o. Por prescripción.
 
- EXTINCIÓN POR MUERTE
+  *//EXTINCIÓN POR MUERTE
 
  ARTICULO 103. La muerte de quien ha sido condenado, extingue también la pena
 pecuniaria impuesta pendiente de satisfacer y todas las consecuencias penales de la
 misma.
 
- AMNISTÍA
+  *//AMNISTÍA
 
  ARTICULO 104. La amnistía extingue por completo la pena y todos sus efectos.
 
- INDULTO
+  *//INDULTO
 
  ARTICULO 105. El indulto sólo extingue la pena principal.
 
- PERDÓN DEL OFENDIDO
+  *//PERDÓN DEL OFENDIDO
 
  ARTICULO 106. El perdón del ofendido extingue la responsabilidad penal y la pena si ya
 se hubiere impuesto, por delitos solamente perseguibles mediante denuncia o querella.
@@ -1316,7 +1316,7 @@ eficacia del perdón otorgado por los representantes de aquéllos, ordenando la
 continuación del proceso o el cumplimiento de la condena, a solicitud o con intervención
 del Ministerio Público.
 
- PRESCRIPCIÓN DE LA REPONSABILIDAD
+  *//PRESCRIPCIÓN DE LA REPONSABILIDAD
 
  ARTICULO 107. La responsabilidad penal prescribe:
 
@@ -1330,7 +1330,7 @@ ser inferior a tres.
 
  4o. A los seis meses, si se tratare de faltas.
 
- COMIENZO DEL TÉRMINO
+  *//COMIENZO DEL TÉRMINO
 
  ARTICULO 108. La prescripción de la responsabilidad penal comenzará a contarse:
 
@@ -1345,7 +1345,7 @@ ser inferior a tres.
  5o. Para la conspiración, la proposición, la provocación, la instigación y la inducción,
 cuando éstas sean punibles, desde el día en que se haya ejecutado el último acto.
 
- INTERRUPCIÓN
+  *//INTERRUPCIÓN
 
  ARTICULO 109. La prescripción de la acción penal se interrumpe, desde que se inicie
 proceso contra el imputado, corriendo de nuevo el tiempo de la prescripción desde que se
@@ -1353,7 +1353,7 @@ paralice su prosecución por cualquier circunstancia.
 
  También se interrumpe respecto a quien cometiere otro delito.
 
- PRESCRIPCIÓN DE LA PENA
+  *//PRESCRIPCIÓN DE LA PENA
 
  ARTICULO 110. Las penas impuestas por sentencia firme prescriben por el transcurso de
 un tiempo doble de la pena fijada, sin que pueda exceder de treinta años.
@@ -1361,7 +1361,7 @@ un tiempo doble de la pena fijada, sin que pueda exceder de treinta años.
  Esta prescripción empezará a contarse desde la fecha en que la sentencia quede firme, o
 desde el día del quebrantamiento de la condena.
 
- INTERRUPCIÓN
+  *//INTERRUPCIÓN
 
  ARTICULO 111. La prescripción de la pena se interrumpe, quedando sin efecto el tiempo
 transcurrido, por la comisión de un nuevo delito, o porque el reo se presente o fuere
@@ -1370,12 +1370,12 @@ habido.
  TITULO IX
  DE LA RESPONSABILIDAD CIVIL
 
- PERSONAS RESPONSABLES
+  *//PERSONAS RESPONSABLES
 
  ARTICULO 112. Toda persona responsable penalmente de un delito o falta, lo es
 también civilmente.
 
- SOLIDARIDAD DE LAS OBLIGACIONES
+  *//SOLIDARIDAD DE LAS OBLIGACIONES
 
  ARTICULO 113. En el caso de ser dos o más los responsables civilmente de un delito o
 falta, el tribunal señalará la cuota por la que debe responder cada uno.
@@ -1386,26 +1386,26 @@ de su respectivo grupo, sino también de los insolventes del otro. Tanto en uno 
 otro caso, queda a salvo el derecho de quien hubiere pagado, de repetir contra los demás
 por las cuotas correspondientes a cada uno.
 
- PARTICIPACIÓN LUCRATIVA
+  *//PARTICIPACIÓN LUCRATIVA
 
  ARTICULO 114. Quien hubiere obtenido algún beneficio económico de los efectos de un
 delito, aun sin haber sido partícipe en su ejecución, responderá civilmente hasta por el
 tanto en que hubiere lucrado.
 
- TRANSMISIÓN
+  *//TRANSMISIÓN
 
  ARTICULO 115. La responsabilidad civil derivada de delito o falta, se transmite a los
 herederos del responsable; igualmente, se transmite a los herederos del perjudicado la
 acción para hacerla efectiva.
 
- RESPONSABILIDAD CIVIL DE INIMPUTABLES
+  *//RESPONSABILIDAD CIVIL DE INIMPUTABLES
 
  ARTICULO 116. Los comprendidos en el Artículo 23 responderán con sus bienes por los
 daños que causaren. Si fueren insolventes, responderán subsidiariamente quienes los
 tengan bajo su potestad o guarda legal, salvo que demuestren que no incurrieron en
 descuido o negligencia en la vigilancia del que cometió el hecho.
 
- RESPONSABILIDAD CIVIL EN CASO DE ESTADO DE NECESIDAD
+  *//RESPONSABILIDAD CIVIL EN CASO DE ESTADO DE NECESIDAD
 
  ARTICULO 117. En el caso del inciso 2o. del Artículo 24, la responsabilidad civil se
 declarará siempre y se distribuirá entre las personas a cuyo favor se haya precavido el
@@ -1414,19 +1414,19 @@ mal, en proporción del beneficio que hubieren reportado.
  Los tribunales señalarán, a su prudente arbitrio, la cuota proporcional por la que cada
 interesado debe responder.
 
- RESPONSABILIDAD CIVIL EN CASO DE INCULPABILIDAD
+  *//RESPONSABILIDAD CIVIL EN CASO DE INCULPABILIDAD
 
  ARTICULO 118. En los casos de los inciso 1o. y 2o. del Artículo 25, responderán
 civilmente los que hubieren producido el miedo o la fuerza.
 
- EXTENSIÓN DE LA RESPONSABILIDAD CIVIL
+  *//EXTENSIÓN DE LA RESPONSABILIDAD CIVIL
 
  ARTICULO 119. La responsabilidad civil comprende:
 
  1o. La restitución. 2o. La reparación de los daños materiales o morales. 3o. La
 indemnización de perjuicios.
 
- LA RESTITUCIÓN
+  *//LA RESTITUCIÓN
 
  ARTICULO 120. La restitución deberá hacerse de la misma cosa, siempre que fuere
 posible, con abono de deterioros o menoscabo a juicio del tribunal y aunque la cosa se
@@ -1435,12 +1435,12 @@ repetir contra quien corresponda. Esta última disposición no es aplicable cuan
 sea irreivindicable de poder del tercero, por haberla adquirido en la forma y con las
 condiciones que establecen la layes civiles.
 
- REPARACIÓN DEL DAÑO MATERIAL
+  *//REPARACIÓN DEL DAÑO MATERIAL
 
  ARTICULO 121. La reparación se hará valorando la entidad del daño material, atendido
 el precio de la cosa y el de afección del agraviado, si constare o pudiere apreciarse.
 
- REMISIÓN A LEYES CIVILES
+  *//REMISIÓN A LEYES CIVILES
 
  ARTICULO 122. En cuanto a lo no previsto en este título, se aplicarán las disposiciones
 que sobre la materia contienen el Código Civil y el Código Procesal Civil y Mercantil.
@@ -1455,18 +1455,18 @@ que sobre la materia contienen el Código Civil y el Código Procesal Civil y Me
  CAPITULO I
  DEL HOMICIDIO SIMPLE
 
- HOMICIDIO
+  *//HOMICIDIO
 
  ARTICULO 123. Comete homicidio quien diere muerte a alguna persona.
 
  Al homicida se le impondrá prisión de 15 á 40 años.
 
- HOMICIDIO COMETIDO EN ESTADO DE EMOCION VIOLENTA
+  *//HOMICIDIO COMETIDO EN ESTADO DE EMOCION VIOLENTA
 
  ARTICULO 124. Quien matare en estado de emoción violenta se le impondrá prisión de
 dos a ocho años.
 
- HOMICIDIOEN RIÑA TUMULTUARIA
+  *//HOMICIDIOEN RIÑA TUMULTUARIA
 
  ARTICULO 125. Cuando riñendo varios y acometiéndose entre sí, confusa y
 tumultuariamente, hubiere resultado muerte de una o más personas y no constare su
@@ -1476,12 +1476,12 @@ seis a doce años.
  No constando quién o quiénes causaron las lesiones, se impondrá a todos los partícipes
 prisión de dos a seis años.
 
- HOMICIDIO PRETERINTENCIONAL
+  *//HOMICIDIO PRETERINTENCIONAL
 
  ARTICULO 126. Quien cometiere homicidio preterintencional, será sancionado con
 prisión de dos a diez años.
 
- HOMICIDIO CULPOSO
+  *//HOMICIDIO CULPOSO
 
  ARTICULO 127. Al autor de homicidio culposo se le sancionará con prisión de dos a
 cinco años. Cuando el hecho causare, además lesiones a otras personas o resultare la
@@ -1495,7 +1495,7 @@ el doble de la pena que le correspondería en caso de no existir estas circunsta
  Si el hecho se causare por piloto de transporte colectivo, la pena respectiva se
 aumentará en una tercera parte.
 
- INDUCCIÓN O AYUDA AL SUICIDIO
+  *//INDUCCIÓN O AYUDA AL SUICIDIO
 
  ARTICULO 128. Quien indujere a otro al suicidio o le prestare ayuda para cometerlo, si
 ocurriere la muerte, se le impondrá prisión de cinco a quince años.
@@ -1503,13 +1503,13 @@ ocurriere la muerte, se le impondrá prisión de cinco a quince años.
  Si el suicidio no ocurre, pero su intento produce lesiones de las comprendidas en los
 artículos 146 y 147 de este Código, la pena de prisión será de seis meses a tres años.
 
- INFANTICIDIO
+  *//INFANTICIDIO
 
  ARTICULO 129. La madre que impulsada por motivos íntimamente ligados a su estado,
 que le produzcan indudable alteración psíquica, matare a su hijo durante su nacimiento o
 antes de que haya cumplido tres días, será sancionada con prisión de dos a ocho años.
 
- SUPOSICIÓN DE MUERTE
+  *//SUPOSICIÓN DE MUERTE
 
  ARTICULO 130. Quien maliciosamente se hiciere pasar por muerto o conociendo la
 existencia de proceso instruido con ocasión o con motivo de su fallecimiento, no se
@@ -1518,7 +1518,7 @@ manifestare, será sancionado con prisión de uno a cinco años.
  CAPITULO II
  DE LOS HOMICIDIOS CALIFICADOS
 
- PARRICIDIO
+  *//PARRICIDIO
 
  ARTICULO 131. Quien conociendo el vínculo, matare a cualquier ascendiente o
 descendiente, a su cónyuge o a la persona con quien hace vida marital, será castigado
@@ -1529,7 +1529,7 @@ móviles determinantes, se revelare una mayor y particular peligrosidad en el ag
  A quienes no se les aplique la pena de muerte por este delito, no podrá concedérseles
 rebaja de pena por ninguna causa.
 
- ASESINATO
+  *//ASESINATO
 
  ARTICULO 132. Comete asesinato quien matare a una persona:
 
