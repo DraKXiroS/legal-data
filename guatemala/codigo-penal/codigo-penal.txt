@@ -31,7 +31,7 @@ de las atribuciones que le asigna el inciso 1o. del artículo 170 de la misma,
  TITULO I
  DE LA LEY PENAL
 
- DE LA LEGALIDAD
+ *//DE LA LEGALIDAD
 
  ARTICULO 1. Nadie podrá ser penado por hechos que no estén expresamente
 calificados, como delitos o faltas, por ley anterior a su perpetración; ni se impondrán otras
@@ -43,13 +43,13 @@ penas que no sean previamente establecidas en la ley.
 cualquier ley posterior, se aplicará aquélla cuyas disposiciones sean favorables al reo,
 aun cuando haya recaído sentencia firme y aquél se halle cumpliendo su condena.
 
- LEY EXCEPCIONAL O TEMPORAL
+ *//LEY EXCEPCIONAL O TEMPORAL
 
  ARTICULO 3. La Ley excepcional o temporaria se aplicará a los hechos cometidos bajo
 su vigencia, aun cuando ésta hubiere cesado al tiempo de dictarse el fallo, salvo lo
 dispuesto en el artículo 2.
 
- TERRITORIALIDAD DE LA LEY PENAL
+*// TERRITORIALIDAD DE LA LEY PENAL
 
  ARTICULO 4. Salvo lo establecido en tratados internacionales, este Código se aplicará a
 toda persona que cometa delito o falta en el territorio de la República o en lugares o
