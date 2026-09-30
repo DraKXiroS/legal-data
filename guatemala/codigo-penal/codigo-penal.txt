@@ -37,7 +37,7 @@ de las atribuciones que le asigna el inciso 1o. del artículo 170 de la misma,
 calificados, como delitos o faltas, por ley anterior a su perpetración; ni se impondrán otras
 penas que no sean previamente establecidas en la ley.
 
- EXTRACTIVIDAD
+ *//EXTRACTIVIDAD
 
  ARTICULO 2. Si la ley vigente al tiempo en que fue cometido el delito fuere distinta de
 cualquier ley posterior, se aplicará aquélla cuyas disposiciones sean favorables al reo,
@@ -1563,19 +1563,19 @@ rebaja de pena por ninguna causa.
  CAPITULO III
  DEL ABORTO
 
- CONCEPTO
+ *//CONCEPTO
 
  ARTICULO 133. Aborto es la muerte del producto de la concepción en cualquier
 momento de la preñez.
 
- ABORTO PROCURADO
+ *//ABORTO PROCURADO
 
  ARTICULO 134. La mujer que causare su aborto o consintiere que otra persona se lo
 cause, será sancionada con prisión de uno a tres años. Si lo hiciere impulsada por
 motivos que, ligados íntimamente a su estado, le produzcan indudable alteración psíquica,
 la sanción será de seis meses a dos años de prisión.
 
- ABORTO CON O SIN CONSENTIMIENTO
+ *//ABORTO CON O SIN CONSENTIMIENTO
 
  ARTICULO 135. Quien, de propósito causare un aborto, será sancionado:
 
@@ -1586,7 +1586,7 @@ la sanción será de seis meses a dos años de prisión.
  Si se hubiere empleado violencia, amenaza o engaño, la pena será de cuatro a ocho
 años de prisión.
 
- ABORTO CALIFICADO
+ *//ABORTO CALIFICADO
 
  ARTICULO 136. Si a consecuencia del aborto consentido o de la maniobras abortivas
 consentidas, resultare la muerte de la mujer, el responsable será sancionado con prisión
@@ -1594,7 +1594,7 @@ de tres a ocho años. Si se tratare de aborto o maniobras abortivas efectuadas s
 consentimiento de la mujer y sobreviniere la muerte de ésta, el responsable será
 sancionado con prisión de cuatro a doce años.
 
- ABORTO TERAPÉUTICO
+ *//ABORTO TERAPÉUTICO
 
  ARTICULO 137. No es punible el aborto practicado por un médico, con el consentimiento
 de la mujer, previo diagnóstico favorable de por lo menos otro médico; si se realizó sin la
@@ -1602,14 +1602,14 @@ intención de procurar directamente la muerte del producto de la concepción y c
 fin de evitar un peligro, debidamente establecido, para la vida de la madre, después de
 agotados todos los medios científicos y técnicos.
 
- ABORTO PRETERINTENCIONAL
+ *//ABORTO PRETERINTENCIONAL
 
  ARTICULO 138. Quien, por actos de violencia ocasionare el aborto, sin propósito de
 causarlo, pero constándole el estado de embarazo de la ofendida, será sancionado con
 prisión de uno a tres años. Si los actos de violencia consistieren en lesiones a las que
 corresponda mayor sanción, se aplicará ésta aumentada en una tercera parte.
 
- TENTATIVA Y ABORTO CULPOSO
+ *//TENTATIVA Y ABORTO CULPOSO
 
  ARTICULO 139. La tentativa de la mujer para causar su propio aborto y el aborto culposo
 propio, son impunes.
@@ -1617,7 +1617,7 @@ propio, son impunes.
  El aborto culposo verificado por otra persona, será sancionado con prisión de uno a tres
 años, siempre que tal persona tenga conocimiento previo del embarazo.
 
- AGRAVACIÓN ESPECÍFICA
+ *//AGRAVACIÓN ESPECÍFICA
 
  ARTICULO 140. El médico que, abusando de su profesión causare el aborto o cooperare
 en él, será sancionado con las penas señaladas en el Artículo 135, con multa de
@@ -1630,14 +1630,14 @@ sanitario, sin perjuicio de lo relativo al concurso de delitos.
  CAPITULO IV
  DE LA AGRESION Y DISPARO DE ARMA DE FUEGO
 
- AGRESIÓN
+ *//AGRESIÓN
 
  ARTICULO 141. Quien agrediere a otro, excepto en los casos de riña o pelea entre los
 dos, ya embistiéndolo con armas o lanzándole cualquier objeto capaz de causar lesión,
 será sancionado con multa de diez a doscientos quetzales. Si a consecuencia del
 acontecimiento se causare lesión, sólo será sancionado por ésta.
 
- DISPARO DE ARMA DE FUEGO
+ *//DISPARO DE ARMA DE FUEGO
 
  ARTICULO 142. Quien, de propósito, dispare arma de fuego contra otro, aunque causare
 lesión leve, será sancionado con prisión de uno a dos años. Si a consecuencia del disparo
@@ -1645,7 +1645,7 @@ se causaren lesiones graves o gravísimas o se ocasionare muerte, sólo se le im
 pena que por estos delitos corresponda. En caso de lesión leve, para la aplicación de la
 pena, se atenderá lo dispuesto en el Artículo 70 de este Código.
 
- NO APLICABILIDAD
+ *//NO APLICABILIDAD
 
  ARTICULO 143. Lo dispuesto en los dos artículos anteriores no es aplicable cuando
 concurran las circunstancias necesarias para constituir tentativa de delito que tenga
@@ -1654,17 +1654,17 @@ señalada pena mayor.
  CAPITULO V
  DE LAS LESIONES
 
- CONCEPTO
+ *//CONCEPTO
 
  ARTICULO 144. Comete delito de lesiones quien, sin intención de matar, causare a otro
 daño en el cuerpo o en la mente.
 
- LESIONES ESPECÍFICAS
+ *//LESIONES ESPECÍFICAS
 
  ARTICULO 145. Quien, de propósito castrare o esterilizare, dejare ciego o mutilare a otra
 persona, será sancionado con prisión de cinco a doce años.
 
- LESIONES GRAVÍSIMAS
+ *//LESIONES GRAVÍSIMAS
 
  ARTICULO 146. Quien causare a otro lesión gravísima, será sancionado con prisión de
 tres a diez años.
@@ -1681,7 +1681,7 @@ tres a diez años.
 
  5o. Incapacidad para engendrar o concebir.
 
- LESIONES GRAVES
+ *//LESIONES GRAVES
 
  ARTICULO 147. Quien causare a otro lesión grave, será sancionado con prisión de dos a
 ocho años.
@@ -1697,7 +1697,7 @@ sentido.
 
  4o. Deformación permanente del rostro.
 
- LESIONES LEVES
+ *//LESIONES LEVES
 
  ARTICULO 148. Quien causare a otro lesión leve, será sancionado con prisión de seis
 meses a tres años.
@@ -1711,14 +1711,14 @@ treinta.
 
  3o. Cicatriz visible y permanente en el rostro.
 
- LESIÓN EN RIÑA
+ *//LESIÓN EN RIÑA
 
  ARTICULO 149. Cuando en riña tumultuaria se causaren lesiones, sin que pueda
 determinarse el autor o autores de las mismas, se aplicará la pena correspondiente a las
 lesiones, rebajada en una tercera parte, a quienes hubieren ejercido alguna violencia en la
 persona del ofendido.
 
- LESIONES CULPOSAS
+ *//LESIONES CULPOSAS
 
  ARTICULO 150. Quien causare lesiones por culpa, aun cuando sean varias las víctimas
 del mismo hecho, será sancionado con prisión de tres meses a dos años.
@@ -1731,7 +1731,7 @@ al responsable, además, una multa de trescientos a tres mil quetzales.
  Si el hecho se causare por piloto de transporte colectivo, la pena respectiva se
 aumentará en una tercera parte.
 
- CONTAGIO VENÉREO
+ *//CONTAGIO VENÉREO
 
  ARTICULO 151. Quien, conociendo que padece de enfermedad venérea, expusiere a
 otro el contagio, será sancionado con multa de cincuenta a trescientos quetzales.
@@ -1743,7 +1743,7 @@ otro el contagio, será sancionado con multa de cincuenta a trescientos quetzale
  CAPITULO VI
  DEL DELITO DEPORTIVO
 
- DELITO POR DOLO O CULPA
+ *//DELITO POR DOLO O CULPA
 
  ARTICULO 152. Quien, aprovechando su participación en el ejercicio de cualquier
 deporte, causare, de propósito y con infracción a las reglas o indicaciones
@@ -1753,7 +1753,7 @@ en las sanciones que en este Código señala para cada caso.
  Si el resultado dañoso se causare sin propósito pero con infracción de las reglas o
 indicaciones respectivas, el responsable será sancionado a título de culpa.
 
- EXIMENTE
+ *//EXIMENTE
 
  ARTICULO 153. Quien, en deportes violentos debidamente autorizados por la autoridad,
 que tengan por finalidad el acometimiento personal, sin infracción de las reglas o
@@ -1767,7 +1767,7 @@ resultado dañoso.
  CAPITULO VII
  DE LA EXPOSICION DE PERSONAS A PELIGRO
 
- ABANDONO DE NIÑOS Y DE PERSONAS DESVALIDAS
+ *//ABANDONO DE NIÑOS Y DE PERSONAS DESVALIDAS
 
  ARTICULO 154. Quien abandonare a un niño menor de diez años o a una persona
 incapaz de valerse por sí misma, que estuviere bajo su cuidado o custodia, será
@@ -1777,7 +1777,7 @@ sancionado con prisión de seis meses a tres años.
 tres a diez años de prisión. Si sólo se hubiere puesto en peligro la vida del mismo o le
 hayan producido lesiones, la sanción será de tres meses a cinco años de prisión.
 
- ABANDONO POR ESTADO AFECTIVO.
+ *//ABANDONO POR ESTADO AFECTIVO.
 
  ARTICULO 155. La madre que, impulsada por motivos que ligados íntimamente a su
 estado, le produzcan indudable alteración psíquica, abandonare al hijo que no haya
@@ -1786,7 +1786,7 @@ cumplido tres días de nacido, será sancionada con prisión de cuatro meses a d
  Si a consecuencia del abandono resultare la muerte del hijo, la sanción será de uno a
 cuatro años de prisión.
 
- OMISIÓN DE AUXILIO
+ *//OMISIÓN DE AUXILIO
 
  ARTICULO 156. Quien, encontrando perdido o desamparado a un menor de diez años; a
 una persona herida, inválida o amenazada de inminente peligro, omitiere prestarle el
@@ -1796,7 +1796,7 @@ será sancionado con multa de veinticinco a doscientos quetzales.
  CAPITULO VIII
  DE LOS DELITOS CONTRA LA SEGURIDAD DEL TRANSITO
 
- RESPONSABILIDAD DE CONDUCTORES
+ *//RESPONSABILIDAD DE CONDUCTORES
 
  ARTICULO 157. Será sancionado con multa de cincuenta a un mil quetzales y privación
 de la licencia de conducir de tres meses a tres años:
@@ -1814,7 +1814,7 @@ integridad o sus bienes, o causando intranquilidad o zozobra públicas.
 sea su gravedad, los tribunales aplicarán únicamente la infracción penal más gravemente
 sancionada.
 
- RESPONSABILIDAD DE OTRAS PERSONAS
+ *//RESPONSABILIDAD DE OTRAS PERSONAS
 
  ARTICULO 158. Serán sancionados con multa de veinticinco a quinientos quetzales y
 prisión de dos a seis meses, quienes pusieren en grave e inminente riesgo o peligro la
@@ -1832,7 +1832,7 @@ interrumpidos o removidos.
  CAPITULO I
  DE LA CALUMNIA, DE LA INJURIA Y DE LA DIFAMACION
 
- CALUMNIA
+ *//CALUMNIA
 
  ARTICULO 159. Es calumnia la falsa imputación de un delito de los que dan lugar a
 procedimiento de oficio.
@@ -1840,30 +1840,30 @@ procedimiento de oficio.
  El responsable de calumnia será sancionado con prisión de cuatro meses a dos años y
 multa de cincuenta a doscientos quetzales.
 
- VERACIDAD DE LA IMPUTACIÓN
+ *//VERACIDAD DE LA IMPUTACIÓN
 
  ARTICULO 160. En el caso del artículo anterior, el acusado de calumnia quedará exento
 de toda responsabilidad penal probando la veracidad de la imputación.
 
- INJURIA
+ *//INJURIA
 
  ARTICULO 161. Es injuria toda expresión o acción ejecutada en deshonra, descrédito o
 menosprecio de otra persona.
 
  El responsable de injuria será sancionado con prisión de dos meses a un año.
 
- EXCLUSIÓN DE PRUEBA DE VERACIDAD
+ *//EXCLUSIÓN DE PRUEBA DE VERACIDAD
 
  ARTICULO 162. Al acusado de injuria no se le admitirá prueba sobre la verdad de la
 imputación.
 
- INJURIAS PROVOCADAS O RECÍPROCAS
+ *//INJURIAS PROVOCADAS O RECÍPROCAS
 
  ARTICULO 163. Cuando las injurias fueren provocadas o recíprocas, el tribunal podrá,
 según las circunstancias, eximir de responsabilidad penal a las dos partes o a alguna de
 ellas.
 
- DIFAMACIÓN
+ *//DIFAMACIÓN
 
  ARTICULO 164. Hay delito de difamación, cuando las imputaciones constitutivas de
 calumnia o injuria se hicieren en forma o por medios de divulgación que puedan provocar
@@ -1872,13 +1872,13 @@ sociedad.
 
  Al responsable de difamación se le sancionará con prisión de dos a cinco años.
 
- PUBLICACIÓN DE OFENSAS
+ *//PUBLICACIÓN DE OFENSAS
 
  ARTICULO 165. Quien, a sabiendas reprodujere por cualquier medio, injurias o
 calumnias inferidas por otro, será sancionado como autor de las mismas de dos a cinco
 años.
 
- EXCEPCIONES
+ *//EXCEPCIONES
 
  ARTICULO 166. No incurre en delito de calumnia, injuria o difamación, siempre que no
 haya obrado por interés o con ánimo de perjudicar:
@@ -1892,13 +1892,13 @@ aptitud o conducta de otra persona.
  CAPITULO II
  DE LAS DISPOSICIONES COMUNES
 
- MODOS DE COMISIÓN
+ *//MODOS DE COMISIÓN
 
  ARTICULO 167. Se comete el delito de calumnia, de injuria o de difamación, no sólo
 manifiestamente, sino también por alegorías, dibujos, caricaturas, fotografías, emblemas,
 alusiones o cualquier otro medio similar a los anteriores.
 
- CESACIÓN DE PROCEDIMIENTO
+ *//CESACIÓN DE PROCEDIMIENTO
 
  ARTICULO 168. Cesará la tramitación de proceso por calumnia, injurias o difamación:
 
@@ -1911,7 +1911,7 @@ explicaciones satisfactorias antes de contestar la querella o en el momento de h
  Esta disposición no es aplicable cuando la imputación ha sido dirigida contra un
 funcionario público.
 
- RÉGIMEN DE LA ACCIÓN
+ *//RÉGIMEN DE LA ACCIÓN
 
  ARTICULO 169. Sólo pueden ser perseguidos por acusación de la parte agraviada, los
 delitos de calumnia, injuria o difamación, salvo cuando la ofensa se dirija contra
@@ -1922,18 +1922,18 @@ diplomáticos de naciones amigas o aliadas y las demás personas que, según las
 del Derecho Internacional, deben comprenderse en esta disposición. En este caso, sólo
 podrá procederse a excitativa del Ministerio Público.
 
- AUTORIZACIÓN JUDICIAL
+ *//AUTORIZACIÓN JUDICIAL
 
  ARTICULO 170. Nadie podrá deducir acción de calumnia o injuria causadas en juicio, sin
 previa autorización del juez o tribunal que de él conociere.
 
- OFENSA A LA MEMORIA DE UN DIFUNTO
+ *//OFENSA A LA MEMORIA DE UN DIFUNTO
 
  ARTICULO 171. Cuando se ofendiere la memoria de un difunto, la acción por calumnia,
 injuria o difamación corresponde al cónyuge, cualquiera de los ascendientes,
 descendientes, hermanos del difunto o al heredero del mismo.
 
- EXTINCIÓN DE LA PENA
+ *//EXTINCIÓN DE LA PENA
 
  ARTICULO 172. El perdón de la parte ofendida extingue la responsabilidad penal o la
 pena en los delitos de calumnia, injuria y difamación contra particulares.
@@ -1945,7 +1945,7 @@ EL PUDOR
  CAPITULO I
  DE LA VIOLACION
 
- VIOLACIÓN
+ *//VIOLACIÓN
 
  ARTICULO 173. Comete delito o violación quien yaciere, con mujer, en cualquiera de los
 siguientes casos:
@@ -1959,7 +1959,7 @@ mujer privada de razón o de sentido o incapacitada para resistir.
 
  En los casos prescritos la pena a imponer será de seis a doce años.
 
- AGRAVACIÓN DE LA PENA
+ *//AGRAVACIÓN DE LA PENA
 
  ARTICULO 174. La pena a imponer será de ocho a veinte años de prisión en los
 siguientes casos:
@@ -1971,7 +1971,7 @@ de su educación, custodia o guarda.
 
  3o. Cuando, como consecuencia del delito, se produjere grave daño a la víctima.
 
- VIOLACION CALIFICADA
+ *//VIOLACION CALIFICADA
 
  ARTICULO 175. Si con motivo o a consecuencia de la violación, resultare la muerte de la
 ofendida, se impondrá prisión de 30 a 50 años.
@@ -1981,7 +1981,7 @@ ofendida, se impondrá prisión de 30 a 50 años.
  CAPITULO II
  DEL ESTUPRO
 
- ESTUPRO MEDIANTE INEXPERIENCIA O CONFIANZA
+ *//ESTUPRO MEDIANTE INEXPERIENCIA O CONFIANZA
 
  ARTICULO 176. El acceso carnal con mujer honesta, mayor de doce años y menor de
 catorce, aprovechando su inexperiencia u obteniendo su confianza, se sancionará con
@@ -1990,14 +1990,14 @@ prisión de uno a dos años.
  Si la edad de la víctima estuviere comprendida entre los catorce y los diez y ocho años, la
 pena a imponerse será de seis meses a un año.
 
- ESTUPRO MEDIANTE ENGAÑO
+ *//ESTUPRO MEDIANTE ENGAÑO
 
  ARTICULO 177. El acceso carnal con mujer honesta, menor de edad, interviniendo
 engaño o mediante promesa falsa de matrimonio, se sancionará con prisión de uno a dos
 años, si la edad de la víctima estuviere comprendida entre los doce y los catorce y con
 prisión de seis meses a un año si la víctima fuere mayor de catorce años.
 
- ESTUPRO AGRAVADO
+ *//ESTUPRO AGRAVADO
 
  ARTICULO 178. Cuando el autor fuere pariente, dentro de los grados de ley, de la
 estuprada o encargado de su educación, custodia o guarda, las sanciones señaladas en
@@ -2006,7 +2006,7 @@ los artículos anteriores se aumentarán en sus dos terceras partes.
  CAPITULO III
  DE LOS ABUSOS DESHONESTOS
 
- ABUSOS DESHONESTOS VIOLENTOS
+ *//ABUSOS DESHONESTOS VIOLENTOS
 
  ARTICULO 179. Comete abuso deshonesto quien empleando los medios o valiéndose de
 las condiciones indicadas en los artículos 173, 174 y 175 de este Código, realiza en
@@ -2023,7 +2023,7 @@ ocho a veinte años.
  3. Si concurren las circunstancias previstas en el artículo 175, con prisión de veinte a
 treinta años.
 
- ABUSOS DESHONESTOS AGRAVADOS
+ *//ABUSOS DESHONESTOS AGRAVADOS
 
  ARTICULO 180. Los abusos deshonestos cometidos en persona de uno u otro sexo
 mayor de doce años y menor de diez y ocho, en las circunstancias a que se refieren los
@@ -2046,24 +2046,24 @@ si la víctima fuere menor de diez años.
  CAPITULO IV
  DEL RAPTO
 
- RAPTO PROPIO
+ *//RAPTO PROPIO
 
  ARTICULO 181. Quien, con propósitos sexuales sustrajere o retuviere a una mujer, sin
 su voluntad o empleando violencia o engaño, será sancionado con prisión de dos a cinco
 años.
 
- RAPTO IMPROPIO
+ *//RAPTO IMPROPIO
 
  ARTICULO 182. Quien sustrajere o retuviere a mujer mayor de doce años y menor de
 diez y seis, con propósitos sexuales, de matrimonio o de concubinato, con su
 consentimiento, será sancionado con prisión de seis meses a un año.
 
- RAPTO ESPECÍFICAMENTE AGRAVADO
+ *//RAPTO ESPECÍFICAMENTE AGRAVADO
 
  ARTICULO 183. En todo caso, la sanción será de cuatro a diez años de prisión en
 proporción a la edad de la raptada, si ésta fuere de menor de doce años.
 
- DESAPARICIÓN O MUERTE DE LA RAPTADA
+ *//DESAPARICIÓN O MUERTE DE LA RAPTADA
 
  ARTICULO 184. En caso de desaparición de la raptada, si los raptores no probaren el
 paradero de la víctima o que su muerte o desaparición se debió a causas ajenas al rapto,
@@ -2072,17 +2072,17 @@ serán sancionados con prisión de seis a doce años.
  Sin embargo, si la persona desaparecida fuere encontrada, por virtud de recurso de
 revisión, la pena se reducirá en la forma que corresponda.
 
- PRESUNCIÓN
+ *//PRESUNCIÓN
 
  ARTICULO 185. Todo rapto se presume ejecutado con propósitos sexuales, mientras no
 se pruebe lo contrario o lo revelaren, de modo evidente, las circunstancias del hecho.
 
- CONCURSO
+ *//CONCURSO
 
  ARTICULO 186. Si se hubiere realizado acceso carnal con la raptada, la sanción se
 establecerá de acuerdo con lo previsto en el Artículo 70 de este Código.
 
- OCULTACIÓN O DESAPARICIÓN MALICIOSA DE LA RAPTADA
+ *//OCULTACIÓN O DESAPARICIÓN MALICIOSA DE LA RAPTADA
 
  ARTICULO 187. La ocultación o desaparición maliciosa de la raptada hecha por ella
 misma, por un tercero o de común acuerdo ambos, será sancionada con prisión de uno a
@@ -2091,14 +2091,14 @@ cinco años.
  CAPITULO V
  DE LA CORRUPCION DE MENORES
 
- CORRUPCIÓN DE MENORES DE EDAD
+ *//CORRUPCIÓN DE MENORES DE EDAD
 
  ARTICULO 188. Quien, en cualquier forma, promoviere, facilitare o favoreciere la
 prostitución o la corrupción sexual de menor de edad, aunque la víctima consienta en
 participar en actos sexuales o en verlos ejecutar, será sancionado con prisión de dos a
 seis años.
 
- CORRUPCIÓN AGRAVADA
+ *//CORRUPCIÓN AGRAVADA
 
  ARTICULO 189. La pena señalada en el artículo anterior se aumentará en dos terceras
 partes, cuando concurra cualquiera de las circunstancias siguientes:
@@ -2119,7 +2119,7 @@ custodia de la víctima.
  6o. Cuando los hechos a que se refiere el artículo anterior, fueren realizados con
 habitualidad.
 
- INDUCCIÓN MEDIANTE PROMESA O PACTO
+ *//INDUCCIÓN MEDIANTE PROMESA O PACTO
 
  ARTICULO 190. Quien, mediante promesa o pacto, aun con apariencia de lícitos,
 indujere o diere lugar a la prostitución o a la corrupción sexual de menor de edad, será
@@ -2132,7 +2132,7 @@ en las casas o lugares respectivos.
  CAPITULO VI
  DE LOS DELITOS CONTRA EL PUDOR
 
- PROXENETISMO
+ *//PROXENETISMO
 
  ARTICULO 191. Quien, con ánimo de lucro o para satisfacer deseos ajenos, promoviere,
 facilitare o favoreciere la prostitución, sin distinción de sexo, será sancionado con multa
@@ -2141,7 +2141,7 @@ de quinientos a dos mil quetzales.
  Quien, en provecho propio, realice las actividades a que se refiere el párrafo anterior,
 será sancionado con multa de trescientos a un mil quetzales.
 
- PROXENETISMO AGRAVADO.
+ *//PROXENETISMO AGRAVADO.
 
  ARTICULO 192. Las penas señaladas en el artículo anterior se aumentarán en una
 tercera parte, en los casos siguientes:
@@ -2153,14 +2153,14 @@ educación, custodia o guarda de la víctima.
 
  3o. Cuando mediare violencia, engaño o abuso de autoridad.
 
- RUFIANERÍA
+ *//RUFIANERÍA
 
  ARTICULO 193. Quien, sin estar comprendido en los artículos anteriores del presente
 capítulo, viviere, en todo o en parte, a expensas de persona o personas que ejerzan la
 prostitución o de las ganancias provenientes de ese comercio, será sancionado con multa
 de quinientos a tres mil quetzales
 
- TRATA DE PERSONAS
+ *//TRATA DE PERSONAS
 
  ARTICULO 194. Quien, en cualquiera forma, promoviere, facilitare o favoreciere la
 entrada o salida del país de mujeres para que ejerzan la prostitución, será sancionado con
@@ -2172,13 +2172,13 @@ anterior, con varones.
  La pena se aumentará en dos terceras partes si concurriera cualquiera de las
 circunstancias a que se refiere el Artículo 189 de este Código.
 
- EXHIBICIONES OBSCENAS
+ *//EXHIBICIONES OBSCENAS
 
  ARTICULO 195. Quien, en sitio público o abierto o expuesto al público, ejecutare o
 hiciere ejecutar actos obscenos, será sancionado con multa de doscientos a dos mil
 quetzales.
 
- PUBLICACIONES Y ESPECTÁCULOS OBSCENOS
+ *//PUBLICACIONES Y ESPECTÁCULOS OBSCENOS
 
  ARTICULO 196. Quien publicare, fabricare o reprodujere: Libros, escritos, imágenes u
 objetos obscenos, así como quien los expusiere, distribuyere o hiciere circular, será
@@ -2190,7 +2190,7 @@ teatro, cinematógrafo, televisión o ejecutare transmisiones radiales de ese g�
  CAPITULO VII
  DE LAS DISPOSICIONES COMUNES
 
- DE LA ACCIÓN PENAL
+ *//DE LA ACCIÓN PENAL
 
  ARTICULO 197. Los delitos comprendidos en los capítulos I, II, III y IV anteriores, será
 perseguibles únicamente mediante denuncia del agraviado, de sus padres, abuelos,
@@ -2209,7 +2209,7 @@ ley o de hecho, de la guarda o custodia del ofendido.
  3o. En caso de violación o de abuso deshonesto violento, si la víctima fuere menor de
 quince años o se encontrare, en el momento del hecho, en situación de trastorno mental.
 
- PENAS ACCESORIAS
+ *//PENAS ACCESORIAS
 
  ARTICULO 198. A los responsables de los delitos a que se refieren los artículos 173,
 174, 175, 178, 179, 181, 183, 188, 189, 191, 192, 193, 194, 195 y 196 precedentes, de
@@ -2217,7 +2217,7 @@ acuerdo con lo establecido en el Artículo 58 de este mismo Código, se les apli
 inhabilitaciones especiales contenidas en los incisos 2o., 3o. y 4o. del Artículo 56 de este
 mismo cuerpo de ley.
 
- PENAS PARA LOS CÓMPLICES
+ *//PENAS PARA LOS CÓMPLICES
 
  ARTICULO 199. Los ascendientes, tutores, protutores, albaceas, maestros o cualquiera
 otra persona que, con abuso de autoridad o de confianza, cooperen como cómplices a la
@@ -2225,7 +2225,7 @@ perpetración de los delitos de violación, estupro, abusos deshonestos, rapto, 
 de menores o delitos contra el pudor, será sancionados con las penas que corresponden
 a los autores.
 
- MATRIMONIO DE LA OFENDIDA CON EL OFENSOR
+ *//MATRIMONIO DE LA OFENDIDA CON EL OFENSOR
 
  ARTICULO 200. En los delitos comprendidos en los capítulos I, II, III y IV anteriores, la
 responsabilidad penal del sujeto activo o la pena, en su caso, quedarán extinguidas por el
@@ -2238,7 +2238,7 @@ doce años y, en todo caso, con la previa aprobación del Ministerio Público.
  CAPITULO I
  DE LOS DELITOS CONTRA LA LIBERTAD INDIVIDUAL
 
- PLAGIO O SECUESTRO
+ *//PLAGIO O SECUESTRO
 
  ARTICULO 201. A los autores materiales o intelectuales del delito de plagio o secuestro
 de una o más personas con el propósito de lograr rescate, canje de personas o la toma de
@@ -2270,7 +2270,7 @@ competente en el ejercicio legítimo de su deber y en el resguardo del orden pú
  El o los responsables del delito de tortura serán sancionados con prisión de veinticinco a
 treinta años.
 
- DESAPARICION FORZADA
+ *//DESAPARICION FORZADA
 
  ARTICULO 201 TER. Comete el delito de desaparición forzada quien, por orden, con la
 autorización o apoyo de autoridades del Estado, privare en cualquier forma de la libertad a
@@ -2295,18 +2295,18 @@ años. Se impondrá la pena de muerte en lugar del máximo de prisión, cuando c
 u ocasión de la desaparición forzada, la víctima resultare con lesiones graves o
 gravísimas, trauma psíquico o psicológico permanente o falleciere."
 
- SOMETIMIENTO A SERVIDUMBRE
+ *//SOMETIMIENTO A SERVIDUMBRE
 
  ARTICULO 202. Será reprimido con prisión de dos a diez años, quien redujere a una
 persona a servidumbre o a otra condición análoga y a quienes la mantuvieren en ella.
 
- DETENCIONES ILEGALES
+ *//DETENCIONES ILEGALES
 
  ARTICULO 203. La persona que encerrare o detuviere a otro, privándolo de su libertad,
 será sancionado con prisión de uno a tres años. Igual sanción se impondrá a quien
 proporcionare lugar para la ejecución de este delito.
 
- AGRAVANTES ESPECÍFICAS
+ *//AGRAVANTES ESPECÍFICAS
 
  ARTICULO 204. Las penas señaladas en los artículos anteriores se aumentarán en una
 tercera parte, si concurriere alguna de las circunstancias siguientes:
@@ -2327,7 +2327,7 @@ ejecutado con simulación de autoridad.
  6o. Si la víctima, a consecuencia del hecho, resultare afectada mentalmente, temporal o
 en forma definitiva.
 
- APREHENSIÓN ILEGAL.
+ *//APREHENSIÓN ILEGAL.
 
  ARTICULO 205. El particular que, fuera de los casos permitidos por la ley, aprehendiere
 a una persona para presentarla a la autoridad, será sancionado con multa de cincuenta a
@@ -2336,14 +2336,14 @@ doscientos quetzales.
  CAPITULO II
  DEL ALLANAMIENTO DE MORADA
 
- ALLANAMIENTO
+ *//ALLANAMIENTO
 
  ARTICULO 206. El particular que, sin autorización o contra la voluntad expresa o tácita
 del morador, clandestinamente o con engaño, entrare en morada ajena o en sus
 dependencias o permaneciere en ella, será sancionado con prisión de tres meses a dos
 años.
 
- AGRAVACIÓN ESPECÍFICA
+ *//AGRAVACIÓN ESPECÍFICA
 
  ARTICULO 207. Si los hechos descritos en el artículo anterior se ejecutaren con
 simulación de autoridad, con armas, con violencia o por más de dos personas, la sanción
@@ -2364,7 +2364,7 @@ quien las habita.
  CAPITULO III
  DE LA SUSTRACCION DE MENORES
 
- SUSTRACCIÓN PROPIA
+ *//SUSTRACCIÓN PROPIA
 
  ARTICULO 209. Quien sustrajere a un menor de doce años de edad o a un incapaz del
 poder de sus padres, tutor o persona encargada del mismo y el que lo retuviere contra la
@@ -2376,13 +2376,13 @@ consentimiento de su parte.
  La pena a imponer será de seis meses a dos años, si el menor de más de doce años de
 edad hubiere prestado consentimiento.
 
- SUSTRACCIÓN IMPROPIA
+ *//SUSTRACCIÓN IMPROPIA
 
  ARTICULO 210. Quien, hallándose encargado de la persona de un menor, no lo
 presentare a sus padres o guardadores, ni diere razón satisfactoria de su desaparición,
 será sancionado con prisión de uno a tres años.
 
- SUSTRACCIÓN AGRAVADA
+ *//SUSTRACCIÓN AGRAVADA
 
  ARTICULO 211. En caso de desaparición del sustraído, si los responsables no probaren
 el paradero de la víctima o que su desaparición se debió a causas ajenas a la sustracción,
@@ -2390,13 +2390,13 @@ serán sancionados con prisión de seis a doce años. Sin embargo, si la persona
 fuere encontrada la pena se reducirá en la forma que corresponde, mediante recurso de
 revisión.
 
- INDUCCIÓN AL ABANDONO DEL HOGAR
+ *//INDUCCIÓN AL ABANDONO DEL HOGAR
 
  ARTICULO 212. Quien indujere a un menor de edad, pero mayor de diez años, a que
 abandone la casa de sus padres, guardadores o encargados de su persona, será
 sancionado con prisión de seis meses a dos años.
 
- ENTREGA INDEBIDA DE UN MENOR
+ *//ENTREGA INDEBIDA DE UN MENOR
 
  ARTICULO 213. Quien, teniendo a su cargo la crianza o educación de un menor de edad
 lo entregare a un establecimiento público o a otra persona, sin la anuencia de quien se lo
@@ -2406,7 +2406,7 @@ quinientos quetzales.
  CAPITULO IV
  DE LAS COACCIONES Y AMENAZAS
 
- COACCIÓN
+ *//COACCIÓN
 
  ARTICULO 214. Quien, sin estar legítimamente autorizado mediante procedimiento
 violento, intimidatorio o que en cualquier forma compela a otro, obligue a éste para que
@@ -2414,13 +2414,13 @@ haga o deje de hacer lo que la ley no le prohibe, efectúe o consienta lo que no
 que tolere que otra persona lo haga, sea justo o no, será sancionado con prisión de seis
 meses a dos años.
 
- AMENAZAS
+ *//AMENAZAS
 
  ARTICULO 215. Quien amenazare a otro con causar el mismo o a sus parientes, dentro
 de los grados de ley, en su persona, honra o propiedad, un mal que constituya o no delito,
 será sancionado con prisión de seis meses a tres años.
 
- COACCIÓN CONTRA LA LIBERTAD POLÍTICA
+*// COACCIÓN CONTRA LA LIBERTAD POLÍTICA
 
  ARTICULO 216. Quien fuera de los casos previstos en las leyes especiales respectivas,
 por medio de violencias o amenazas impidiere o coartare el ejercicio de cualquier derecho
@@ -2429,28 +2429,28 @@ político, será sancionado con prisión de seis meses a tres años.
  CAPITULO V
  DE LA VIOLACION Y REVELACION DE SECRETOS
 
- VIOLACIÓN DE CORRESPONDENCIA Y PAPELES PRIVADOS
+ *//VIOLACIÓN DE CORRESPONDENCIA Y PAPELES PRIVADOS
 
  ARTICULO 217. Quien, de propósito o para descubrir los secretos de otro, abriere
 correspondencia, pliego cerrado o despachos telegráficos, telefónico o de otra naturaleza,
 que no le estén dirigidos a quien, sin abrirlos, se impusiere de su contenido, será
 sancionado con multa de cien a un mil quetzales.
 
- SUSTRACCIÓN, DESVÍO O SUPRESIÓN DE CORRESPONDENCIA
+ *//SUSTRACCIÓN, DESVÍO O SUPRESIÓN DE CORRESPONDENCIA
 
  ARTICULO 218. Quien, indebidamente, se apoderare de correspondencia, pliego o
 despachos, a que se refiere el artículo anterior o de otro papel privado, aunque no estén
 cerrados o quien los suprimiere o desviare de su destino, será sancionado con multa de
 cien a un mil quetzales.
 
- INTERCEPCIÓN O REPRODUCCIÓN DE COMUNICACIONES
+ *//INTERCEPCIÓN O REPRODUCCIÓN DE COMUNICACIONES
 
  ARTICULO 219. Quien, valiéndose de medios fraudulentos interceptare, copiare o
 grabare comunicaciones televisadas, radiales, telegráficas, telefónicas u otras semejantes
 o de igual naturaleza, o las impida o interrumpa, será sancionado con multa de cien a un
 mil quetzales.
 
- AGRAVACIÓN ESPECÍFICA
+ *//AGRAVACIÓN ESPECÍFICA
 
  ARTICULO 220. Las sanciones señaladas para los hechos delictuosos definidos en los
 tres artículos que preceden, serán de prisión de seis meses a tres años, en los siguientes
@@ -2463,20 +2463,20 @@ dependencia, empresa o entidad respectivas.
 
  3o. Si la información obtenida, el autor la hiciere pública, por cualquier medio.
 
- EXCEPCIONES
+ *//EXCEPCIONES
 
  ARTICULO 221. Lo preceptuado en los artículos 217, 218 y 219 de este capítulo, no es
 aplicable a los padres respecto a sus hijos menores de edad, ni a los tutores o protutores
 respecto a las personas que tengan bajo su custodia o guarda.
 
- PUBLICIDAD INDEBIDA
+ *//PUBLICIDAD INDEBIDA
 
  ARTICULO 222. Quien, hallándose legítimamente en posesión de correspondencia, de
 papeles o de grabaciones, fotografías no destinadas a la publicidad, los hiciere públicos,
 sin la debida autorización, aunque le hubieren sido dirigidos, cuando el hecho cause o
 pudiere causar perjuicio, será sancionado con multa de doscientos a dos mil quetzales.
 
- REVELACIÓN DE SECRETO PROFESIONAL
+ *//REVELACIÓN DE SECRETO PROFESIONAL
 
  ARTICULO 223. Quien, sin justa causa, revelare o empleare en provecho propio o ajeno
 un secreto del que se ha enterado por razón de su estado, oficio, empleo, profesión o
@@ -2487,13 +2487,13 @@ prisión de seis meses a dos años o multa de cien a un mil quetzales.
  DE LOS DELITOS CONTRA LA LIBERTAD DE CULTOS Y EL SENTIMIENTO
 RELIGIOSO
 
- TURBACIÓN DE ACTOS DE CULTO
+ *//TURBACIÓN DE ACTOS DE CULTO
 
  ARTICULO 224. Quien interrumpa la celebración de una ceremonia religiosa o ejecute
 actos en menosprecio o con ofensa del culto o de los objetos destinados al mismo, será
 sancionado con prisión de un mes a un año.
 
- PROFANACIÓN DE SUPULTURAS
+ *//PROFANACIÓN DE SUPULTURAS
 
  ARTICULO 225. Quien violare o vilipendiare sepultura, sepulcro o una funeraria, o en
 cualquier otra forma profanare el cadáver de un ser humano o sus restos, será
@@ -2502,7 +2502,7 @@ sancionado con prisión de seis meses a dos años.
  CAPITULO VII
  DE LOS DELITOS DE INSEMINACION"
 
- INSEMINACION FORZOSA
+ *//INSEMINACION FORZOSA
 
  ARTICULO 225 "A". Será sancionado con prisión de dos a cinco años e inhabilitación
 especial hasta diez años el que, sin consentimiento de la mujer procurare su embarazo
@@ -2514,14 +2514,14 @@ hasta quince años.
  Si la mujer sufriere lesiones gravísimas o la muerte, se aplicará prisión de tres a diez
 años e inhabilitación especial de diez a veinte años.
 
- INSEMINACIÓN FRAUDULENTA
+ *//INSEMINACIÓN FRAUDULENTA
 
  ARTICULO 225 "B".. Se impondrá prisión de uno a tres años e inhabilitación especial
 hasta diez años al que alterare fraudulentamente las condiciones pactadas para realizar
 una inseminación artificial o lograre el consentimiento mediante engaño o promesas
 falsas.
 
- EXPERIMENTACION
+ *//EXPERIMENTACION
 
  ARTICULO 225 "C". Se impondrá de uno a tres años de prisión e inhabilitación especial
 hasta diez años al que, aún con el consentimiento de la mujer, realizare en ella
@@ -2537,7 +2537,7 @@ CIVIL
  CAPITULO I
  DE LA CELEBRACION DE MATRIMONIOS ILEGALES
 
- MATRIMONIO ILEGAL
+ *//MATRIMONIO ILEGAL
 
  ARTICULO 226. Quien contrajere segundo o ulterior matrimonio sin hallarse
 legítimamente disuelto el anterior, será sancionado con prisión de uno a tres años.
@@ -2545,7 +2545,7 @@ legítimamente disuelto el anterior, será sancionado con prisión de uno a tres
  Igual sanción se impondrá a quien, siendo soltero, contrajere matrimonio, a sabiendas,
 con persona casada.
 
- OCULTACIÓN DE IMPEDIMENTO
+ *//OCULTACIÓN DE IMPEDIMENTO
 
  ARTICULO 227. Quienes contrajeren matrimonio sabiendo que existe impedimento que
 causa su nulidad absoluta, serán sancionados con prisión de dos a cinco años.
@@ -2553,7 +2553,7 @@ causa su nulidad absoluta, serán sancionados con prisión de dos a cinco años.
  Igual sanción se aplicará a quien contrajere matrimonio sabiendo que existe impedimento
 que causa su nulidad absoluta y ocultare esta circunstancia al otro contrayente.
 
- SIMULACIÓN
+ *//SIMULACIÓN
 
  ARTICULO 228. Quien, engañando a una persona, simulare matrimonio con ella, será
 sancionado con prisión de uno a cuatro años.
@@ -2562,7 +2562,7 @@ sancionado con prisión de uno a cuatro años.
 con daño a tercero, contrajere matrimonio, exclusivamente para cualquiera de esos
 efectos, sin perjuicio de las otras responsabilidades que pudieran derivarse de su acción.
 
- INOBSERVANCIA DE PLAZOS
+ *//INOBSERVANCIA DE PLAZOS
 
  ARTICULO 229. La viuda que contrajere matrimonio antes de transcurrido el plazo
 señalado en el Código Civil para que pueda contraer nupcias, será sancionada con multa
@@ -2572,13 +2572,13 @@ de cien a quinientos quetzales.
 declarado nulo, si contrajere nuevas nupcias antes de que haya transcurrido el plazo
 señalado por el Código Civil.
 
- CELEBRACIÓN ILEGAL
+ *//CELEBRACIÓN ILEGAL
 
  ARTICULO 230. Quien, sin estar legalmente autorizado, celebrare un matrimonio, civil o
 religioso, será sancionado con multa de doscientos a dos mil quetzales, sin perjuicio de
 las sanciones que correspondan a otros delitos en que pudo incurrir.
 
- RESPONSABILIDAD DE REPRESENTANTES
+ *//RESPONSABILIDAD DE REPRESENTANTES
 
  ARTICULO 231. El tutor o protutor que antes de la aprobación legal de sus cuentas,
 contrajere matrimonio o prestare su consentimiento para que lo contraigan sus hijos o
@@ -2589,28 +2589,28 @@ quetzales.
  CAPITULO II
  DEL ADULTERIO Y CONCUBINATO
 
- ADULTERIO
+ *//ADULTERIO
 
  ARTICULO 232. [Este artículo fue declarado INCONSTITUCIONAL según expediente No.
 936-95 de la Corte de Constitucionalidad, por violar los principios de igualdad entre los
 seres humanos y derechos en el matrimonio. La vigencia de este artículo deja de surtir
 efecto el día 13/Marzo/1996.]
 
- RÉGIMEN DE LA ACCIÓN
+ *//RÉGIMEN DE LA ACCIÓN
 
  ARTICULO 233. [Este artículo fue declarado INCONSTITUCIONAL según expediente No.
 936-95 de la Corte de Constitucionalidad, por violar los principios de igualdad entre los
 seres humanos y derechos en el matrimonio. La vigencia de este artículo deja de surtir
 efecto el día 13/Marzo/1996.]
 
- PERDÓN
+ *//PERDÓN
 
  ARTICULO 234. [Este artículo fue declarado INCONSTITUCIONAL según expediente No.
 936-95 de la Corte de Constitucionalidad, por violar los principios de igualdad entre los
 seres humanos y derechos en el matrimonio. La vigencia de este artículo deja de surtir
 efecto el día 13/Marzo/1996.]
 
- CONCUBINATO
+ *//CONCUBINATO
 
  ARTICULO 235. [Este artículo fue declarado INCONSTITUCIONAL según expediente No.
 936-95 de la Corte de Constitucionalidad, por violar los principios de igualdad entre los
@@ -2620,14 +2620,14 @@ efecto el día 13/Marzo/1996.]
  CAPITULO III
  DEL INCESTO
 
- INCESTO PROPIO
+ *//INCESTO PROPIO
 
  ARTICULO 236. Comete incesto, quien yaciere con su ascendiente, descendiente o
 hermano.
 
  El incesto será sancionado con prisión de dos a cuatro años.
 
- INCESTO AGRAVADO
+ *//INCESTO AGRAVADO
 
  ARTICULO 237. Quien, cometiere incesto con un descendiente menor de edad, será
 sancionado con prisión de tres a seis años.
@@ -2635,7 +2635,7 @@ sancionado con prisión de tres a seis años.
  CAPITULO IV
  DE LOS DELITOS CONTRA EL ESTADO CIVIL
 
- SUPOSICIÓN DE PARTO
+ *//SUPOSICIÓN DE PARTO
 
  ARTICULO 238. La mujer que fingiere parto o embarazo para obtener para sí o para el
 supuesto hijo, derechos que no le correspondan, será sancionada con prisión de uno a
@@ -2647,12 +2647,12 @@ nacimiento inexistente.
  El médico, la obstetra o comadrona, que coopere a la ejecución de este delito, será
 sancionado con multa de doscientos a dos mil quetzales.
 
- SUSTITUCIÓN DE UN NIÑO POR OTRO
+ *//SUSTITUCIÓN DE UN NIÑO POR OTRO
 
  ARTICULO 239. Quien, mediante sustitución de un recién nacido por otro, altere los
 derechos o el estado civil del mismo, será sancionado con prisión de uno a cinco años.
 
- SUPRESIÓN Y ALTERACIÓN DE ESTADO CIVIL
+ *//SUPRESIÓN Y ALTERACIÓN DE ESTADO CIVIL
 
  ARTICULO 240. Será sancionado con prisión de uno a ocho años:
 
@@ -2663,7 +2663,7 @@ inscripción falsa.
  2. Quien, ocultare o expusiere un hijo con el propósito de hacerlo perder sus derechos o
 su estado civil.
 
- USURPACIÓN DE ESTADO CIVIL
+ *//USURPACIÓN DE ESTADO CIVIL
 
  ARTICULO 241. Quien, usurpare el estado civil de otro, será sancionado con prisión de
 dos a cinco años.
@@ -2671,7 +2671,7 @@ dos a cinco años.
  CAPITULO V
  DEL INCUMPLIMIENTO DE DEBERES
 
- NEGACIÓN DE ASISTENCIA ECONÓMICA
+ *//NEGACIÓN DE ASISTENCIA ECONÓMICA
 
  ARTICULO 242. Quien, estando obligado legalmente a prestar alimentos, en virtud de
 sentencia firme o de convenio que conste en documento público o auténtico, se negare a
@@ -2682,20 +2682,20 @@ para el cumplimiento de su obligación.
  El autor no quedará eximido de responsabilidad penal, por el hecho de que otra persona
 los hubiere prestado.
 
- INCUMPLIMIENTO AGRAVADO
+ *//INCUMPLIMIENTO AGRAVADO
 
  ARTICULO 243. La sanción señalada en el artículo anterior, se aumentará en una tercera
 parte, cuando el autor, para eludir el cumplimiento de la obligación, traspasare sus bienes
 a tercera persona o empleare cualquier otro medio fraudulento.
 
- INCUMPLIMIENTO DE DEBERES DE ASISTENCIA
+ *//INCUMPLIMIENTO DE DEBERES DE ASISTENCIA
 
  ARTICULO 244. Quien, estando legalmente obligado incumpliere o descuidare los
 derechos de cuidado y educación con respecto a descendientes o a personas que tenga
 bajo su custodia o guarda, de manera que éstos se encuentren en situación de abandono
 material y moral, será sancionado con prisión de dos meses a un año.
 
- EXIMENTE POR CUMPLIMIENTO
+ *//EXIMENTE POR CUMPLIMIENTO
 
  ARTICULO 245. En los casos previstos en los tres artículos anteriores, quedará exento
 de sanción, quien pagare los alimentos debidos y garantizare suficientemente, conforme a
@@ -2707,12 +2707,12 @@ la ley, el ulterior cumplimiento de sus obligaciones.
  CAPITULO I
  DEL HURTO
 
- HURTO
+ *//HURTO
 
  ARTICULO 246. Quien tomare, sin la debida autorización cosa, mueble, total o
 parcialmente ajena, será sancionado con prisión de 1 a 6 años.
 
- HURTO AGRAVADO
+ *//HURTO AGRAVADO
 
  ARTICULO 247.. Es hurto agravado:
 
@@ -2756,7 +2756,7 @@ recibidos para su comercialización.
 
  Al responsable de hurto agravado se le sancionará con prisión de 2 a 10 años.
 
- HURTO DE USO
+ *//HURTO DE USO
 
  ARTICULO 248. Quien, sin la debida autorización, tomare una cosa mueble, total o
 parcialmente ajena, con el solo propósito de usarla y efectuare su restitución en
@@ -2769,13 +2769,13 @@ responsabilidades resultantes de los daños causados a la cosa.
 propósitos subversivos, se impondrá al responsable prisión de dos a cinco años, sin
 perjuicio de las sanciones que correspondan al otro delito.
 
- HURTO DE FLUIDOS
+ *//HURTO DE FLUIDOS
 
  ARTICULO 249. Quien, ilícitamente, sustrajere energía eléctrica, agua, gas, fuerza de
 una instalación o cualquier otro fluido ajeno, será sancionado con multas de doscientos a
 tres mil quetzales.
 
- HURTO IMPROPIO
+ *//HURTO IMPROPIO
 
  ARTICULO 250. El dueño de una cosa mueble que la sustrajere de quien la tenga
 legítimamente en su poder, con perjuicio del mismo o de un tercero será sancionado con
@@ -2784,13 +2784,13 @@ multa de cien a dos mil quetzales.
  CAPITULO II
  DEL ROBO
 
- ROBO
+ *//ROBO
 
  ARTICULO 251. Quien sin la debida autorización y con violencia anterior, simultánea o
 posterior a la aprehensión, tomare cosa, mueble total o parcialmente ajena será
 sancionado con prisión de 3 a 12 años.
 
- ROBO AGRAVADO
+ *//ROBO AGRAVADO
 
  ARTICULO 252. Es robo agravado:
 
@@ -2814,7 +2814,7 @@ u otro vehículo.
 
  El responsable de robo agravado será sancionado con prisión de 6 a 15 años.
 
- ROBO DE USO
+ *//ROBO DE USO
 
  ARTICULO 253. Cuando el hecho a que se refiere el Artículo 248 de este Código, se
 cometiere con violencia, será calificado como robo de uso y sancionado con prisión de
@@ -2823,19 +2823,19 @@ seis a dos años.
  Cuando concurrieren las circunstancias a que se refiere el párrafo último del artículo
 citado, la pena a imponer será de tres a ocho años de prisión.
 
- ROBO DE FLUIDOS
+ *//ROBO DE FLUIDOS
 
  ARTICULO 254. Cuando los hechos a que se refiere el Artículo 249 de este Código, se
 cometieren con violencia, serán calificados como robo y sancionados con prisión de seis
 meses a dos años.
 
- ROBO IMPROPIO
+ *//ROBO IMPROPIO
 
  ARTICULO 255. Cuando el hecho a que se refiere el Artículo 250 de este Código, se
 cometiere con violencia, será calificado como robo impropio y sancionado con prisión de
 seis meses a dos años.
 
- DE LOS HECHOS SACRÍLEGOS
+ *//DE LOS HECHOS SACRÍLEGOS
 
  ARTICULO 255 BIS. Cuando los hechos a que se refieren los artículos anteriores
 relativos al Hurto y Robo, el objeto materia del delito sea destinado al culto, sea cosa
@@ -2862,7 +2862,7 @@ como la pronta entrega a sus propietarios y/o legítimos tenedores.
  CAPITULO III
  DE LAS USURPACIONES
 
- USURPACIÓN
+ *//USURPACIÓN
 
  ARTICULO 256.. Comete delito de usurpación quien, con fines de apoderamiento o
 aprovechamiento ilícitos, despojare o pretendiere despojar a otro de la posesión o
@@ -2876,7 +2876,7 @@ inmediato desalojo.
 
  El responsable de usurpación será sancionado con prisión de uno a tres años.
 
- USURPACIÓN AGRAVADA
+ *//USURPACIÓN AGRAVADA
 
  ARTICULO 257.. La pena será de dos a seis años de prisión, cuando en alguno de los
 supuestos a que se refiere el artículo anterior, concurra cualquiera de las circunstancias
@@ -2901,7 +2901,7 @@ instalaciones, caminos de acceso o recursos naturales.
 también a quienes instiguen, propongan, fuercen o induzcan a otros a cometer este delito
 o cooperen en su planificación, preparación o ejecución.
 
- ALTERACIÓN DE LINDEROS
+ *//ALTERACIÓN DE LINDEROS
 
  ARTICULO 258.. Quien, con fines de apoderamiento o aprovechamiento ilícito, de todo o
 parte de un inmueble, alterare los términos y linderos de los pueblos o heredades o
@@ -2909,13 +2909,13 @@ cualquier clase de señales destinadas a fijar los límites de predios contiguos
 sancionado con prisión de uno a dos años, si el hecho se efectuare con violencia, y con
 prisión de seis meses a un año, si no mediare violencia.
 
- PERTURBACIÓN DE LA POSESIÓN
+ *//PERTURBACIÓN DE LA POSESIÓN
 
  ARTICULO 259.. Quien, sin estar comprendido en los tres artículos anteriores perturbare
 con violencia la posesión o tenencia de un inmueble, será sancionado con prisión de uno
 a tres años.
 
- USURPACIÓN DE AGUAS
+ *//USURPACIÓN DE AGUAS
 
  ARTICULO 260.. Quien, con fines de apoderamiento, de aprovechamiento ilícito o de
 perjudicar a otro, represare, desviare o detuviere las aguas, destruyere, total o
@@ -2927,14 +2927,14 @@ multa de mil a cinco mil quetzales.
  CAPITULO IV
  DE LA EXTORCION Y DEL CHANTAJE
 
- EXTORSIÓN
+ *//EXTORSIÓN
 
  ARTICULO 261. Quien, para procurar un lucro injusto o para defraudarlo obligare a otro,
 con violencia, a firmar, suscribir, otorgar, destruir o entregar algún documento, a contraer
 una obligación o a condonarla o a renunciar a algún derecho, será sancionado con prisión
 de uno a seis años.
 
- CHANTAJE
+ *//CHANTAJE
 
  ARTICULO 262. Comete delito de chantaje quien exigiere a otro, dinero, recompensa o
 efectos, bajo amenaza directa o encubierta de imputaciones contra su honor o prestigio, o
@@ -2946,7 +2946,7 @@ entidad en cuya gestión intervenga o tenga interés.
  CAPITULO V
  DE LA ESTAFA
 
- ESTAFA PROPIA
+ *//ESTAFA PROPIA
 
  ARTICULO 263. Comete estafa quien, induciendo a error a otro, mediante ardid o engaño
 lo defraudare en su patrimonio en perjuicio propio o ajeno.
@@ -2954,7 +2954,7 @@ lo defraudare en su patrimonio en perjuicio propio o ajeno.
  El responsable de este delito será sancionado con prisión de seis meses a cuatro años y
 multa de doscientos a diez mil quetzales.
 
- CASOS ESPECIALES DE ESTAFA
+ *//CASOS ESPECIALES DE ESTAFA
 
  ARTICULO 264. Incurrirá en las sanciones señaladas en el artículo anterior:
 
@@ -3028,25 +3028,25 @@ garantizar créditos destinados a la producción.
  23. Quien defraudare o perjudicare a otro, usando de cualquier ardid o engaño, que no se
 haya expresado en los incisos anteriores.
 
- ESTAFA MEDIANTE DESTRUCCIÓN DE COSA PROPIA
+ *//ESTAFA MEDIANTE DESTRUCCIÓN DE COSA PROPIA
 
  ARTICULO 265. Quien, para obtener el pago de un seguro o algún provecho indebido en
 perjuicio de otro, destruyere, deteriorare u ocultare, total o parcialmente, un bien propio,
 será sancionado con prisión de uno a tres años y multa de cien a cinco mil quetzales.
 
- ESTAFA MEDIANTE LESIÓN
+ *//ESTAFA MEDIANTE LESIÓN
 
  ARTICULO 266. A quien, con el mismo propósito señalado en el artículo anterior, se
 causare o se hiciere causar por tercero, lesión corporal o se agravare la causada por
 accidente, se le impondrán las mismas sanciones del referido artículo.
 
- ESTAFA EN LA ENTREGA DE BIENES
+ *//ESTAFA EN LA ENTREGA DE BIENES
 
  ARTICULO 267. Quien defraudare en la substancia, calidad o cantidad de los bienes que
 entregue a otros, en virtud de contrato o de cualquier otro título obligatorio, será
 sancionado con prisión de seis meses a cinco años y multa de cien a cinco mil quetzales.
 
- ESTAFA MEDIANTE CHEQUE
+ *//ESTAFA MEDIANTE CHEQUE
 
  ARTICULO 268. Quien defraudare a otro dándole en pago un cheque sin provisión de
 fondos o disponiendo de ellos, antes de que expire el plazo para su presentación, será
@@ -3055,13 +3055,13 @@ sancionado con prisión de seis meses a cinco años y multa de cien a cinco mil 
  Igual sanción se aplicará a quien endosare un cheque con conocimiento de la falta de
 fondos del librador.
 
- DEFRAUDACIÓN EN CONSUMOS
+ *//DEFRAUDACIÓN EN CONSUMOS
 
  ARTICULO 269. Quien de propósito defraudare a otro consumiendo bebida o alimento, o
 utilizando o haciéndose prestar algún servicio de los de pago inmediato, será sancionado
 con multa de veinte a quinientos quetzales.
 
- ESTAFA MEDIANTE FLUIDOS
+ *//ESTAFA MEDIANTE FLUIDOS
 
  ARTICULO 270. Quien aproveche indebidamente, energía eléctrica o cualquier otro fluido
 que le esté siendo suministrado, o alterare los medidores o contadores destinados a
@@ -3072,7 +3072,7 @@ sancionado con multa de diez a dos mil quetzales.
 contadores de energía eléctrica o de otro fluido, o las indicaciones registradas por esos
 aparatos, será sancionado con multa de quinientos a cinco mil quetzales.
 
- ESTAFA MEDIANTE INFORMACIONES CONTABLES
+ *//ESTAFA MEDIANTE INFORMACIONES CONTABLES
 
  ARTICULO 271. Los auditores, contadores, expertos, directores, gerentes, liquidadores o
 empleados de entidad bancaria o mercantil, sociedades o cooperativas, que en sus
@@ -3085,14 +3085,14 @@ meses a cinco años y multa de cien a cinco mil quetzales.
  CAPITULO VI
  DE LAS APROPIACIONES INDEBIDAS
 
- APROPIACIÓN Y RETENCIÓN INDEBIDAS
+ *//APROPIACIÓN Y RETENCIÓN INDEBIDAS
 
  ARTICULO 272. Quien, en perjuicio de otro, se apropiare o distrajere dinero, efectos o
 cualquier otro bien mueble que hubiere recibido en depósito, comisión o administración, o
 por cualquier otra causa que produzca obligación de entregarlos o devolverlos, será
 sancionado con prisión de seis meses a cuatro años y multa de cien a tres mil quetzales.
 
- APROPIACIÓN IRREGULAR
+ *//APROPIACIÓN IRREGULAR
 
  ARTICULO 273. Comete el delito de apropiación irregular, quien:
 
@@ -3110,7 +3110,7 @@ cincuenta a dos mil quetzales.
  DE LOS DELITOS CONTRA EL DERECHO DE AUTOR, LA PROPIEDAD INDUSTRIAL
 Y DELITOS INFORMATICOS
 
- VIOLACIÓN A LOS DERECHOS DE AUTOR Y DERECHOS CONEXOS
+ *//VIOLACIÓN A LOS DERECHOS DE AUTOR Y DERECHOS CONEXOS
 
  ARTICULO 274. Será sancionado con prisión de cuatro a seis años y multa de cincuenta
 mil a cien mil quetzales, quien realizare cualesquiera de los actos siguientes:
@@ -3163,31 +3163,31 @@ titular del derecho.
 que desempeñe una actividad laboral bajo remuneración o dependencia, será
 determinada de acuerdo a su participación en la comisión del hecho delictivo.
 
- DESTRUCCIÓN DE REGISTROS INFORMÁTICOS
+ *//DESTRUCCIÓN DE REGISTROS INFORMÁTICOS
 
  ARTICULO 274 "A". Será sancionado con prisión de seis meses a cuatro años, y multa
 de doscientos a dos mil quetzales, el que destruyere, borrare o de cualquier modo
 inutilizare registros informáticos.
 
- ALTERACIÓN DE PROGRAMAS
+ *//ALTERACIÓN DE PROGRAMAS
 
  ARTICULO 274 "B".. La misma pena del artículo anterior se aplicará al que alterare,
 borrare o de cualquier modo inutilizare las instrucciones o programas que utilizan las
 computadoras.
 
- REPRODUCCIÓN DE INSTRUCCIONES O PROGRAMAS DE COMPUTACIÓN
+ *//REPRODUCCIÓN DE INSTRUCCIONES O PROGRAMAS DE COMPUTACIÓN
 
  ARTICULO 274 "C".. Se impondrá prisión de seis meses a cuatro años y multa de
 quinientos a dos mil quinientos quetzales al que, sin autorización del autor, copiare o de
 cualquier modo reprodujere las instrucciones o programas de computación.
 
- REGISTROS PROHIBIDOS
+ *//REGISTROS PROHIBIDOS
 
  ARTICULO 274 "D".. Se impondrá prisión de seis meses a cuatro años y multa de
 doscientos a mil quetzales, al que creare un banco de datos o un registro informático con
 datos que puedan afectar la intimidad de las personas.
 
- MANIPULACIÓN DE INFORMACIÓN
+ *//MANIPULACIÓN DE INFORMACIÓN
 
  ARTICULO 274 "E".. Se impondrá prisión de uno a cinco años y multa de quinientos a
 tres mil quetzales, al que utilizare registros informáticos o programas de computación para
@@ -3195,20 +3195,20 @@ ocultar, alterar o distorsionar información requerida para una actividad comerc
 cumplimiento de una obligación respecto al Estado o para ocultar, falsear o alterar los
 estados contables o la situación patrimonial de una persona física o jurídica.
 
- USO DE INFORMACIÓN
+ *//USO DE INFORMACIÓN
 
  ARTICULO 274 "F".. Se impondrá prisión de seis meses a dos años, y multa de
 doscientos a mil quetzales al que, sin autorización, utilizare los registros informáticos de
 otro, o ingresare, por cualquier medio, a su banco de datos o archivos electrónicos.
 
- PROGRAMASDESTRUCTIVOS
+ *//PROGRAMASDESTRUCTIVOS
 
  ARTICULO 274 "G".. Será sancionado con prisión de seis meses a cuatro años, y multa
 de doscientos a mil quetzales, al que distribuyere o pusiere en circulación programas o
 instrucciones destructivas, que puedan causar perjuicio a los registros, programas o
 equipos de computación.
 
- VIOLACIÓN A LOS DERECHOS DE PROPIEDAD INDUSTRIAL
+ *//VIOLACIÓN A LOS DERECHOS DE PROPIEDAD INDUSTRIAL
 
  ARTICULO 275.. Será sancionado con prisión de cuatro a seis años y multa de cincuenta
 mil a cien mil quetzales, quien realizare cualesquiera de los actos siguientes:
@@ -3278,7 +3278,7 @@ marcas a que se refiere la literal anterior.
  CAPITULO VIII
  DE LA USURA
 
- USURA
+ *//USURA
 
  ARTICULO 276. Comete el delito de usura quien exige de su deudor, en cualquier forma,
 un interés mayor que el tipo máximo que fije la ley o evidentemente desproporcionado con
@@ -3287,7 +3287,7 @@ la prestación, aun cuando los réditos se encubran o disimulen bajo otras denom
  El responsable de usura será sancionado con prisión de seis meses a dos años y multa
 de doscientos a dos mil quetzales.
 
- NEGOCIACIONES USURARIAS
+ *//NEGOCIACIONES USURARIAS
 
  ARTICULO 277. La misma sanción señalada en el artículo que antecede, se aplicará:
 
@@ -3298,14 +3298,14 @@ de doscientos a dos mil quetzales.
  CAPITULO IX
  DE LOS DAÑOS
 
- DAÑO
+ *//DAÑO
 
  ARTICULO 278. Quien, de propósito, destruyere, inutilizare, hiciere desaparecer o de
 cualquier modo deteriorare, parcial o totalmente, un bien de ajena pertenencia, será
 sancionado con prisión de seis meses a dos años y multa de doscientos a dos mil
 quetzales.
 
- DAÑO AGRAVADO
+ *//DAÑO AGRAVADO
 
  ARTICULO 279. Es daño específicamente agravado y será sancionado con una tercera
 parte más de la pena a que se refiere el artículo anterior:
@@ -3322,7 +3322,7 @@ o corrosivas.
  CAPITULO X
  DE LAS DISPOSICIONES COMUNES DE LA EXENCION DE LA PENA
 
- EXENTOS DE RESPONSABILIDAD PENAL
+ *//EXENTOS DE RESPONSABILIDAD PENAL
 
  ARTICULO 280. Están exentos de responsabilidad penal y sujetos únicamente a la civil
 por los hurtos, robos con fuerza en las cosas, estafas, apropiaciones indebidas y daños
@@ -3340,7 +3340,7 @@ mientras no hayan pasado a poder de otra persona.
 
  Esta exención no es aplicable a los extraños que participen en el delito.
 
- MOMENTO CONSUMATIVO
+ *//MOMENTO CONSUMATIVO
 
  ARTICULO 281. Los delitos de hurto, robo, estafa, en su caso apropiación irregular, se
 tendrán por consumados en el momento en que el delincuente tenga el bien bajo su
@@ -3353,7 +3353,7 @@ cuando lo abandonare o lo desapoderen de él.
  CAPITULO I
  DEL INCENDIO Y DE LOS ESTRAGOS
 
- INCENDIO
+ *//INCENDIO
 
  ARTICULO 282. Quien de propósito cause incendio de bien ajeno, será sancionado con
 prisión de dos a ocho años.
@@ -3361,7 +3361,7 @@ prisión de dos a ocho años.
  El incendio de bien propio que ponga en peligro la vida, la integridad corporal o el
 patrimonio de otro, será sancionado con prisión de uno a cuatro años.
 
- INCENDIO AGRAVADO
+ *//INCENDIO AGRAVADO
 
  ARTICULO 283. Es incendio específicamente agravado:
 
@@ -3378,7 +3378,7 @@ o de cultura; en aeropuerto o en estación ferroviaria o de vehículos automotor
 
  El responsable del incendio agravado será sancionado con prisión de cuatro a doce años.
 
- ESTRAGO
+ *//ESTRAGO
 
  ARTICULO 284. Comete delito de estrago, quien causare daño empleando medios
 poderosos de destrucción o por medio de inundación, explosión, desmoronamiento o
@@ -3386,7 +3386,7 @@ derrumbe de edificio.
 
  El responsable de estrago será sancionado con prisión de cinco a quince años.
 
- INCENDIO Y ESTRAGO CULPOSO
+ *//INCENDIO Y ESTRAGO CULPOSO
 
  ARTICULO 285. Quien culposamente causare estragos o incendio, será sancionado con
 prisión de uno a tres años.
@@ -3394,7 +3394,7 @@ prisión de uno a tres años.
  Si del incendio o del estrago culposo hubiere resultado la muerte de una o más personas,
 el responsable será sancionado con prisión de dos a cinco años.
 
- INUTILIZACION DE DEFENSAS
+ *//INUTILIZACION DE DEFENSAS
 
  ARTICULO 286. Quien dañare o inutilizare instalaciones, objetos u obras destinados a la
 defensa común contra desastres, haciendo surgir el peligro de que éstos se produzcan,
@@ -3404,7 +3404,7 @@ será sancionado con prisión de uno a seis años.
 desastre, sustrajere, ocultare o inutilizare materiales, instrumentos u otros medios
 destinados a la defensa referida.
 
- FABRICACION O TENENCIA DE MATERIALES EXPLOSIVOS
+ *//FABRICACION O TENENCIA DE MATERIALES EXPLOSIVOS
 
  ARTICULO 287. Quien con el fin de contribuir a la comisión de delitos contra la seguridad
 colectiva, fabricare, suministrare, adquiriere, sustrajere o tuviere bombas, materias
@@ -3419,7 +3419,7 @@ de las sustancias o materiales a que se refiere el párrafo anterior.
  DE LOS DELITOS CONTRA LOS MEDIOS DE COMUNICACIÓN, TRANSPORTE Y
 OTROS SERVICIOS PUBLICOS
 
- PELIGRO DE DESASTRE FERROVIARIO
+ *//PELIGRO DE DESASTRE FERROVIARIO
 
  ARTICULO 288. Quien impdiere (sic) o perturbare el servicio del ferrocarril en alguna de
 las siguientes formas será sancionado con prisión de dos a cinco años:
@@ -3434,25 +3434,25 @@ comunicaciones telefónicas, telegráficas o por radio.
 
  4o. Practicando cualquier otro acto del que pueda resultar desastre.
 
- DESASTRE FERROVIARIO
+ *//DESASTRE FERROVIARIO
 
  ARTICULO 289. Si de los hechos a que se refiere el artículo anterior resultare desastre,
 se sancionará al responsable con prisión de cuatro a doce años.
 
- ATENTADO CONTRA LA SEGURIDAD DE LOS TRANSPORTES MARITIMOS,
+ *//ATENTADO CONTRA LA SEGURIDAD DE LOS TRANSPORTES MARITIMOS,
 FLUVIALES O AEREOS
 
  ARTICULO 290. Quien pusiere en peligro embarcación o aeronave, propia o ajena, o
 practicare cualquier acto tendiente a impedir o dificultar la navegación marítima, fluvial o
 aérea, será sancionado con prisión de dos a cinco años.
 
- DESASTRE MARITIMO, FLUVIAL O AEREO
+ *//DESASTRE MARITIMO, FLUVIAL O AEREO
 
  ARTICULO 291 Si de los hechos a que se refiere el artículo anterior, resultare naufragio o
 varamiento de embarcación, o la caída o destrucción de aeronave, el responsable será
 sancionado con prisión de cuatro a doce años.
 
- ATENTADO CONTRA OTROS MEDIOS DE TRANSPORTE
+ *//ATENTADO CONTRA OTROS MEDIOS DE TRANSPORTE
 
  ARTICULO 292. Quien pusiere en peligro otro medio de transporte público, lo impida o lo
 dificulte, será sancionado con prisión de uno a tres años.
@@ -3460,7 +3460,7 @@ dificulte, será sancionado con prisión de uno a tres años.
  Si del hecho resulta siniestro, el responsable será sancionado con prisión de dos a cinco
 años.
 
- DESASTRE CULPOSO
+ *//DESASTRE CULPOSO
 
  ARTICULO 293. Quien culposamente causare alguno de los desastres previstos en los
 artículos anteriores de este capítulo será sancionado con prisión de uno a tres años.
@@ -3468,25 +3468,25 @@ artículos anteriores de este capítulo será sancionado con prisión de uno a t
  Si hubiere resultado muerte de una o más personas o lesiones graves, la sanción será de
 dos a seis años de prisión.
 
- ATENTADO CONTRA LA SEGURIDAD DE SERVICIOS DE UTILIDAD PUBLICA
+ *//ATENTADO CONTRA LA SEGURIDAD DE SERVICIOS DE UTILIDAD PUBLICA
 
  ARTICULO 294. Quien ponga en peligro la seguridad, o impida o dificulte el
 funcionamiento de servicios de agua, luz, energía eléctrica o cualquier otro destinado al
 público, será sancionado con prisión de uno a cinco años.
 
- INTERRUPCION O ENTORPECIMIENTO DE COMUNICACIONES
+ *//INTERRUPCION O ENTORPECIMIENTO DE COMUNICACIONES
 
  ARTICULO 295. Quien, atentare contra la seguridad de telecomunicaciones o
 comunicaciones postales, o por cualquier medio interrumpiere o entorpeciere tales
 servicios, será sancionado con prisión de dos a cinco años.
 
- APODERAMIENTO E INUTILIZACION DE CORRESPONDENCIA
+ *//APODERAMIENTO E INUTILIZACION DE CORRESPONDENCIA
 
  ARTICULO 296. Quien, acometiere a un conductor de correspondencia, para interceptar
 o detener ésta, para apoderarse de ella o para inutilizarla, será sancionado con prisión de
 tres a seis años.
 
- INUTILIZACION Y ENTORPECIMIENTO DE DEFENSAS
+ *//INUTILIZACION Y ENTORPECIMIENTO DE DEFENSAS
 
  ARTICULO 297. Quien, con ocasión de alguno de los desastres o perjuicios
 comprendidos en el presente capítulo, sustraiga, oculte o inutilice instalaciones,
@@ -3494,7 +3494,7 @@ materiales, instrumentos o aparatos, u otros medios destinados a las labores de 
 salvamento, o impida o dificulte que se presten servicios de defensa o salvamento, será
 sancionado con igual pena a la que corresponda a los autores del delito de que se trate.
 
- ABANDONO DE SERVICIO DE TRANSPORTE
+ *//ABANDONO DE SERVICIO DE TRANSPORTE
 
  ARTICULO 298. El conductor, capitán, piloto o mecánico de ferrocarril, nave, aeronave o
 de cualquier otro medio de transporte público, que abandonare su puesto antes del
@@ -3505,7 +3505,7 @@ quetzales.
  CAPITULO III
  DE LA PIRATERIA
 
- PIRATERÍA
+ *//PIRATERÍA
 
  ARTICULO 299. Comete delito de piratería, quien practicare en el mar, lagos o en ríos
 navegables, algún acto de depredación o violencia contra embarcación o contra personas
@@ -3530,7 +3530,7 @@ embarcación atacada por piratas.
 
  El responsable de piratería será sancionado con prisión de tres a quince años.
 
- PIRATERÍA AÉREA
+ *//PIRATERÍA AÉREA
 
  ARTICULO 300. Las disposiciones contenidas en el artículo anterior, se aplicarán a quien
 cometiere piratería contra aeronaves o contra personas que en ella se encuentren.
@@ -3538,12 +3538,12 @@ cometiere piratería contra aeronaves o contra personas que en ella se encuentre
  CAPITULO IV
  DE LOS DELITOS CONTRA LA SALUD PUBLICA
 
- PROPAGACIÓN DE ENFERMEDAD
+ *//PROPAGACIÓN DE ENFERMEDAD
 
  ARTICULO 301. Quien, de propósito, propagare una enfermedad peligrosa o contagiosa
 para las personas, será sancionado con prisión de uno a seis años.
 
- ENVENENAMIENTO DE AGUA O DE SUSTANCIA ALIMENTICIA O MEDICINAL
+ *//ENVENENAMIENTO DE AGUA O DE SUSTANCIA ALIMENTICIA O MEDICINAL
 
  ARTICULO 302. Quien, de propósito, envenenare, contaminare o adulterare, de modo
 peligroso para la salud, agua de uso común o particular, o sustancia alimenticia o
@@ -3553,7 +3553,7 @@ medicinal destinadas al consumo, será sancionado con prisión de dos a ocho añ
 depósito para su distribución, agua o sustancia alimenticia o medicinal, adulterada o
 contaminada.
 
- ELABORACIÓN PELIGROSA DE SUSTANCIAS ALIMENTICIAS O TERAPÉUTICAS
+ *//ELABORACIÓN PELIGROSA DE SUSTANCIAS ALIMENTICIAS O TERAPÉUTICAS
 
  ARTICULO 303. Quien, elaborare sustancias alimenticias o terapéuticas, en forma
 peligrosa para la salud, será sancionado con prisión de uno a cinco años.
@@ -3561,7 +3561,7 @@ peligrosa para la salud, será sancionado con prisión de uno a cinco años.
  Igual sanción se aplicará a quien, a sabiendas, comerciare con sustancias nocivas a la
 salud o adulteradas, deterioradas o contaminadas.
 
- EXPENDIO IRREGULAR DE MEDICAMENTOS
+ *//EXPENDIO IRREGULAR DE MEDICAMENTOS
 
  ARTICULO 304. Quien, estando autorizado para el expendio de medicamentos, los
 suministrare sin prescripción facultativa cuando ésta fuere necesaria, o en desacuerdo
@@ -3572,14 +3572,14 @@ hiciere en especie, cantidad o calidad diferente a la declarada o convenida, o l
 expendiere a sabiendas de que han perdido sus propiedades terapéuticas o después de
 su fecha de expiración.
 
- CONTRAVENCIÓN DE MEDIDAS SANITARIAS
+ *//CONTRAVENCIÓN DE MEDIDAS SANITARIAS
 
  ARTICULO 305. Quien, infrinja las medidas impuestas por la ley o las adoptadas por las
 autoridades sanitarias para impedir la introducción o propagación de una epidemia, de
 una plaga vegetal o de una epizootia susceptible de afectar a los seres humanos, será
 sancionada con prisión de seis meses a dos años.
 
- SIEMBRA Y CULTIVO DE PLANTAS PRODUCTORAS DE SUSTANCIAS
+ *//SIEMBRA Y CULTIVO DE PLANTAS PRODUCTORAS DE SUSTANCIAS
 ESTUPEFACIENTES
 
  ARTICULO 306. Quien, sin estar autorizado, sembrare o cultivare plantas de las que
@@ -3589,7 +3589,7 @@ a cinco años y multa de quinientos a cinco mil quetzales.
  Igual sanción se aplicará a quien comerciare, poseyere o suministrare semillas o plantas
 de las que pueda extraer fármacos, drogas o estupefacientes.
 
- TRÁFICO ILEGAL DE FÁRMACOS, DROGAS O ESTUPEFACIENTES
+ *//TRÁFICO ILEGAL DE FÁRMACOS, DROGAS O ESTUPEFACIENTES
 
  ARTICULO 307. Será sancionado con prisión de tres a cinco años y multa de quinientos
 a cinco mil quetzales:
@@ -3604,7 +3604,7 @@ fármacos, drogas o estupefacientes.
 en su poder fármacos, drogas o estupefacientes, o productos destinados a su
 preparación.
 
- FORMAS AGRAVADAS
+ *//FORMAS AGRAVADAS
 
  ARTICULO 308. La sanción señalada en el artículo anterior, será aumentada en una
 tercera parte en los siguientes casos:
@@ -3627,27 +3627,27 @@ tráfico internacional o tengan conexión de cualquier naturaleza con el mismo.
 a cincuenta mil quetzales, y las responsabilidades civiles, en los casos que señala el
 Artículo 83, del Código Procesal Penal, se fijarán entre diez mil y cien mil quetzales.
 
- FACILITACIÓN DEL USO DE ESTUPEFACIENTES
+ *//FACILITACIÓN DEL USO DE ESTUPEFACIENTES
 
  ARTICULO 309. Quien, sin estar comprendido en los artículos anteriores, facilitare local,
 aun a título gratuito, para el tráfico o consumo de las sustancias o productos a que se
 refiere este capítulo, será sancionado con prisión de dos meses a un año y multa de cien
 a un mil quetzales.
 
- INDUCCIÓN AL USO DE ESTUPEFACIENTES
+ *//INDUCCIÓN AL USO DE ESTUPEFACIENTES
 
  ARTICULO 310. Quien, instigare o indujere a otra persona al uso de sustancias
 estupefacientes, o contribuyere a estimular o difundir el uso de dichas sustancias, será
 sancionado con prisión de tres a cinco años y multa de quinientos a cinco mil quetzales.
 
- INHUMACIONES Y EXHUMACIONES ILEGALES
+ *//INHUMACIONES Y EXHUMACIONES ILEGALES
 
  ARTICULO 311. Quien, practicare, inhumación, exhumación o traslado de un cadáver o
 restos humanos contraviniendo las disposiciones sanitarias correspondientes, será
 sancionado con prisión de un mes a seis meses y multa de cincuenta a trescientos
 quetzales.
 
- DELITOS CULPOSOS
+ *//DELITOS CULPOSOS
 
  ARTICULO 312. Si los hechos comprendidos en los artículos 301, 302, 303 y 304, se
 hubiesen cometido culposamente, el responsable será sancionado con la pena que al
@@ -3659,42 +3659,42 @@ delito corresponda, rebajada en dos terceras partes.
  CAPITULO I
  DE LA FALSIFICACION DE MONEDA
 
- FABRICACIÓN DE MONEDA FALSA
+ *//FABRICACIÓN DE MONEDA FALSA
 
  ARTICULO 313. Quien, fabricare moneda falsa imitando moneda legítima nacional o
 extranjera, de curso legal en la República o fuera de ella, será sancionado con prisión de
 dos a diez años.
 
- ALTERACIÓN DE MONEDA
+ *//ALTERACIÓN DE MONEDA
 
  ARTICULO 314. Quien, alterare, de cualquier manera, moneda legítima nacional o
 extranjera, de curso legal o en la República o fuera de ella, será sancionado con prisión
 de dos a diez años.
 
- INTRODUCCIÓN DE MONEDA FALSA O ALTERADA
+ *//INTRODUCCIÓN DE MONEDA FALSA O ALTERADA
 
  ARTICULO 315. Las sanciones señaladas en los artículos anteriores se aplicarán, en los
 respectivos casos, a quienes, a sabiendas, introdujeren al país moneda falsa o alterada.
 
- EXPEDICIÓN DE MONEDA FALSA O ALTERADA
+ *//EXPEDICIÓN DE MONEDA FALSA O ALTERADA
 
  ARTICULO 316. Quien, a sabiendas, adquiera o reciba moneda falsa o alterada y la
 ponga, de cualquier modo, en circulación, será sancionada con igual pena a la señalada
 en los respectivos casos, para los que falsificaren o alteraren moneda.
 
- CERCENAMIENTO DE MONEDA
+ *//CERCENAMIENTO DE MONEDA
 
  ARTICULO 317. Quien, cercenare moneda legítima o, a sabiendas, introduzca al país
 moneda cercenada, o las ponga en circulación, será sancionado con prisión de seis
 meses a dos años.
 
- EXPEDICIÓN DE MONEDA FALSA
+ *//EXPEDICIÓN DE MONEDA FALSA
 
  ARTICULO 318. Quien, habiendo recibido de buena fe, moneda falsa, alterada o
 cercenada, la expendiere o pusiere en circulación a sabiendas de su falsedad, alteración
 o cercenamiento, será sancionado con multa de cincuenta a dos mil quetzales.
 
- EMISIÓN Y CIRCULACIÓN DE MONEDA
+ *//EMISIÓN Y CIRCULACIÓN DE MONEDA
 
  ARTICULO 319. Quien, ilegítimamente, emita piezas monetarias o las haga circular
 dentro del territorio de la República será sancionado con prisión de tres a doce años.
@@ -3703,7 +3703,7 @@ dentro del territorio de la República será sancionado con prisión de tres a d
 que contengan orden o promesa de pago en efectivo, al portador y a la vista o fichas,
 tarjetas, laminillas, planchuelas u otros objetos, con el fin de que sirvan como moneda.
 
- VALORES EQUIPARADOS A MONEDA
+ *//VALORES EQUIPARADOS A MONEDA
 
  ARTICULO 320. Para los efectos de la ley penal, se considera moneda:
 
@@ -3722,45 +3722,45 @@ por un gobierno extranjero.
  CAPITULO II
  DE LA FALSIFICACION DE DOCUMENTOS
 
- FALSEDAD MATERIAL
+ *//FALSEDAD MATERIAL
 
  ARTICULO 321. Quien, hiciere en todo o en parte, un documento público falso, o alterare
 uno verdadero, de modo que pueda resultar perjuicio, será sancionado con prisión de dos
 a seis años.
 
- FALSEDAD IDEOLÓGICA
+ *//FALSEDAD IDEOLÓGICA
 
  ARTICULO 322. Quien, con motivo del otorgamiento, autorización o formalización de un
 documento público, insertare o hiciere insertar declaraciones falsas concernientes a un
 hecho que el documento deba probar, de modo que pueda resultar perjuicio, será
 sancionado con prisión de dos a seis años.
 
- FALSIFICACIÓN DE DOCUMENTOS PRIVADOS
+ *//FALSIFICACIÓN DE DOCUMENTOS PRIVADOS
 
  ARTICULO 323. Quien, en documento privado, cometiere alguna de las falsificaciones a
 que se refieren los dos artículos anteriores, será sancionado con prisión de uno a tres
 años.
 
- EQUIPARACIÓN DE DOCUMENTOS
+ *//EQUIPARACIÓN DE DOCUMENTOS
 
  ARTICULO 324. Cuando los hechos previstos en los dos primeros artículos de este
 capítulo recayeren en títulos de crédito, nominativos o a la orden, o en letras de cambio, u
 otros títulos transmisibles por endoso, el responsable será sancionado en los respectivos
 casos, con la pena que los mismos artículos establecen.
 
- USO DE DOCUMENTOS FALSIFICADOS
+ *//USO DE DOCUMENTOS FALSIFICADOS
 
  ARTICULO 325. Quien, sin haber intervenido en la falsificación, hiciere uso de un
 documento falsificado, a sabiendas de su falsedad, será sancionado con igual pena que la
 que correspondiere al autor de la falsificación.
 
- FALSEDAD EN CERTIFICADO
+ *//FALSEDAD EN CERTIFICADO
 
  ARTICULO 326. El facultativo que extendiere un certificado falso concerniente a la
 existencia o inexistencia, presente o pasada, de una enfermedad o lesión, cuando de ello
 pueda resultar perjuicio, será sancionado con multa de trescientos a tres mil quetzales.
 
- SUPRESIÓN, OCULTACIÓN O DESTRUCCIÓN DE DOCUMENTOS
+ *//SUPRESIÓN, OCULTACIÓN O DESTRUCCIÓN DE DOCUMENTOS
 
  ARTICULO 327. Quien destruya, oculte o suprima, en todo o en parte, un documento
 verdadero, de la naturaleza de los especificados en este capítulo, será sancionado con las
@@ -3776,7 +3776,7 @@ TIMBRES
  Y OTRAS ESPECIES FISCALES
 
 
- FALSIFICACIÓN DE SELLOS, PAPEL SELLADO Y TIMBRES
+ *//FALSIFICACIÓN DE SELLOS, PAPEL SELLADO Y TIMBRES
 
  ARTICULO 328. Quien, falsificare sellos oficiales, papel sellado, estampillas de correo,
 timbres fiscales, o cualquiera otra clase de efectos sellados o timbrados cuya emisión esté
@@ -3786,7 +3786,7 @@ será sancionado con prisión de dos a seis años.
  Igual sanción se aplicará a quien, a sabiendas, los introdujere al territorio de la República,
 los expendiere o usare.
 
- FALSIFICACIÓN DE BILLETES DE LOTERÍA
+ *//FALSIFICACIÓN DE BILLETES DE LOTERÍA
 
  ARTICULO 329. Quien falsificare billetes de lotería debidamente autorizados, o alterare
 los billetes verdaderos, será sancionado con prisión de dos a seis años.
@@ -3794,7 +3794,7 @@ los billetes verdaderos, será sancionado con prisión de dos a seis años.
  Igual sanción se aplicará a quien, a sabiendas, los introdujere al territorio de la República,
 los expendiere o usare.
 
- FALSIFICACIÓN DE PLACAS Y DISTINTIVOS PARA VEHÍCULOS
+ *//FALSIFICACIÓN DE PLACAS Y DISTINTIVOS PARA VEHÍCULOS
 
  ARTICULO 330. Quien falsificare placas u otros distintivos para vehículos, que las
 autoridades acuerden para éstos, o alterare los verdaderos, será sancionado con prisión
@@ -3803,7 +3803,7 @@ de uno a tres años.
  Igual sanción se aplicará a quien, a sabiendas, usare placas o distintivos para vehículos,
 falsificados o alterados.
 
- FALSIFICACIÓN DE CONTRASEÑAS Y MARCAS
+ *//FALSIFICACIÓN DE CONTRASEÑAS Y MARCAS
 
  ARTICULO 331. Quien falsificare marcas, contraseñas o firmas oficialmente usadas para
 contrastar pesas o medidas, identificar cualquier objeto o certificar su calidad, cantidad o
@@ -3812,7 +3812,7 @@ contenido, será sancionado con prisión de uno a cuatro años.
  Igual sanción se impondrá a quien aplique marcas o contraseñas legítimas, de uso oficial,
 a objetos o artículos distintos de aquellos a que debieron ser aplicados.
 
- USO DE SELLOS Y OTROS EFECTOS INUTILIZADOS
+ *//USO DE SELLOS Y OTROS EFECTOS INUTILIZADOS
 
  ARTICULO 332. Quien hiciere desaparecer de cualquiera de los sellos, timbres, marcas o
 contraseñas, el signo que indique haber ya servido o sido utilizado para el objeto de su
@@ -3825,7 +3825,7 @@ efectos inutilizados a que se refiere el párrafo que precede.
  CAPITULO IV
  DE LA DEPREDACION DEL PATRIMONIO NACIONAL
 
- HURTO Y ROBO DE TESOROS NACIONALES
+ *//HURTO Y ROBO DE TESOROS NACIONALES
 
  ARTICULO 332 "A".. Se impondrá prisión de dos a diez años en el caso del art. 246 y
 prisión de cuatro a quince años en los casos del art. 251, cuando la apropiación recayere
@@ -3856,7 +3856,7 @@ instrumentos musicales antiguos con valor histórico o cultural.
 o por personas que en razón de su cargo o función, deban tener la guarda o custodia de
 los bienes protegidos por este artículo.
 
- HURTO Y ROBO DE BIENES ARQUEOLÓGICOS
+ *//HURTO Y ROBO DE BIENES ARQUEOLÓGICOS
 
  ARTICULO 332 "B".. Se impondrá prisión de dos a diez años en el caso del artículo 246 y
 prisión de cuatro a quince años en el caso del artículo 251, cuando la apropiación
@@ -3875,7 +3875,7 @@ situados en terrenos abandonados.
 o por personas que en razón de su cargo o función, deban tener la guarda y custodia de
 los bienes protegidos por este artículo.
 
- TRÁFICO DE TESOROS NACIONALES
+ *//TRÁFICO DE TESOROS NACIONALES
 
  ARTICULO 332 "C".. Se impondrá prisión de seis a quince años y multa de cinco mil a
 diez mil quetzales a quien comercializare, exportare o de cualquier modo transfiera la
@@ -3886,7 +3886,7 @@ autorización estatal.
 culturales hurtados o robados. Si la adquisición se realiza por culpa, se reducirá la pena a
 la mitad.
 
- EXTINCIÓN DE LA ACCIÓN O DE LA PENA
+ *//EXTINCIÓN DE LA ACCIÓN O DE LA PENA
 
  ARTICULO 332 "D".. En el caso de los delitos tipificados en este título, se extinguirá la
 acción o la pena si voluntariamente y sin requerimiento alguno se entrega el objeto
@@ -3896,14 +3896,14 @@ competente, quien lo entregará al Ministerio de Cultura y Deportes.
  CAPITULO V
  DE LAS DISPOSICIONES COMUNES
 
- TENENCIA DE INSTRUMENTOS DE FALSIFICACIÓN
+ *//TENENCIA DE INSTRUMENTOS DE FALSIFICACIÓN
 
  ARTICULO 333. Quien fabricare, introdujere al territorio nacional, o retuviere en su poder,
 cuño, sellos, marcas u otros instrumentos o útiles conocidamente destinados para
 cometer alguna de las falsificaciones a que se refiere este título, será sancionado con
 prisión de seis meses a dos años.
 
- EMISIONES INDEBIDAS
+ *//EMISIONES INDEBIDAS
 
  ARTICULO 334. Quienes dirijan o administren un banco o institución que, con ocasión de
 sus funciones, autorizaren la fabricación o emisión de moneda con ley o peso inferior a las
@@ -3915,13 +3915,13 @@ Artículo 56 de este Código por doble tiempo de la condena.
  TITULO IX
  DE LOS DELITOS DE FALSEDAD PERSONAL
 
- USURPACIÓN DE FUNCIONES
+ *//USURPACIÓN DE FUNCIONES
 
  ARTICULO 335. Quien, sin título o causa legítima, ejerciere actos propios de una
 autoridad o funcionario, atribuyéndose carácter oficial, será sancionado con prisión de uno
 a tres años.
 
- USURPACIÓN DE CALIDAD
+ *//USURPACIÓN DE CALIDAD
 
  ARTICULO 336. Quien se arrogare título académico o ejerciere actos que competen a
 profesionales, sin tener título o habilitación especial, será sancionado con multa de
@@ -3930,7 +3930,7 @@ quinientos a tres mil quetzales.
  Si de resultas de ilegal ejercicio, se derivare perjuicio a tercero, la sanción señalada en el
 párrafo que antecede, se elevará en una tercera parte.
 
- USO PÚBLICO DE NOMBRE SUPUESTO
+ *//USO PÚBLICO DE NOMBRE SUPUESTO
 
  ARTICULO 337. Quien usare públicamente nombre supuesto, será sancionado con multa
 de quinientos a tres mil quetzales.
@@ -3939,7 +3939,7 @@ de quinientos a tres mil quetzales.
 o causar algún perjuicio al Estado o a un particular, además de la sanción señalada en el
 párrafo que antecede, se impondrá al responsable prisión de uno a dos años.
 
- USO ILEGÍTIMO DE DOCUMENTO DE IDENTIDAD
+ *//USO ILEGÍTIMO DE DOCUMENTO DE IDENTIDAD
 
  ARTICULO 338. Quien usare como propio, pasaporte, cédula de vecindad o cualquier
 otro documento legítimo de identidad ajeno, será sancionado con prisión de uno a tres
@@ -3948,7 +3948,7 @@ años.
  Igual sanción se aplicará a quien cediere a otro, para que lo utilice, su propio pasaporte,
 cédula de vecindad o documento legítimo de identidad.
 
- USO INDEBIDO DE UNIFORME E INSIGNIAS
+ *//USO INDEBIDO DE UNIFORME E INSIGNIAS
 
  ARTICULO 339. Quien usare pública e indebidamente traje o uniforme de una institución
 a que no pertenezca, o insignias o condecoraciones que no estuviere autorizado para
@@ -3961,7 +3961,7 @@ INDUSTRIAY EL REGIMEN TRIBUTARIO
  CAPITULO I
  DE LOS DELITOS CONTRA LA ECONOMIA NACIONAL Y EL AMBIENTE
 
- MONOPOLIO
+ *//MONOPOLIO
 
  ARTICULO 340. Quien, con propósitos ilícitos, realizare actos con evidente perjuicio para
 la economía nacional, absorbiendo la producción de uno o más ramos industriales, o de
@@ -3972,7 +3972,7 @@ géneros a determinados precios en evidente perjuicio de la economía nacional o
 particulares, será sancionado con prisión de seis meses a cinco años y multa de
 quinientos a diez mil quetzales.
 
- OTRAS FORMAS DE MONOPOLIO
+ *//OTRAS FORMAS DE MONOPOLIO
 
  ARTICULO 341. Se consideran, también, actos de monopolio contrarios a la economía
 pública y al interés social:
@@ -3996,7 +3996,7 @@ competente, cuando se requiera, si con ello puede producirse escasez o carestía
  El responsable de algunos de los hechos enumerados anteriormente, será sancionado
 con prisión de seis meses a tres años y multa de doscientos a cinco mil quetzales.
 
- ESPECULACIÓN
+ *//ESPECULACIÓN
 
  ARTICULO 342. Quien, esparciendo falsos rumores, propagando falsas noticias o
 valiéndose de cualquier otro artificio semejante, desviare o falseare las leyes económicas
@@ -4007,7 +4007,7 @@ o privadas, de los valores cotizables, de los salarios o de cualquiera otra cosa
 objeto de contratación, será sancionado con prisión de seis meses a dos años y multa de
 doscientos a tres mil quetzales.
 
- DELITO CAMBIARIO
+ *//DELITO CAMBIARIO
 
  ARTICULO 342-A. Comete delito cambiario:
 
@@ -4035,25 +4035,25 @@ cuantía del mismo pueda determinarse, o de quinientos a cinco mil quetzales, en
 contrario.
 
  DESTRUCCIÓN DE MATERIAS PRIMAS O DE PRODUCTOS AGRÍCOLAS O
-INDUSTRIALES
+*//INDUSTRIALES
 
  ARTICULO 343. Quien, destruyere materias primas o productos agrícolas o industriales,
 o cualquier otro medio de producción, con grave daño a la economía nacional o a los
 consumidores, será sancionado con prisión de uno a tres años y multa de trescientos a
 tres mil quetzales.
 
- PROPAGACIÓN DE ENFERMEDAD EN PLANTAS O ANIMALES
+ *//PROPAGACIÓN DE ENFERMEDAD EN PLANTAS O ANIMALES
 
  ARTICULO 344. Quien, propague una enfermedad en animales o plantas, peligrosas
 para la riqueza pecuaria o agrícola, será sancionado con multa de trescientos a tres mil
 quetzales.
 
- PROPAGACIÓN CULPOSA
+ *//PROPAGACIÓN CULPOSA
 
  ARTICULO 345. Si el delito a que se refiere el artículo anterior, fuere cometido
 culposamente, el responsable será sancionado con multa de cincuenta a un mil quetzales.
 
- EXPLOTACIÓN ILEGAL DE RECURSOS NATURALES
+ *//EXPLOTACIÓN ILEGAL DE RECURSOS NATURALES
 
  ARTICULO 346. Quien, sin estar debidamente autorizado, explotare comercialmente los
 recursos naturales contenidos en el mar territorial y la plataforma submarina, así como en
@@ -4063,14 +4063,14 @@ quinientos a cinco mil quetzales.
  Quedan exceptuados quienes pesquen o cacen, ocasionalmente, por deporte o para
 alimentar a su familia.
 
- DELITO CONTRA LOS RECURSOS FORESTALES
+ *//DELITO CONTRA LOS RECURSOS FORESTALES
 
  ARTICULO 347. Quien, contraviniendo las prescripciones legales o las disposiciones de
 la autoridad competente, explotare, talare o destruyere en todo o en parte un bosque,
 repoblación forestal, plantación, o cultivo o vivero públicos, será sancionado con prisión
 de seis meses a dos años y multa de cincuenta a dos mil quetzales.
 
- CONTAMINACIÓN
+ *//CONTAMINACIÓN
 
  ARTICULO 347 "A". Será sancionado con prisión de uno a dos años, y multa de
 trescientos a cinco mil quetzales, el que contaminare el aire, el suelo o las aguas,
@@ -4081,7 +4081,7 @@ plantaciones.
  Si la contaminación se produce en forma culposa, se impondrá multa de doscientos a mil
 quinientos quetzales.
 
- CONTAMINACIÓN INDUSTRIAL
+ *//CONTAMINACIÓN INDUSTRIAL
 
  ARTICULO 347 "B". Se impondrá prisión de dos a diez años y multa de tres mil a diez mil
 quetzales, al Director, Administrador, Gerente, Titular o Beneficiario de una explotación
@@ -4101,14 +4101,14 @@ multa de mil a cinco mil quetzales.
 contaminación resultare una alteración permanente de las condiciones ambientales o
 climáticas.
 
- RESPONSABILIDAD DEL FUNCIONARIO
+ *//RESPONSABILIDAD DEL FUNCIONARIO
 
  ARTICULO 347 "C". Las mismas penas indicadas en el artículo anterior se aplicarán al
 funcionario público que aprobare la instalación de una explotación industrial o comercial
 contaminante, o consintiere su funcionamiento. Si lo hiciere por culpa, se impondrá prisión
 de seis meses a un año y multa de mil a cinco mil quetzales.
 
- PROTECCIÓN DE LOS BOSQUES
+ *//PROTECCIÓN DE LOS BOSQUES
 
  ARTICULO 347 "D". Se impondrá prisión de dos a diez años al que realizare una tala de
 bosques, comercializare o exportare el producto de dicha tala, sin autorización estatal o,
@@ -4118,7 +4118,7 @@ de la pena de prisión, se impondrá una multa de doscientos a siete mil quetzal
 y multa de mil a diez mil quetzales si se tratare de una especie en vías de extinción o si la
 tala se realizare en un área protegida o parque nacional.
 
- PROTECCIÓN DE LA FAUNA
+ *//PROTECCIÓN DE LA FAUNA
 
  ARTICULO 347 "E".. Se impondrá prisión de uno a cinco años al que cazare animales,
 aves o insectos, sin autorización estatal o, teniéndola, sin cumplir o excediendo las
@@ -4128,26 +4128,26 @@ realizare en área protegida o parque nacional.
  CAPITULO II
  DE LA QUIEBRA E INSOLVENCIA PUNIBLES
 
- QUIEBRA FRAUDULENTA
+ *//QUIEBRA FRAUDULENTA
 
  ARTICULO 348. El comerciante que haya sido declarado en quiebra fraudulenta, será
 sancionado con prisión de dos a diez años e inhabilitación especial por doble tiempo de la
 condena.
 
- QUIEBRA CULPABLE
+ *//QUIEBRA CULPABLE
 
  ARTICULO 349. El comerciante que haya sido declarado en quiebra culpable, será
 sancionado con prisión de uno a cinco años e inhabilitación especial por doble tiempo de
 la condena.
 
- RESPONSABILIDAD PERSONAL
+ *//RESPONSABILIDAD PERSONAL
 
  ARTICULO 350. Cuando sea declarada en quiebra una empresa mercantil, todo director,
 administrador o liquidador de la sociedad o establecimiento fallido que hubiere cooperado
 a la ejecución en alguno de los actos ilícitos que la motivaron, será sancionado con igual
 pena a la señalada para el quebrado fraudulento o culpable, según el caso.
 
- COMPLICIDAD
+ *//COMPLICIDAD
 
  ARTICULO 351. Serán penados como cómplices de delito de quiebra fraudulenta,
 quienes ejecutaren cualquiera de los actos siguientes:
@@ -4163,7 +4163,7 @@ dichos administradores.
 
  4o. Verificar con el quebrado conciertos particulares en perjuicio de otros acreedores.
 
- ALZAMIENTO DE BIENES
+ *//ALZAMIENTO DE BIENES
 
  ARTICULO 352. Quien, de propósito y para sustraerse al pago de sus obligaciones se
 alzare con sus bienes, los enajenare, gravare u ocultare, simulare créditos o
@@ -4174,13 +4174,13 @@ doscientos a tres mil quetzales.
  Si el responsable fuere comerciante, se le sancionará, además, con inhabilitación
 especial por el doble tiempo de la condena.
 
- QUIEBRA DE SOCIEDAD IRREGULARMENTE CONSTITUIDA
+ *//QUIEBRA DE SOCIEDAD IRREGULARMENTE CONSTITUIDA
 
  ARTICULO 353. Para los efectos de lo dispuesto en este Código, se considerará
 fraudulenta la quiebra de toda sociedad constituida sin los requisitos legales y a quienes
 las constituyeren se aplicarán las sanciones establecidas en el Artículo 350.
 
- CONCURSADO NO COMERCIANTE
+ *//CONCURSADO NO COMERCIANTE
 
  ARTICULO 354. El concursado no comerciante cuya insolvencia fuere el resultado, en
 todo o en parte, de alguno de los hechos siguientes, será sancionado con prisión de uno a
@@ -4207,14 +4207,14 @@ Código.
  CAPITULO III
  DE LOS DELITOS CONTRA LA INDUSTRIA Y EL COMERCIO
 
- INFIDELIDAD
+ *//INFIDELIDAD
 
  ARTICULO 355. Quien, conociendo un secreto de industria o de comercio, o de otra
 importancia económica y del que no pudiere libremente disponer lo divulgare o lo utilizare
 para sí mismo o para un tercero, será sancionado con prisión de seis meses a dos años y
 multa de doscientos a dos mil quetzales.
 
- USO INDEBIDO DE NOMBRE COMERCIAL
+ *//USO INDEBIDO DE NOMBRE COMERCIAL
 
  ARTICULO 356. Quien, usare indebidamente de nombre comercial o de denominación de
 establecimiento correspondiente a empresa ajena o inexistente, será sancionado con
@@ -4223,14 +4223,14 @@ prisión de seis meses a dos años y multa de cien a quinientos quetzales.
  Igual sanción se aplicará a quien, como medio de propaganda se atribuyere recompensa
 o distinción que no hubiese obtenido.
 
- DESPRESTIGIO COMERCIAL
+ *//DESPRESTIGIO COMERCIAL
 
  ARTICULO 357. Quien, imputare falsamente a otro, un hecho que le perjudique en el
 crédito, confianza o prestigio que mereciere en sus actividades mercantiles, será
 sancionado con multa de doscientos a dos mil quetzales, si el hecho no constituyere otro
 delito más grave.
 
- COMPETENCIA DESLEAL
+ *//COMPETENCIA DESLEAL
 
  ARTICULO 358. Quien, mediante maquinaciones fraudulentas, sospechas malévolas o
 cualquier medio de propaganda desleal, tratare de desviar en beneficio propio o de un
@@ -4240,7 +4240,7 @@ multa de doscientos a dos mil quetzales, si el hecho no constituyere otro delito
  CAPITULO IV
  DE LOS DELITOS CONTRA EL REGIMEN TRIBUTARIO
 
- DEFRAUDACIONTRIBUTARIA
+ *//DEFRAUDACIONTRIBUTARIA
 
  ARTICULO 358 A. Comete el delito de defraudación tributaria quien, mediante
 simulación, ocultación, maniobra, ardid, o cualquiera otra forma de engaño, induzca a
@@ -4254,7 +4254,7 @@ impuesto omitido.
 correspondientes y del cumplimiento de las mismas, se impondrá, además, la pena de
 expulsión del territorio nacional.
 
- CASOS ESPECIALES DE DEFRAUDACION TRIBUTARIA
+ *//CASOS ESPECIALES DE DEFRAUDACION TRIBUTARIA
 
  ARTICULO 358 B. Incurrirá en las sanciones señaladas en el artículo anterior:
 
@@ -4295,7 +4295,7 @@ participantes del delito, se impondrá a la persona jurídica una multa equivale
 del impuesto omitido. Si se produce reincidencia, se sancionará a la persona jurídica con
 la cancelación definitiva de la patente de comercio.
 
- APROPIACION INDEBIDA DE TRIBUTOS
+ *//APROPIACION INDEBIDA DE TRIBUTOS
 
  ARTICULO 358 C. Comete el delito de apropiación indebida de tributos quien actuando
 en calidad de agente de percepción o de retención en beneficio propio, de una empresa o
@@ -4310,7 +4310,7 @@ impuesto percibido o retenido.
 correspondientes y del cumplimiento de las mismas, se le impondrá, además, la pena de
 expulsión del territorio nacional.
 
- RESISTENCIA A LA ACCION FISCALIZADORA DE LA ADMINISTRACION TRIBUTARIA
+ *//RESISTENCIA A LA ACCION FISCALIZADORA DE LA ADMINISTRACION TRIBUTARIA
 
  ARTICULO 358 D. Comete el delito de resistencia a la acción fiscalizadora de la
 Administración Tributaria quien, después de haber sido requerido por dicha
@@ -4340,25 +4340,25 @@ expulsión del territorio nacional.
  CAPITULO I
  DE LA TRAICION
 
- TRAICIÓN PROPIA
+ *//TRAICIÓN PROPIA
 
  ARTICULO 359. El guatemalteco que tomare las armas contra el Estado, o se uniere al
 enemigo, o se pusiere a su servicio, será sancionado con prisión de diez a veinte años.
 
- ATENTADOS CONTRA LA INTEGRIDAD E INDEPENDENCIA DEL ESTADO
+ *//ATENTADOS CONTRA LA INTEGRIDAD E INDEPENDENCIA DEL ESTADO
 
  ARTICULO 360. El guatemalteco que ejecute actos que directamente tiendan a
 menoscabar la integridad del territorio de la República, someterla total o parcialmente al
 dominio extranjero, comprometer su soberanía o atentar contra la unidad nacional, será
 sancionado con prisión de diez a veinte años.
 
- TRAICIÓN IMPROPIA
+ *//TRAICIÓN IMPROPIA
 
  ARTICULO 361. El extranjero residente en el territorio de la República, que cometiere
 alguno de los delitos comprendidos en los dos artículos precedentes, será sancionado con
 prisión de cinco a quince años.
 
- CONCIERTO CON FINES DE GUERRA
+ *//CONCIERTO CON FINES DE GUERRA
 
  ARTICULO 362. El guatemalteco que induzca o se concierte con el gobierno de un
 Estado extranjero o con sus agentes, proponiéndoles provocar una guerra o que se
@@ -4368,7 +4368,7 @@ diez años.
  Si la guerra fuere declarada, o se llevaren a cabo los actos de hostilidad, la sanción será
 de cinco a quince años.
 
- DEBILITACION DE DEFENSAS
+ *//DEBILITACION DE DEFENSAS
 
  ARTICULO 363. Quien, encontrándose el país en estado de guerra, dañare instalaciones,
 vías de comunicación, obras u objetos necesarios o útiles para la defensa nacional, o que
@@ -4378,34 +4378,34 @@ con prisión de diez a veinte años.
  Igual sanción se aplicará a quien ocultare, distrajere, destruyere o hiciere salir del país,
 bienes declarados necesarios para la defensa nacional.
 
- DERROTISMO POLÍTICO
+ *//DERROTISMO POLÍTICO
 
  ARTICULO 364. Quien en tiempo de guerra difundiere o comunicare noticias falsas,
 exageradas o tendenciosas, que puedan suscitar alarma con menoscabo de la residencia
 del Estado ante el enemigo, o desarrolle cualquier actividad que perjudique los intereses
 nacionales, será sancionado con prisión de cinco a diez años.
 
- INSTIGACIÓN A LA VIOLACIÓN DE DEBERES
+ *//INSTIGACIÓN A LA VIOLACIÓN DE DEBERES
 
  ARTICULO 365. Quien, en tiempo de guerra, públicamente incitare a la desobediencia de
 una orden de las autoridades militares, o a la violación de los deberes del servicio, o a la
 deserción será sancionado con prisión de cinco a diez años.
 
- REVELACIÓN DE SECRETOS DEL ESTADO
+ *//REVELACIÓN DE SECRETOS DEL ESTADO
 
  ARTICULO 366. Quien, en cualquier forma, revelare secretos referentes a la seguridad
 del Estado, ya comunicando o publicando documentos, dibujos, planos u otros datos
 relativos al material, fortificaciones u operaciones militares, será sancionado con prisión
 de dos a cinco años y multa de quinientos a tres mil quetzales.
 
- LEVANTAMIENTO DE PLANOS DE FORTIFICACIONES
+ *//LEVANTAMIENTO DE PLANOS DE FORTIFICACIONES
 
  ARTICULO 367. Quien, sin estar legalmente autorizado, levantare planos de fortalezas,
 cuarteles, buques o embarcaciones, arsenales, hangares, vía u otras obras militares, será
 sancionado con prisión de seis meses a dos años y multa de doscientos a dos mil
 quetzales.
 
- AGRAVACIÓN
+ *//AGRAVACIÓN
 
  ARTICULO 368. Si los hechos comprendidos en los dos artículos anteriores se
 cometieren durante un conflicto armado, las penas se duplicarán.
@@ -4413,7 +4413,7 @@ cometieren durante un conflicto armado, las penas se duplicarán.
  CAPITULO II
  DEL ESPIONAJE
 
- ESPIONAJEGENÉRICO
+ *//ESPIONAJEGENÉRICO
 
  ARTICULO 369. Comete este delito:
 
@@ -4428,7 +4428,7 @@ la seguridad, a los medios de defensa o a las relaciones exteriores del Estado, 
 sancionado con prisión de seis meses a dos años y multa de doscientos a dos mil
 quetzales.
 
- AGRAVACIÓN
+ *//AGRAVACIÓN
 
  ARTICULO 370. Si los hechos previstos en el inciso 3o. del artículo anterior, se
 cometieren durante un conflicto armado, al responsable se le impondrá el doble de la
@@ -4438,13 +4438,13 @@ pena.
  DE LOS DELITOS QUE COMPROMETEN LAS RELACIONES EXTERIORES DEL
 ESTADO
 
- INTRUSIÓN
+ *//INTRUSIÓN
 
  ARTICULO 371. Quien, en territorio guatemalteco realice actividades destinadas a alterar
 violentamente el orden político de un Estado extranjero, será sancionado con prisión de
 uno a tres años y multa de doscientos a dos mil quetzales.
 
- ACTOS HOSTILES
+ *//ACTOS HOSTILES
 
  ARTICULO 372. Quien sin estar comprendido en los casos del artículo anterior,
 practicare actos hostiles no aprobados por el gobierno nacional, contra un Estado
@@ -4457,19 +4457,19 @@ alterare las relaciones amistosas del gobierno nacional con un gobierno extranje
 
  Si de dichos actos hostiles resultare la guerra, la pena se duplicará.
 
- VIOLACIÓN DE TREGUA
+ *//VIOLACIÓN DE TREGUA
 
  ARTICULO 373. Quien violare tregua o armisticio acordado entre Guatemala y una
 potencia extranjera o entre sus fuerzas beligerantes, será sancionado con prisión de seis
 meses a tres años.
 
- VIOLACIÓN DE INMUNIDADES
+ *//VIOLACIÓN DE INMUNIDADES
 
  ARTICULO 374. Quien violare las inmunidades del jefe de un Estado extranjero o de un
 representante diplomático ante el gobierno de la República, será sancionado con prisión
 de seis meses a tres años.
 
- ULTRAJE A LOS SÍMBOLOS DE NACIÓN EXTRANJERA
+ *//ULTRAJE A LOS SÍMBOLOS DE NACIÓN EXTRANJERA
 
  ARTICULO 375. Quien públicamente ultraje, menosprecie o vilipendie bandera,
 emblema, escudo o himno de una nación extranjera, será sancionado con prisión de
@@ -4478,7 +4478,7 @@ cuatro meses a un año siempre que exista reciprocidad.
  CAPITULO IV
  DE LOS DELITOS DE TRASCENDENCIA INTERNACIONAL
 
- GENOCIDIO
+ *//GENOCIDIO
 
  ARTICULO 376. Comete delito de genocidio quien, con el propósito de destruir total o
 parcialmente un grupo nacional, étnico o religioso, efectuare cualquiera de los siguientes
@@ -4498,7 +4498,7 @@ impedir su reproducción.
 
  El responsable de genocidio será sancionado con prisión de 30 a 50 años.
 
- INSTIGACIÓN AL GENOCIDIO
+ *//INSTIGACIÓN AL GENOCIDIO
 
  ARTICULO 377. Quien instigare públicamente a cometer el delito de genocidio, será
 sancionado con prisión de cinco a quince años.
@@ -4506,14 +4506,14 @@ sancionado con prisión de cinco a quince años.
  La proposición y la conspiración para realizar actos de genocidio serán sancionados con
 igual pena.
 
- DELITOS CONTRA LOS DEBERES DE HUMANIDAD
+ *//DELITOS CONTRA LOS DEBERES DE HUMANIDAD
 
  ARTICULO 378. Quien violare o infringiere deberes humanitarios, leyes o convenios con
 respecto a prisioneros o rehenes de guerra, heridos durante acciones bélicas, o que
 cometiere cualquier acto inhumano contra población civil, o contra hospitales o lugares
 destinados a heridos, será sancionado con prisión de veinte a treinta años.
 
- MUERTE DE UN JEFE DE ESTADO EXTRANJERO
+ *//MUERTE DE UN JEFE DE ESTADO EXTRANJERO
 
  ARTICULO 379. Quien matare a un jefe de Estado extranjero, que se hallare en la
 República en carácter oficial, será sancionado con prisión de veinte a treinta años.
@@ -4524,7 +4524,7 @@ carácter oficial, será sancionado con prisión de cuatro a ocho años.
  Cualquier otro atentado de hecho, no comprendido en los párrafos anteriores será
 sancionado con prisión de dos a cuatro años.
 
- PRINCIPIO DE RECIPROCIDAD
+ *//PRINCIPIO DE RECIPROCIDAD
 
  ARTICULO 380. Cuando los delitos previstos en los artículos anteriores, no tuvieren
 señalada una penalidad recíproca en las leyes del país a que corresponda la persona
@@ -4538,7 +4538,7 @@ se menciona.
  CAPITULO I
  DE LOS DELITOS CONTRA LA CONSTITUCION
 
- VIOLACIÓN A LA CONSTITUCIÓN
+ *//VIOLACIÓN A LA CONSTITUCIÓN
 
  ARTICULO 381. Será sancionado con prisión de tres a diez años:
 
@@ -4557,7 +4557,7 @@ en el cargo de Presidente de la República.
  4o. Quien ejecutare la misma clase de actos para privar al Vicepresidente de la
 República, de las facultades que la Constitución le otorga.
 
- PROPAGANDA REELECCIONARIA
+ *//PROPAGANDA REELECCIONARIA
 
  ARTICULO 382. Quien hiciere propaganda pública o realizare otras actividades
 tendientes a la reelección de la persona que ejerza la Presidencia de la República, o a
@@ -4570,7 +4570,7 @@ mil quetzales.
  DE LOS DELITOS CONTRA LOS PRESIDENTES DE LOS ORGANISMOS DEL
 ESTADO
 
- CASO DE MUERTE
+ *//CASO DE MUERTE
 
  ARTICULO 383. Quien matare al Presidente de la República, Vicepresidente de la
 República o cualquiera de los Presidentes de los otros Organismos del Estado, será
@@ -4581,7 +4581,7 @@ circunstancias del hecho, los medios empleados para realizarlo y los móviles
 determinantes, se revelare mayor y particular peligrosidad del responsable, se impondrá
 la pena de muerte.
 
- ATENTADO CONTRA ALTOS FUNCIONARIOS
+ *//ATENTADO CONTRA ALTOS FUNCIONARIOS
 
  ARTICULO 384. Quien atentare contra la vida, la integridad corporal o la libertad del
 Presidente de la República, de cualquiera de los Presidentes de los otros organismos del
@@ -4591,7 +4591,7 @@ quince años.
  CAPITULO III
  DE LOS DELITOS CONTRA EL ORDEN POLITICO INTERNO DEL ESTADO
 
- REBELIÓN
+ *//REBELIÓN
 
  ARTICULO 385. Cometen delito de rebelión, quienes se alzaren en armas, con el objeto
 de promover guerra civil o para deponer al gobierno constitucional, para abolir o cambiar
@@ -4607,13 +4607,13 @@ prisión de cinco a diez años y multa de quinientos a cinco mil quetzales.
  Si como consecuencia del alzamiento, causare otros delitos, se estará a las disposiciones
 de este Código sobre concursos.
 
- PROPOSICIÓN Y CONSPIRACIÓN
+ *//PROPOSICIÓN Y CONSPIRACIÓN
 
  ARTICULO 386. La proposición y la conspiración para cometer el delito de rebelión se
 sancionará con prisión de seis meses a dos años y multa de doscientos a dos mil
 quetzales.
 
- SEDICIÓN
+ *//SEDICIÓN
 
  ARTICULO 387. Cometen el delito de sedición quienes, sin desconocer la autoridad del
 Gobierno constituido, se alzaren pública y tumultuariamente para conseguir con violencia,
@@ -4640,20 +4640,20 @@ prisión de uno a cinco años y multa de cien a dos mil quetzales.
  Los meros ejecutores de la sedición serán sancionados por prisión de seis meses a dos
 años.
 
- EXENCIÓN DE PENA A LOS EJECUTORES
+ *//EXENCIÓN DE PENA A LOS EJECUTORES
 
  ARTICULO 388. Los ejecutores de rebelión o de sedición quedarán exentos de sanción,
 cuando se disolvieren o se sometieren a la autoridad, antes de que ésta les dirija
 intimidación o a consecuencia de ella.
 
- INCITACIÓN PÚBLICA
+ *//INCITACIÓN PÚBLICA
 
  ARTICULO 389. Quienes, públicamente o por cualquier medio de difusión, incitaren
 formal y directamente a una rebelión o sedición, o dieren instrucciones para realizarla,
 serán sancionados con prisión de seis meses a dos años y multa de cien a un mil
 quetzales.
 
- ACTIVIDADES CONTRA LA SEGURIDAD INTERIOR DE LA NACIÓN
+ *//ACTIVIDADES CONTRA LA SEGURIDAD INTERIOR DE LA NACIÓN
 
  ARTICULO 390. Serán sancionados con prisión de uno a cinco años y multa de
 trescientos a tres mil quetzales, quienes:
@@ -4676,7 +4676,7 @@ actos punibles contemplados en el presente artículo.
  CAPITULO IV
  DE LOS DELITOS CONTRA EL ORDEN PUBLICO
 
- TERRORISMO
+ *//TERRORISMO
 
  ARTICULO 391. Quien, con el propósito de atentar contra el orden constitucional o de
 alterar el orden público, ejecutare actos encaminados a provocar incendio o a causar
@@ -4687,37 +4687,37 @@ prisión de cinco a quince años.
 delito o, si a consecuencia del mismo resultare la muerte o lesiones graves de una o
 varias personas, el responsable será sancionado con prisión de diez a treinta años.
 
- INTIMIDACIÓN PÚBLICA
+ *//INTIMIDACIÓN PÚBLICA
 
  ARTICULO 392. Quien, para infundir temor público, causar alarma o suscitar tumultos o
 desórdenes, haga estallar petardos o cualquier otro artefacto análogo, o utilice materias
 explosivas, o amenazare públicamente con un desastre de peligro común, será
 sancionado con prisión de seis meses a dos años.
 
- INTIMIDACIÓN PÚBLICA AGRAVADA
+ *//INTIMIDACIÓN PÚBLICA AGRAVADA
 
  ARTICULO 393. Si los hechos comprendidos en el artículo anterior se cometieren en una
 reunión numerosa de personas, o con ocasión de incendio, estrago, o de cualquier otro
 desastre o calamidad, el responsable será sancionado con prisión de tres a diez años.
 
- INSTIGACIÓN A DELINQUIR
+ *//INSTIGACIÓN A DELINQUIR
 
  ARTICULO 394. Quien, públicamente, instigare a cometer un delito determinado, será
 sancionado con prisión de uno a cuatro años.
 
- APOLOGÍA DEL DELITO
+ *//APOLOGÍA DEL DELITO
 
  ARTICULO 395. Quien, públicamente, hiciere la apología de un delito o de una persona
 condenada por un delito, será sancionado con multa de cien a un mil quetzales.
 
- ASOCIACIONES ILÍCITAS
+ *//ASOCIACIONES ILÍCITAS
 
  ARTICULO 396. Quienes promovieren la organización o funcionamiento de asociaciones
 que actúen de acuerdo o en subordinación a entidades internacionales que propugnen la
 ideología comunista o cualquier otro sistema totalitario, o destinadas a cometer delitos, o
 tomaren parte en ellas, serán sancionados con prisión de dos a seis años.
 
- REUNIONES Y MANIFESTACIONES ILÍCITAS
+ *//REUNIONES Y MANIFESTACIONES ILÍCITAS
 
  ARTICULO 397. Quienes organizaren o promovieren cualquier reunión o manifestación
 pública con infracción de las disposiciones que regulan ese derecho o participaren en
@@ -4726,7 +4726,7 @@ ellas, serán sancionados con prisión de seis meses a dos años.
  CAPITULO V
  DE LOS DELITOS CONTRA LA TRANQUILIDAD SOCIAL
 
- AGRUPACIONES ILEGALES DE GENTE ARMADA
+ *//AGRUPACIONES ILEGALES DE GENTE ARMADA
 
  ARTICULO 398. Quienes organizaren, constituyeren o dirigieren agrupaciones de gente
 armada o milicias que no fueren las del Estado, serán sancionados con prisión de tres a
@@ -4735,19 +4735,19 @@ diez años.
  Igual sanción se impondrá a quienes ayuden o colaboren económicamente al
 mantenimiento de dichas agrupaciones.
 
- MILITANCIA EN AGRUPACIONES ILEGALES
+ *//MILITANCIA EN AGRUPACIONES ILEGALES
 
  ARTICULO 399. Quienes formaren parte de las agrupaciones o milicias a que se refiere
 el artículo que antecede, serán sancionados con prisión de dos a ocho años.
 
- TENENCIA Y PORTACIÓN DE ARMAS DE FUEGO
+ *//TENENCIA Y PORTACIÓN DE ARMAS DE FUEGO
 
  ARTICULO 400. La tenencia y portación de armas de fuego o de guerra, o de municiones
 o accesorios para las mismas, cuyo uso exclusivo corresponda al Ejército de la República,
 se sancionará con prisión de seis meses a tres años y multa de cincuenta a un mil
 quetzales.
 
- DEPÓSITOS DE ARMAS O MUNICIONES
+ *//DEPÓSITOS DE ARMAS O MUNICIONES
 
  ARTICULO 401. Quienes tuvieren o establecieren un depósito de armas, municiones o
 de otra clase de pertrechos de guerra, cuyo uso exclusivo corresponda al Ejército de la
@@ -4758,7 +4758,7 @@ mil quetzales.
 de dichas armas, cualquiera que fuere su modelo o clase, aun cuando se hallaren en
 piezas desmontadas.
 
- DEPÓSITOS NO AUTORIZADOS
+ *//DEPÓSITOS NO AUTORIZADOS
 
  ARTICULO 402. Quienes, sin estar autorizados legalmente, tuvieren o establecieren un
 depósito de armas o municiones que no sean de uso exclusivo del Ejército, serán
@@ -4767,12 +4767,12 @@ sancionados con prisión de uno a dos años y multa de cien a un mil quetzales.
  Para los efectos de este artículo, se reputa depósito de armas que no sean de guerra, la
 reunión de cinco o más de ellas, aun cuando se hallaren en piezas desmontadas.
 
- EXCEPCIONES
+ *//EXCEPCIONES
 
  ARTICULO 403. No incurre en delito quien tuviere en su residencia o morada armas de
 uso personal no comprendidas en las prohibiciones legales.
 
- TRÁFICO DE EXPLOSIVOS
+ *//TRÁFICO DE EXPLOSIVOS
 
  ARTICULO 404. Quien, ilegítimamente, tuviere en su poder, fabricare, transportare,
 traficare o suministrare en cualquier forma sustancias explosivas, inflamables,
@@ -4783,20 +4783,20 @@ será sancionado con prisión de diez a quince años.
 instrumentos, los expediere o facilitare a sabiendas que se destinarán para atentar o
 ejecutar cualquiera de los delitos comprendidos en el presente título.
 
- INHABILITACIÓN ESPECIAL
+ *//INHABILITACIÓN ESPECIAL
 
  ARTICULO 405. En los casos previstos en este capítulo, si el responsable estuviere
 autorizado para fabricar o traficar con las sustancias, armas o municiones mencionadas
 en el mismo, se le aplicará, además, inhabilitación especial para el ejercicio de su
 industria o comercio.
 
- PORTACIÓN ILEGAL DE ARMAS
+ *//PORTACIÓN ILEGAL DE ARMAS
 
  ARTICULO 406. Quien portare arma que no sea de las de uso exclusivo del Ejército de la
 República, sin estar legalmente autorizado, será sancionado con multa de cincuenta a
 trescientos quetzales y comiso del arma.
 
- ENTREGA INDEBIDA DE ARMA
+ *//ENTREGA INDEBIDA DE ARMA
 
  ARTICULO 407. Quien confiare arma de fuego, o permitiere que la porte, a un menor de
 edad o a cualquier persona incapaz o inexperta en el manejo de armas, será sancionado
@@ -4805,31 +4805,31 @@ con multa de cien a un mil quetzales.
  CAPITULO VI
  DE LOS DELITOS ELECCIONARIOS
 
- TURBACIÓN DEL ACTO ELECCIONARIO
+ *//TURBACIÓN DEL ACTO ELECCIONARIO
 
  ARTICULO 407 "A". El que con violencia, intimidación o amenazas turbare gravemente o
 impidiere la votación o el escrutinio de una elección nacional, o municipal, será
 sancionado con prisión de dos a ocho años.
 
- COACCIÓN CONTRA ELECCIONES
+ *//COACCIÓN CONTRA ELECCIONES
 
  ARTICULO 407 "B". El que mediante violencia, intimidación o amenazas a un elector le
 impidiere votar, le obligare a hacerlo cuando no está obligado o a hacerlo de una manera
 determinada, será sancionado con prisión de uno a cinco años.
 
- CORRUPCIÓN DE ELECTORES
+ *//CORRUPCIÓN DE ELECTORES
 
  ARTICULO 407 "C". Se impondrá prisión de uno a cinco años al que mediante dádivas,
 ventajas o promesas tratare de inducir a un elector, en el momento de ejercer el sufragio,
 a no votar o a votar de una manera determinada.
 
- FRAUDE DEL VOTANTE
+ *//FRAUDE DEL VOTANTE
 
  ARTICULO 407 "D". Se impondrá prisión de uno a cinco años al que suplantare a otro
 votante, o votare más de una vez en la misma elección o votare sin tener derecho a
 hacerlo.
 
- VIOLACIÓN DEL SECRETO DEL VOTO
+ *//VIOLACIÓN DEL SECRETO DEL VOTO
 
  ARTICULO 407 "E". El que por medios ilícitos intentare descubrir la forma en que un
 elector ha votado, será sancionado con prisión de seis meses a tres años.
@@ -4841,7 +4841,7 @@ elector ha votado, será sancionado con prisión de seis meses a tres años.
  DE LOS DELITOS CONTRA LA ADMINISTRACION PUBLICA COMETIDOS POR
 PARTICULARES
 
- ATENTADO
+ *//ATENTADO
 
  ARTICULO 408. Cometen atentado:
 
@@ -4854,13 +4854,13 @@ ocasión o con motivo de ellos.
 
  Los responsables de atentado serán sancionados con prisión de uno a tres años.
 
- RESISTENCIA
+ *//RESISTENCIA
 
  ARTICULO 409. Quien se opusiere a la ejecución de un acto legal de funcionario, o de la
 autoridad o sus agentes, mediante violencia, será sancionado con prisión de uno a tres
 años.
 
- AGRAVACIONES ESPECÍFICAS
+ *//AGRAVACIONES ESPECÍFICAS
 
  ARTICULO 410. Las sanciones señaladas en los dos artículos que anteceden se
 aumentarán en una tercera parte cuando, en los respectivos casos, concurra alguna de
@@ -4877,13 +4877,13 @@ los agresores.
 
  5o. Si se pusiere manos en el funcionario, autoridad o agente de ella.
 
- DESACATO A LOS PRESIDENTES DE LOS ORGANISMOS DEL ESTADO
+ *//DESACATO A LOS PRESIDENTES DE LOS ORGANISMOS DEL ESTADO
 
  ARTICULO 411. Quien ofendiere en su dignidad o decoro, o amenazare, injuriare o
 calumniare a cualquiera de los Presidentes de los Organismos del Estado, será
 sancionado con prisión de uno a tres años.
 
- DESACATO A LA AUTORIDAD
+ *//DESACATO A LA AUTORIDAD
 
  ARTICULO 412. Quien amenazare, injuriare, calumniare o de cualquier otro modo
 ofendiere en su dignidad o decoro, a una autoridad o funcionario en el ejercicio de sus
@@ -4894,13 +4894,13 @@ funciones o con ocasión de ellas, será sancionado con prisión de seis meses a
 admitirá prueba sobre la verdad de la imputación si se tratare de hechos concernientes al
 ejercicio de su cargo. En este caso será absuelto si probare ser cierta la imputación.
 
- DESOBEDIENCIA
+ *//DESOBEDIENCIA
 
  ARTICULO 414. Quien desobedeciere abiertamente una orden de un funcionario,
 autoridad o agente de autoridad, dictada en el ejercicio legítimo de sus atribuciones, será
 sancionado con multa de cincuenta un mil quetzales.
 
- DESORDEN PÚBLICO
+ *//DESORDEN PÚBLICO
 
  ARTICULO 415. Cometen delito de desorden público:
 
@@ -4920,13 +4920,13 @@ inherente a sus funciones.
  Los responsables de desorden público serán sancionados con prisión de seis meses a un
 año y multa de cincuenta a quinientos quetzales.
 
- ULTRAJE A SÍMBOLOS NACIONALES.
+ *//ULTRAJE A SÍMBOLOS NACIONALES.
 
  ARTICULO 416. Quien, públicamente, ultraje, menosprecie o vilipendie bandera,
 emblema, escudo o himno, nacionales, será sancionado con prisión de seis meses a dos
 años.
 
- VIOLACIÓN DE SELLOS
+ *//VIOLACIÓN DE SELLOS
 
  ARTICULO 417. Quien violare los sellos puestos por la autoridad para asegurar la
 conservación o la identidad de una cosa será sancionado con multa de cien a un mil
@@ -4936,7 +4936,7 @@ quetzales.
  DE LOS DELITOS COMETIDOS POR FUNCIONARIOS O POR EMPLEADOS
 PUBLICOS
 
- ABUSO DE AUTORIDAD
+ *//ABUSO DE AUTORIDAD
 
  ARTICULO 418. El funcionario o empleado público que, abusando de su cargo o de su
 función, ordenare o cometiere cualquier acto arbitrario o ilegal en perjuicio de la
@@ -4946,34 +4946,34 @@ disposiciones de este Código, será sancionado con prisión de uno a tres años
  Igual sanción se impondrá al funcionario o empleado público que usare de apremios
 ilegítimos o innecesarios.
 
- INCUMPLIMIENTO DE DEBERES
+ *//INCUMPLIMIENTO DE DEBERES
 
  ARTICULO 419. El funcionario o empleado público que omitiere, rehusare hacer o
 retardare algún acto propio de su función o cargo, será sancionado con prisión de uno a
 tres años.
 
- DESOBEDIENCIA
+ *//DESOBEDIENCIA
 
  ARTICULO 420. El funcionario o empleado público que se negare a dar el debido
 cumplimiento a sentencias, resoluciones u órdenes de autoridad superior dictadas dentro
 de los límites de su respectiva competencia y revestidas de las formalidades legales, será
 sancionado con prisión de uno a tres años y multa de doscientos a dos mil quetzales.
 
- DENEGACIÓN DE AUXILIO
+ *//DENEGACIÓN DE AUXILIO
 
  ARTICULO 421. El jefe o agente de policía o de cualquier fuerza pública de seguridad,
 que rehusare, omitiere o retardare, sin causa justificada, la prestación de un auxilio
 legalmente requerido por autoridad competente, será sancionado con prisión de uno a
 tres años.
 
- REVELACIÓN DE SECRETOS
+ *//REVELACIÓN DE SECRETOS
 
  ARTICULO 422. El funcionario o empleado público que revelare o facilitare la revelación
 de hechos, actuaciones o documentos de los que tenga conocimiento por razón del cargo
 y que por disposición de la ley deben permanecer en secreto, será sancionado con multa
 de doscientos a dos mil quetzales.
 
- RESOLUCIONES VIOLATORIAS A LA CONSTITUCIÓN
+ *//RESOLUCIONES VIOLATORIAS A LA CONSTITUCIÓN
 
  ARTICULO 423. El funcionario o empleado público que dictare resoluciones u órdenes
 contrarias a disposiciones expresas de la Constitución de la República o, a sabiendas,
@@ -4981,7 +4981,7 @@ ejecutare las órdenes o resoluciones de esta naturaleza dictadas por otro funci
 no ejecutare las leyes cuyo cumplimiento le incumbiere, será sancionado con prisión de
 uno a dos años y multa de doscientos a dos mil quetzales.
 
- DETENCIÓN IRREGULAR
+ *//DETENCIÓN IRREGULAR
 
  ARTICULO 424. El funcionario o encargado de un establecimiento de reclusión, que
 admita el ingreso de alguien sin orden legal de autoridad competente, no ponga al
@@ -4992,14 +4992,14 @@ de uno a cinco años.
  En la misma pena incurrirá el funcionario o empleado público que ocultare, ordenare o
 ejecutare el ocultamiento de un detenido.
 
- ABUSO CONTRA PARTICULARES
+ *//ABUSO CONTRA PARTICULARES
 
  ARTICULO 425. El funcionario o empleado público que ordenare apremios indebidos,
 torturas, castigos infamantes, vejaciones o medidas que la ley no autoriza, contra preso o
 detenido, será sancionado con prisión de dos a cinco años e inhabilitación absoluta. Igual
 sanción se aplicará a quienes ejecutaren tales órdenes.
 
- ANTICIPACIÓN DE FUNCIONES PÚBLICAS
+ *//ANTICIPACIÓN DE FUNCIONES PÚBLICAS
 
  ARTICULO 426. Quien entrare a desempeñar un cargo o empleo público sin haber
 cumplido las formalidades que la ley exija, será sancionado con multa de doscientos a un
@@ -5008,13 +5008,13 @@ mil quetzales.
  Igual sanción se impondrá al funcionario que admitiere a un subalterno en el desempeño
 del cargo o empleo, sin que haya cumplido las formalidades legales.
 
- PROLONGACIÓN DE FUNCIONES PÚBLICAS
+ *//PROLONGACIÓN DE FUNCIONES PÚBLICAS
 
  ARTICULO 427. Quien continuare ejerciendo empleo, cargo o comisión después que
 debiere cesar conforme a la ley o reglamento respectivo, será sancionado con multa de
 doscientos a un mil quetzales e inhabilitación especial de uno a dos años.
 
- RESTITUCIÓN DE EMOLUMENTOS
+ *//RESTITUCIÓN DE EMOLUMENTOS
 
  ARTICULO 428. El funcionario o empleado responsable de cualquiera de los delitos
 previstos en los dos artículos que anteceden, que hubiere percibido derechos o
@@ -5022,13 +5022,13 @@ emolumentos por razón de su cargo o empleo antes de poder desempeñarlo o despu
 de haber debido cesar, quedará obligado a restituirlos, sin perjuicio del cumplimiento de la
 sanción señalada.
 
- ABANDONO DE CARGO
+ *//ABANDONO DE CARGO
 
  ARTICULO 429. El funcionario o empleado público, que con daño del servicio,
 abandonare su cargo sin haber cesado legalmente en su desempeño, será sancionado
 con multa de cien a un mil quetzales.
 
- ABANDONO COLECTIVO DE FUNCIONES, CARGOS O EMPLEOS
+ *//ABANDONO COLECTIVO DE FUNCIONES, CARGOS O EMPLEOS
 
  ARTICULO 430. Los funcionarios, empleados públicos, empleados o dependientes de
 empresa de servicio público, que abandonaren colectivamente su cargo, trabajo o
@@ -5038,32 +5038,32 @@ servicio, serán sancionados con prisión de seis meses a dos años.
 organizadores del abandono colectivo, se impondrá a los responsables el doble de la
 indicada pena.
 
- INTRACCIÓN DE PRIVILEGIO
+ *//INTRACCIÓN DE PRIVILEGIO
 
  ARTICULO 431. El funcionario o empleado público que detenga o procese a un
 funcionario que goce de antejuicio u otra prerrogativas, sin guardar las formalidades
 establecidas por la ley, será sancionado con multa de cincuenta a quinientos quetzales.
 
- NOMBRAMIENTOS ILEGALES
+ *//NOMBRAMIENTOS ILEGALES
 
  ARTICULO 432. El funcionario o empleado público, que, a sabiendas, propusiere o
 nombrare para cargo o empleo público a persona en quien no concurran los requisitos
 que la ley exija, será sancionado con multa de cien a quinientos quetzales.
 
- USURPACIÓN DE ATRIBUCIONES
+ *//USURPACIÓN DE ATRIBUCIONES
 
  ARTICULO 433. El funcionario o empleado público que, a sabiendas, se arrogare
 facultades que no correspondieren a su cargo, o se arrogare atribuciones que no le
 competan, será sancionado con prisión de seis meses a dos años y multa de doscientos a
 dos mil quetzales.
 
- VIOLACIÓN DE SELLOS
+ *//VIOLACIÓN DE SELLOS
 
  ARTICULO 434. El funcionario o empleado público que ordenare abrir, abriere o
 consintiere que otro abra papeles o documentos cerrados cuya custodia le estuviere
 confiada, será sancionado con multa de doscientos a dos mil quetzales.
 
- FALSEDAD DE DESPACHOS TELEGRÁFICOS, RADIOGRÁFICOS O
+ *//FALSEDAD DE DESPACHOS TELEGRÁFICOS, RADIOGRÁFICOS O
 CABLEGRÁFICOS
 
  ARTICULO 435. El funcionario o empleado del servicio de telégrafos que supusiere o
@@ -5076,13 +5076,13 @@ respectivos servicios.
  Quien hiciere uso del despacho falso, con intención de lucro o ánimo de causar perjuicio
 a otro, será sancionado como si fuese el falsificador.
 
- ALLANAMIENTO ILEGAL
+ *//ALLANAMIENTO ILEGAL
 
  ARTICULO 436. El funcionario o empleado público que allanare un domicilio sin las
 formalidades prescritas por la ley o fuera de los casos que la misma determina, será
 sancionado con prisión de uno a cuatro años.
 
- RESPONSABILIDAD DEL FUNCIONARIO
+ *//RESPONSABILIDAD DEL FUNCIONARIO
 
  ARTICULO 437. El funcionario o ministro de culto, debidamente autorizado, que
 autorizare un matrimonio a sabiendas de la existencia de un impedimento que cause su
@@ -5092,7 +5092,7 @@ por el término que el tribunal fije, el que no podrá exceder de seis años.
  Si el funcionario o ministro de culto hubiere obrado culposamente, será sancionado
 solamente con multa de doscientos quetzales.
 
- INOBSERVANCIA DE FORMALIDADES
+ *//INOBSERVANCIA DE FORMALIDADES
 
  ARTICULO 438. El funcionario o ministro de culto, debidamente autorizado, que
 procediere a la celebración de un matrimonio sin haber observado las formalidades
@@ -5107,7 +5107,7 @@ conforme a lo dispuesto en los incisos 2 y 3 del artículo 56 del Código Penal.
  CAPITULO III
  DE LOS DELITOS DE COHECHO
 
- COHECHO PASIVO
+ *//COHECHO PASIVO
 
  ARTICULO 439. El funcionario o empleado público que solicitare o recibiere, por sí o por
 persona intermedia, dádiva o presente, o aceptare ofrecimiento o promesa por realizar un
@@ -5118,32 +5118,32 @@ quetzales.
  Cuando el funcionario o empleado público obligare o indujere a la dádiva, presente,
 ofrecimiento o promesa, la pena se aumentará en una tercera parte.
 
- CONCURRENCIACON OTRO DELITO
+ *//CONCURRENCIACON OTRO DELITO
 
  ARTICULO 440. Cuando la dádiva o presente solicitados, recibidos, ofrecidos o
 prometidos, tuvieren por objeto la realización de un acto que constituya delito, la sanción
 señalada en el artículo que antecede se impondrá, sin perjuicio de lo relativo al concurso
 del delito.
 
- SOBORNO DE ÁRBITROS, PERITOS U OTRAS PERSONAS CON FUNCIÓN PÚBLICA
+ *//SOBORNO DE ÁRBITROS, PERITOS U OTRAS PERSONAS CON FUNCIÓN PÚBLICA
 
  ARTICULO 441. Lo dispuesto en los dos artículos precedentes es aplicable a los árbitros,
 peritos o cualesquiera personas que desempeñaren, ocasional o permanentemente, una
 función o cargo públicos.
 
- COHECHO ACTIVO
+ *//COHECHO ACTIVO
 
  ARTICULO 442. Quienes, con dádivas, presentes, ofrecimientos o promesas intentaren
 cohechar o cohechasen a los funcionarios o empleados públicos, serán sancionados con
 las mismas penas que correspondieren a los sobornados.
 
- ACEPTACIÓN ILÍCITA DE REGALOS
+ *//ACEPTACIÓN ILÍCITA DE REGALOS
 
  ARTICULO 443. El funcionario o empleado público que aceptare dádivas, presentes,
 ofrecimientos o promesas de personas que tuvieren algún asunto pendiente ante él, será
 sancionado con multa de cien a tres mil quetzales.
 
- INHABILITACIÓN ESPECIAL
+ *//INHABILITACIÓN ESPECIAL
 
  ARTICULO 444. Además de las sanciones señaladas en los artículos 439, 440 y 441,
 para los sobornados, se aplicará a éstos la pena accesoria de inhabilitación especial por
@@ -5152,7 +5152,7 @@ doble tiempo de la pena privativa de libertad.
  CAPITULO IV
  DE LOS DELITOS DE PECULADO Y MALVERSACION
 
- PECULADO
+ *//PECULADO
 
  ARTICULO 445. El funcionario o empleado público que sustrajere o consintiere que otro
 sustraiga dinero o efectos públicos que tenga a su cargo, por razón de sus funciones, será
@@ -5161,14 +5161,14 @@ sancionado con prisión de tres a diez años y multa de quinientos a cinco mil q
  Igual sanción se aplicará al funcionario o empleado público que utilizare, en provecho
 propio, trabajo o servicios pagados con fondos públicos.
 
- PECULADO CULPOSO
+ *//PECULADO CULPOSO
 
  ARTICULO 446. El funcionario o empleado público que, por negligencia o falta de celo,
 diere ocasión a que se realizare, por otra persona, la sustracción de dinero o efectos
 públicos de que trata el artículo precedente, será sancionado con multa de cien a un mil
 quetzales.
 
- MALVERSACIÓN
+ *//MALVERSACIÓN
 
  ARTICULO 447. El funcionario o empleado público que diere a los caudales o efectos
 que administrare una aplicación diferente de aquella a que estuvieren destinados, será
@@ -5178,7 +5178,7 @@ sancionado con multa de cien a un mil quetzales.
 resultare daño o entorpecimiento del servicio a que los caudales o efectos estuvieren
 consignados.
 
- INCUMPLIMIENTO DE PAGO
+ *//INCUMPLIMIENTO DE PAGO
 
  ARTICULO 448. El funcionario o empleado público que, teniendo fondos expeditos,
 demorare injustificadamente un pago ordinario u ordenado por autoridad competente, será
@@ -5191,7 +5191,7 @@ administración.
  CAPITULO V
  DE LAS NEGOCIACIONES ILICITAS
 
- CONCUSIÓN
+ *//CONCUSIÓN
 
  ARTICULO 449. Comete el delito de concusión:
 
@@ -5207,7 +5207,7 @@ pronunciarse ante la misma.
  Los responsables serán sancionados con prisión de uno a tres años y multa de
 trescientos a tres mil quetzales.
 
- FRAUDE
+ *//FRAUDE
 
  ARTICULO 450. El funcionario o empleado público que, interviniendo por razón de su
 cargo en alguna comisión de suministros, contratos, ajustes o liquidaciones de efectos de
@@ -5215,7 +5215,7 @@ haberes públicos, se concertare con los interesados o especuladores, o usare de
 cualquier otro artificio para defraudar al Estado, será sancionado con prisión de uno a
 cuatro años.
 
- EXACCIONES ILEGALES
+ *//EXACCIONES ILEGALES
 
  ARTICULO 451. El funcionario o empleado público que exigiere contribución, impuesto,
 tasa o arbitrio ilegales o mayores de los que correspondan, será sancionado con prisión
@@ -5225,7 +5225,7 @@ de seis meses a dos años y multa de cincuenta a trescientos quetzales.
 producto de las exacciones expresadas en el párrafo que precede, las sanciones
 señaladas se aumentarán al doble.
 
- COBRO INDEBIDO
+ *//COBRO INDEBIDO
 
  ARTICULO 452. El funcionario o empleado público que autorice recibos o comprobantes
 ficticios o quien los cobrare, será sancionado con prisión de uno a tres años y multa de
@@ -5237,7 +5237,7 @@ trescientos a tres mil quetzales.
  CAPITULO I
  DE LOS DELITOS CONTRA LA ACTIVIDAD JUDICIAL
 
- ACUSACIÓN Y DENUNCIA FALSAS
+ *//ACUSACIÓN Y DENUNCIA FALSAS
 
  ARTICULO 453. Quien imputare falsamente a alguna persona hechos que, si fueran
 ciertos, constituirían delito de los que dan lugar a procedimiento de oficio, si esta
@@ -5249,27 +5249,27 @@ seis años.
 sobreseimiento o sentencia absolutoria respectivos, se haya declarado calumniosa la
 acusación o denuncia.
 
- SIMULACIÓN DE DELITO
+ *//SIMULACIÓN DE DELITO
 
  ARTICULO 454. Quien falsamente afirme ante funcionario administrativo o judicial que se
 ha cometido un delito de los que dan lugar a procedimiento de oficio, o simulare la
 existencia de pruebas materiales con el fin de inducir a la instrucción de un proceso, será
 sancionado con prisión de seis meses a dos años.
 
- FALSA ACUSACIÓN POR DELITO PRIVADO
+ *//FALSA ACUSACIÓN POR DELITO PRIVADO
 
  ARTICULO 455. Las disposiciones de los dos artículos precedentes son aplicables,
 también, a la acusación o denuncia de delitos que no pueden perseguirse de oficio,
 cuando sean hechas por las personas a quienes la ley reconoce el derecho de
 formularlas.
 
- AUTOIMPUTACIÓN
+ *//AUTOIMPUTACIÓN
 
  ARTICULO 456. Quien, mediante declaración ante autoridad competente, se atribuyere a
 sí mismo un delito que no hubiere cometido o que hubiere perpetuado otra persona, será
 sancionado con multa de cien a un mil quetzales.
 
- OMISIÓN DE DENUNCIA
+ *//OMISIÓN DE DENUNCIA
 
  ARTICULO 457. El funcionario o empleado público que, por razón de su cargo, tuviere
 conocimiento de la comisión de un hecho calificado como delito de acción pública y, a
@@ -5279,7 +5279,7 @@ competente, será sancionado con multa de cien a un mil quetzales.
  En igual sanción incurrirá el particular que, estando legalmente obligado, dejare de
 denunciar.
 
- COLUSIÓN
+ *//COLUSIÓN
 
  ARTICULO 458. Quien, mediante pacto colusorio o empleando cualquier otra forma
 ilícita, evite la citación o comparecencia a juicio de tercero o provoque resoluciones que
@@ -5293,7 +5293,7 @@ respectivas.
  CAPITULO II
  DEL PERJURIO Y FALSO TESTIMONIO
 
- PERJURIO
+ *//PERJURIO
 
  ARTICULO 459. Comete perjurio quien, ante autoridad competente, jurare decir la verdad
 y faltare a ella con malicia.
@@ -5301,7 +5301,7 @@ y faltare a ella con malicia.
  El responsable de este delito será sancionado con prisión de seis meses a tres años y
 multa de cincuenta a un mil quetzales.
 
- FALSO TESTIMONIO
+ *//FALSO TESTIMONIO
 
  ARTICULO 460. Comete falso testimonio, el testigo, intérprete traductor o perito que en
 su declaración o dictamen ante autoridad competente o notario, afirmare una falsedad, se
@@ -5316,7 +5316,7 @@ sancionado con prisión de dos a seis años y multa de doscientos a dos mil quet
  Las sanciones señaladas se aumentarán en una tercera parte si el falso testimonio fuere
 cometido mediante soborno.
 
- PRESENTACIÓN DE TESTIGOS FALSOS
+ *//PRESENTACIÓN DE TESTIGOS FALSOS
 
  ARTICULO 461. Quien, a sabiendas, presentare testigos falsos en asunto judicial o
 administrativo o ante notario, será sancionado con prisión de seis meses a dos años y
@@ -5328,7 +5328,7 @@ la misma pena que correspondiere a los sobornados.
  CAPITULO III
  DE LA PREVARICACION
 
- PREVARICATO
+ *//PREVARICATO
 
  ARTICULO 462. El juez que, a sabiendas, dictare resoluciones contrarias a la ley o las
 fundare en hechos falsos, será sancionado con prisión de dos a seis años.
@@ -5336,32 +5336,32 @@ fundare en hechos falsos, será sancionado con prisión de dos a seis años.
  Si la resolución dictada consistiere en sentencia condenatoria en proceso penal, la
 sanción será de tres a diez años.
 
- PREVARICATO CULPOSO
+ *//PREVARICATO CULPOSO
 
  ARTICULO 463. El juez que por negligencia o ignorancia inexcusables, dictare
 resoluciones contrarias a la ley o las fundare en hechos falsos, será sancionado con multa
 de cien a un mil quetzales e inhabilitación especial de uno a dos años.
 
- PREVARICATO DE ÁRBITROS
+ *//PREVARICATO DE ÁRBITROS
 
  ARTICULO 464. Lo dispuesto en el párrafo primero del Artículo 462 y en el artículo
 anterior, será aplicable, en sus respectivos casos, a los árbitros.
 
- PATROCINIO INFIEL
+ *//PATROCINIO INFIEL
 
  ARTICULO 465. El abogado o mandatario judicial que, de cualquier modo, perjudicare
 deliberadamente los intereses que le estuvieren confiados, será sancionado, siempre que
 el hecho no constituyere un delito más grave, con prisión de uno a tres años e
 inhabilitación especial por doble tiempo de la condena.
 
- DOBLE REPRESENTACIÓN
+ *//DOBLE REPRESENTACIÓN
 
  ARTICULO 466. El abogado o mandatario judicial que habiendo tomado la defensa,
 dirección o procuración de una parte, representare después a la contraria en el mismo
 asunto, lo auxiliare o aconsejare, será sancionado con multa de doscientos a dos mil
 quetzales e inhabilitación especial de uno a dos años.
 
- PREVARICATO DE REPRESENTANTES DEL MINISTERIO PÚBLICO
+ *//PREVARICATO DE REPRESENTANTES DEL MINISTERIO PÚBLICO
 
  ARTICULO 467. Lo dispuesto en los dos artículos precedentes se aplicará, en los
 respectivos casos, a funcionarios o representantes del Ministerio Público.
@@ -5369,13 +5369,13 @@ respectivos casos, a funcionarios o representantes del Ministerio Público.
  CAPITULO IV
  DE LA DENEGACION Y RETARDO DE JUSTICIA
 
- RETARDO MALICIOSO
+ *//RETARDO MALICIOSO
 
  ARTICULO 468. El juez que no diere curso a una solicitud presentada legalmente o que
 retardare, maliciosamente, la administración de justicia, será sancionado con multa de
 cien a dos mil quetzales e inhabilitación especial de uno a dos años.
 
- DENEGACIÓN DE JUSTICIA
+ *//DENEGACIÓN DE JUSTICIA
 
  ARTICULO 469. El juez, el representante del Ministerio Público o el funcionario, autoridad
 o agente de ésta que, faltando a la obligación de su cargo, dejare maliciosamente de
@@ -5388,14 +5388,14 @@ oscuridad, insuficiencia o silencio de la ley.
  CAPITULO V
  DEL QUEBRANTAMIENTO DE CONDENA Y EVASION DE PRESOS
 
- EVASIÓN
+ *//EVASIÓN
 
  ARTICULO 470. Quien, hallándose detenido o condenado, se evadiera, será sancionado
 con prisión de cinco a quince años y multa de veinticinco mil a cincuenta mil quetzales.
 
  Si el hecho se hubiere cometido utilizando violencia, la sanción se aumentará al doble.
 
- COOPERACIÓN EN LA EVASIÓN
+ *//COOPERACIÓN EN LA EVASIÓN
 
  ARTICULO 471. Quien procurare o favoreciere la evasión de una persona detenida o
 condenada por delito, será sancionada con prisión de tres a doce años y multa de
@@ -5405,13 +5405,13 @@ veinticinco mil a cincuenta mil quetzales.
 guarda del evadido, o si el hecho se hubiere cometido empleando violencia, la sanción se
 aumentará al doble.
 
- EVASIÓN CULPOSA
+ *//EVASIÓN CULPOSA
 
  ARTICULO 472. El funcionario o empleado público encargado directamente de la
 custodia o guarda de persona detenida o condenada por delito, que culposamente diere
 ocasión para que se fugue, será sancionado con prisión de tres a doce años.
 
- MOTÍN DE PRESOS
+ *//MOTÍN DE PRESOS
 
  ARTICULO 473. Los detenidos o condenados que se amotinaren, perturbando el orden o
 la disciplina de los establecimientos penales, serán sancionados con prisión de uno a tres
@@ -5423,7 +5423,7 @@ aumentada en una tercera parte.
  CAPITULO VI
  DEL ENCUBRIMIENTO
 
- ENCUBRIMIENTO PROPIO
+ *//ENCUBRIMIENTO PROPIO
 
  ARTICULO 474. Es responsable de encubrimiento propio, quien sin concierto,
 connivencia o acuerdo previos con los autores o cómplices del delito pero con
@@ -5444,7 +5444,7 @@ en cualquier forma, objetos, efectos, instrumentos, pruebas o rastros de delito.
  Los responsables del delito de encubrimiento serán sancionados con prisión de dos
 meses a tres años.
 
- ENCUBRIMIENTO IMPROPIO
+ *//ENCUBRIMIENTO IMPROPIO
 
  ARTICULO 475. Es responsable del delito de encubrimiento impropio quien:
 
@@ -5465,7 +5465,7 @@ sancionará con multa de cincuenta a un mil quetzales.
 tráfico habitual con los mismos, ya sean nuevos o usados, la sanción será de seis meses
 a dos años y multa de cien a dos mil quetzales.
 
- EXENCIÓN DE PENA
+ *//EXENCIÓN DE PENA
 
  ARTICULO 476. Están exentos de pena, quienes hubieren cometido delito de
 encubrimiento en favor de pariente dentro de los grados de ley, cónyuge, concubinario o
@@ -5477,18 +5477,18 @@ aprovechar de los efectos del delito.
 
  CAPITULO UNICO
 
- JUEGOS ILÍCITOS
+ *//JUEGOS ILÍCITOS
 
  ARTICULO 477. Los banqueros, administradores, empresarios, gerentes o demás
 personas encargadas y los dueños de casas de juegos de suerte, envite o azar, serán
 sancionados con prisión de uno a cinco años y multa de un mil a diez mil quetzales.
 
- ASISTENCIA
+ *//ASISTENCIA
 
  ARTICULO 478. Las personas que concurrieren a las casas de juegos de suerte, envite o
 azar, serán sancionados con multa de doscientos a dos mil quetzales.
 
- LOTERÍAS Y RIFAS ILÍCITAS
+ *//LOTERÍAS Y RIFAS ILÍCITAS
 
  ARTICULO 479. Los empresarios y expendedores de billetes de loterías o rifas, no
 autorizados legalmente, serán sancionados con multa de cincuenta a un mil quetzales.
