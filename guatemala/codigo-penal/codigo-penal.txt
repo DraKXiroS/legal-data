@@ -126,7 +126,7 @@ determinada conducta.
  ARTICULO 11. El delito es doloso, cuando el resultado ha sido previsto o cuando, sin
 perseguir ese resultado, el autor se lo representa como posible y ejecuta el acto.
 
-  *//VDELITO CULPOSO
+  *//DELITO CULPOSO
 
  ARTICULO 12. El delito es culposo cuando con ocasión de acciones u omisiones lícitas,
 se causa un mal por imprudencia, negligencia o impericia.
