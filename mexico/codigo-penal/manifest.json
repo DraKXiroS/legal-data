@@ -1,0 +1,13 @@
+{
+  "id": "mx.codigo_penal",
+  "name": "Código Penal - México",
+  "country": "MX",
+  "language": "es",
+  "version": "2026.1.0",
+  "format": "txt",
+  "encoding": "UTF-8",
+  "content": "codigo-penal.txt",
+  "updatedAt": "2026-10-05",
+  "isTestData": true,
+  "source": "Contenido mínimo de prueba; verificar fuente oficial antes de uso jurídico."
+}

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "country": "GT",
+  "country": "GT, MX, CR",
   "language": "es",
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-10-05",
   "packages": [
     {
       "id": "gt.codigo_penal",
@@ -27,6 +27,18 @@
       "name": "Constitucion Politica De Guatemala",
       "version": "2026.1.1",
       "manifest": "guatemala/constitucion-politica/manifest.json"
+    },
+    {
+      "id": "mx.codigo_penal",
+      "name": "Código Penal - México",
+      "version": "2026.1.0",
+      "manifest": "mexico/codigo-penal/manifest.json"
+    },
+    {
+      "id": "cr.codigo_penal",
+      "name": "Código Penal - Costa Rica",
+      "version": "2026.1.0",
+      "manifest": "costa-rica/codigo-penal/manifest.json"
     }
   ]
 }

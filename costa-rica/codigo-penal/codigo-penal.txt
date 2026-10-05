@@ -1,0 +1,9 @@
+Código Penal de prueba - Costa Rica
+
+Este archivo es un texto de prueba para validar que la biblioteca detecte nuevos textos legales en la carpeta de Costa Rica.
+
+Artículo 1.
+La presente prueba se usa únicamente para validar la estructura del catálogo y la detección automática de archivos TXT.
+
+Artículo 2.
+La información aquí contenida no sustituye una fuente legal oficial y debe verificarse antes de cualquier uso jurídico.
